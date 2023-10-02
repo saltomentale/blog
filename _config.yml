@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://saltomentale.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 logo: "/assets/media/logo.png" # path of site logo, e.g. "/assets/images/logo.png"
-date_format: "%d %M %Y"
+date_format: "%d/%m/%Y"
 permalink: /:title/
 read_time: true
 words_per_minute: 200
