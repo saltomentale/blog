@@ -5,6 +5,6 @@
 - title: Chi sono
   url: /pages/contatti
 - title: Search
-  url: /pages/search/
+  url: /pages/search
 - title: RSS
-  url: /atom.xml/
+  url: /atom.xml
