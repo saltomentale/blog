@@ -53,7 +53,7 @@ liquid:
 # Build settings
 markdown: kramdown
 feed:
-  path: atom.xml
+  path: feed
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 12
@@ -126,5 +126,5 @@ footer_links:
     url: https://twitter.com/SaltomentaleIt
     icon: fab fa-twitter-square
   - title: Feed
-    url: atom.xml
+    url: feed
     icon: fas fa-rss-square
