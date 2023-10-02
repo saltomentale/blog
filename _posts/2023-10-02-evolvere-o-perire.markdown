@@ -3,7 +3,7 @@ author: SaltoMentale
 layout: post
 comments: true
 
-date: 2023-10-02 15:00:00+00:00
+date: 2023-10-02 16:55:00+02:00
 excerpt: "Il miglioramento procede per cicli: prima esplori ed aggiungi, poi riduci e consolidi."
 
 slug: evolvere-o-perire
