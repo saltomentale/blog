@@ -15,6 +15,7 @@ image:
   thumbnail: /assets/media/la-mappa-non-è-il-territorio-featured-1.jpg
 ---
 
+
 > Una scarsa consapevolezza della realtà provoca frequenti frustrazioni. Crediamo che il mondo funzioni in un certo modo, ma evidentemente esso la pensa in modo diverso.
 
 ![La mappa non è il territorio - schema concettuale](/assets/media/La-mappa-non-e-il-territorio-1.png)
