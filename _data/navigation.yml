@@ -4,7 +4,7 @@
   url: /categories
 - title: Chi sono
   url: /pages/contatti
-- title: Search
+- title: Cerca
   url: /pages/search
 - title: RSS
-  url: /feed
+  url: /feed/index.xml

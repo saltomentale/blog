@@ -127,5 +127,5 @@ footer_links:
     url: https://twitter.com/SaltomentaleIt
     icon: fab fa-twitter-square
   - title: Feed
-    url: feed
+    url: feed/index.xml
     icon: fas fa-rss-square
