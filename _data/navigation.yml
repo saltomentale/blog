@@ -1,0 +1,10 @@
+- title: Home
+  url: /
+- title: Argomenti
+  url: /categories
+- title: Chi sono
+  url: /pages/contatti
+- title: Search
+  url: /pages/search/
+- title: RSS
+  url: /atom.xml/
