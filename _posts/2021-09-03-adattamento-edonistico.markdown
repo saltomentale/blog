@@ -17,7 +17,7 @@ image:
   thumbnail: /assets/media/adattamento-edonistico-copertina.jpeg
 ---
 
-![](/assets/media/Adattamento-edonistico-–-1.png)
+![]({{site.baseurl}}/assets/media/Adattamento-edonistico-–-1.png)
 
 Figlia mia,
 
@@ -31,7 +31,7 @@ Il fatto è che noi tutti facciamo alcune scelte tenendo in mente solo il piacer
 
 Il piacere che traiamo da un nuovo acquisto, ad esempio, varia nel tempo. Finché si tratta di una novità, il piacere sarà molto grande. Man mano che ci abituiamo al nuovo acquisto il piacere decresce fino a stabilizzarsi nei pressi di dove era partito. Ecco un _grafico_ che mostra il fenomeno, immagino sia il sogno di ogni bambina della tua età:
 
-![](/assets/media/Adattamento-edonistico.png)
+![]({{site.baseurl}}/assets/media/Adattamento-edonistico.png)
 
 Il piacere di lungo periodo dipende da fattori molto diversi rispetto al piacere iniziale.
 
@@ -68,7 +68,7 @@ Mazzi rata finale da 14.000€.
 
 Ecco il grafico del piacere provato.
 
-![](/assets/media/Nuova-macchina.png)
+![]({{site.baseurl}}/assets/media/Nuova-macchina.png)
 
 ### Perché conoscere l’adattamento edonistico è importante?
 

@@ -55,7 +55,7 @@ Svelato l’arcano chiudo la parentesi nerd.
 
 Come l’iceberg, anche la conoscenza ci nasconde un segreto. Possiamo essere maestri della pratica e fini conoscitori della teoria, ma solo facendo esperienza diretta e prolungata di qualcosa possiamo capirne davvero l’essenza. Ecco il terzo e di gran lunga più profondo livello del sapere: **l’esperienza diretta**.
 
-![](/assets/media/Tipi-di-sapere.png)
+![]({{site.baseurl}}/assets/media/Tipi-di-sapere.png)
 
 Nulla può prepararci a qualcosa d’importante, a meno di viverlo in prima persona. Ciò rende gli altri livelli di conoscenza utili ma non sufficienti. Solo vivendo qualcosa sai davvero di cosa si tratta.
 

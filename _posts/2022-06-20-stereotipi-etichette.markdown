@@ -43,7 +43,7 @@ Il meteo però è avverso e nuvole nere si stanno accumulando sopra di noi. “V
 
 Fermo l’altalena e faccio scendere mia figlia. “Andiamo a casa prima di bagnarci”.
 
-![Etichette e stereotipi - Altalena bagnata in un parco](/assets/media/Etichette-e-stereotipi-Altalena-bagnata.jpg)Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Etichette e stereotipi - Altalena bagnata in un parco]({{site.baseurl}}/assets/media/Etichette-e-stereotipi-Altalena-bagnata.jpg)Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Lei percepisce l’urgenza abbandonando subito i giochi, mi prende per mano ed iniziamo a camminare.
 
@@ -104,7 +104,7 @@ Fortunatamente sono riuscito a prendere per tempo questa trasformazione e correr
 
 Il fatto di non essermene reso conto finora, però, mi spinge ad essere ancora più attento alle mie azioni. Mi fa capire l’importanza che le nostre parole, e soprattutto le nostre azioni, hanno nei confronti dei figli.
 
-![Etichette e stereotipi - Bambini che fanno i compiti a scuola](/assets/media/Etichette-e-stereotipi-Scuola.jpg)Occasioni per beccarci etichette e stereotipi superficiali ne abbiamo in abbondanza. Foto di [CDC](https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Etichette e stereotipi - Bambini che fanno i compiti a scuola]({{site.baseurl}}/assets/media/Etichette-e-stereotipi-Scuola.jpg)Occasioni per beccarci etichette e stereotipi superficiali ne abbiamo in abbondanza. Foto di [CDC](https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## L’effetto delle etichette e degli stereotipi
 
@@ -160,7 +160,7 @@ La differenza che faremo sarà piccola, ma magari sarà la goccia fondamentale p
 
 O magari no. Ma questo non è una scusa valida per comportarci in maniera superficiale nei confronti degli altri.
 
-![Etichette e stereotipi - Adulto con ombrello che protegge bambino dalla pioggia](/assets/media/Etichette-e-stereotipi-Fratellanza.jpg)Foto di [J W](https://unsplash.com/@bakutroo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Etichette e stereotipi - Adulto con ombrello che protegge bambino dalla pioggia]({{site.baseurl}}/assets/media/Etichette-e-stereotipi-Fratellanza.jpg)Foto di [J W](https://unsplash.com/@bakutroo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ---
 

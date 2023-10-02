@@ -29,17 +29,17 @@ Che mi sono fumato? È solo che pensavo che anche noi siamo sottoposti alla stes
 
 Un’auto che corre sulla strada è sottoposta a diverse forze. Eccone uno schema:
 
-![](/assets/media/Fermare-unauto-in-corsa.png)
+![]({{site.baseurl}}/assets/media/Fermare-unauto-in-corsa.png)
 
 Possiamo fermare l’auto in modo controllato tramite l’attrito, regolandolo tramite i freni che agiscono sulle ruote e rallentano il veicolo.
 
 Se l’auto venisse lanciata nello spazio, non sarebbe sottoposta ad alcun attrito nè propulsione ed il suo moto rimarrebbe stabile, sempre alla stessa velocità e nella stessa direzione. Campi gravitazionali o oggetti vaganti potrebbero deviarne la rotta o addirittura fermarla di malo modo distruggendola.
 
-![](/assets/media/see-the-tesla-roadster-in-space-from-all-angles.jpeg)Non ditemi che non avete sentito di [questa cosa qui](https://www.ilpost.it/2018/02/08/orbita-tesla-roadster-spazio/). (Immagine di SpaceX)
+![]({{site.baseurl}}/assets/media/see-the-tesla-roadster-in-space-from-all-angles.jpeg)Non ditemi che non avete sentito di [questa cosa qui](https://www.ilpost.it/2018/02/08/orbita-tesla-roadster-spazio/). (Immagine di SpaceX)
 
 Come ti dicevo, per gli esseri umani vale lo stesso principio. Eccone gli effetti:
 
-![](/assets/media/Fermare-unauto-in-corsa-–-1.png)
+![]({{site.baseurl}}/assets/media/Fermare-unauto-in-corsa-–-1.png)
 
 Le forze che ci spingono in certe direzioni sono a volte subdole, come il [contesto sociale](/il-giusto-lo-sbagliato-ed-il-contesto-sociale/), le [abitudini](/decisioni-e-abitudini/) o le aspettative, mentre altre volte sono più esplicite, come nel caso di incentivi materiali.
 

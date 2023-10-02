@@ -20,7 +20,7 @@ image:
 > Pensiamo che per risolvere i grandi problemi della vita sia necessario un colpo di genio. Spesso, invece, basta evitare di remare contro.
 
 
-![](/assets/media/Gli-incredibili-benefici-di-non-tirarci-la-zappa-sui-piedi.png)
+![]({{site.baseurl}}/assets/media/Gli-incredibili-benefici-di-non-tirarci-la-zappa-sui-piedi.png)
 
 Ci capita di combattere con lo stesso problema per mesi o anni, tanto da convincerci che sia impossibile venirne a capo. Alle volte basta guardare al problema da una prospettiva diversa per trovare strade alternative per risolverlo.
 

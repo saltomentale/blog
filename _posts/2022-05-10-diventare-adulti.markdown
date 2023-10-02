@@ -29,7 +29,7 @@ Lo sono diventato anche io quando ho deciso che volevo costruire una famiglia, r
 **A 60 anni si può non essere ancora adulti.**  
 Basta seguire una via, poi un’altra. Cercare [la felicità in un’auto nuova](/stai-regalandoti-carbone/) o in una nuova avventura, imitando qualcun altro. Basta non conoscere se stessi, non decidere, non essere disposti a sacrificarsi. Tenere tutte le porte aperte e non attraversarne nessuna. Io ero così, so come si fa.
 
-![](/assets/media/Diventare-adulti-Porta.jpeg)Una porta. Evocativo, eh? Foto di [Jan Tinneberg](https://unsplash.com/@craft_ear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{site.baseurl}}/assets/media/Diventare-adulti-Porta.jpeg)Una porta. Evocativo, eh? Foto di [Jan Tinneberg](https://unsplash.com/@craft_ear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Che cosa significa diventare adulti
 
@@ -53,7 +53,7 @@ In vecchiaia guardiamo indietro al percorso fatto, qualsiasi esso sia e qualsias
 
 Ecco le varie fasi con una metafora, quella dell’arciere.
 
-![](/assets/media/Diventare-adulti-Traiettoria-della-vita.jpg)
+![]({{site.baseurl}}/assets/media/Diventare-adulti-Traiettoria-della-vita.jpg)
 
 Non ci sono vincoli d’età né di durata. L’unica fase che richiede un certo tempo è l’infanzia, tempo necessario per la maturazione del nostro corpo e della nostra psiche. Le altre fasi potrebbero durare mesi come decenni. Si può restare eterni adolescenti come si può diventare _vecchi saggi_ a 16 anni, dipende da tanti fattori e dagli eventi.
 
@@ -89,7 +89,7 @@ L’unico dubbio che non ho è che, una volta presa questa strada, ce la metter�
 
 È un sentiero a senso unico quello tra le varie fasi della vita. Diventati adulti lo si rimane e si lavora per passare alla fase successiva, se si riesce.
 
-![](/assets/media/Diventare-adulti-Anziano.jpeg)Eh, vecchio felice, se sapessimo il tuo segreto… [non lo applicheremmo](/non-esistono-segreti/). Tipico.  
+![]({{site.baseurl}}/assets/media/Diventare-adulti-Anziano.jpeg)Eh, vecchio felice, se sapessimo il tuo segreto… [non lo applicheremmo](/non-esistono-segreti/). Tipico.  
 Foto di [AJ](https://unsplash.com/@alaistair?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## La vecchiaia

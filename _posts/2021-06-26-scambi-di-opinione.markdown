@@ -20,7 +20,7 @@ image:
 > Esprimere una opinione comporta il dovere di argomentarla.
 
 
-![](/assets/media/Scambi-dopinione.png)
+![]({{site.baseurl}}/assets/media/Scambi-dopinione.png)
 
 Ciao piccola mia,
 

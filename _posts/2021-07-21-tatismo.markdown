@@ -20,7 +20,7 @@ image:
 > Le responsabilità altrui non ci devono rendere ciechi verso quello che possiamo fare noi.
 
 
-![](/assets/media/Tatismo.png)
+![]({{site.baseurl}}/assets/media/Tatismo.png)
 
     <code>NOTA: Ho riscritto questo articolo il 21 luglio 2021.</code>
 

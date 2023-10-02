@@ -17,7 +17,7 @@ image:
   thumbnail: /assets/media/La-distribuzione-dei-rompiscatole-Copertina.jpeg
 ---
 
-![](/assets/media/La-distribuzione-dei-rompiscatole.png)
+![]({{site.baseurl}}/assets/media/La-distribuzione-dei-rompiscatole.png)
 
 Figlia mia,
 
@@ -39,7 +39,7 @@ Ora guardiamo alla ricchezza. [Il patrimonio medio mondiale è di circa 80.000$ 
 
 La ricchezza non segue una distribuzione normale, ma una [distribuzione di Pareto](https://it.wikipedia.org/wiki/Legge_di_potenza), detta anche “legge di potenza”. La forma delle due curve è molto diversa tra loro, te le disegno:
 
-![](/assets/media/unknown.png)
+![]({{site.baseurl}}/assets/media/unknown.png)
 
 ### Torniamo ai rompiscatole
 

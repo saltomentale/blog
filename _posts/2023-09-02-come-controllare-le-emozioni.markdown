@@ -38,7 +38,7 @@ Sarebbe bello avere il controllo delle nostre emozioni. Sarebbe utile per naviga
 
 Nonostante le emozioni siano un mare in tempesta, e noi solo piccole imbarcazioni, possiamo comunque imparare a gestire le vele, a governare la barca con abilità.
 
-![Una barca a vela](/assets/media/Barca-da-governare.jpg)Photo by Vidar [Nordli-Mathisen](https://unsplash.com/photos/zqgOkt7sQlY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Una barca a vela]({{site.baseurl}}/assets/media/Barca-da-governare.jpg)Photo by Vidar [Nordli-Mathisen](https://unsplash.com/photos/zqgOkt7sQlY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Controllare le emozioni
 
@@ -56,7 +56,7 @@ Di tutta questa catena c'è solo un elemento che puoi cambiare con facilità: le
 
 Il potere delle storie.
 
-![](/assets/media/Scegliere-le-storie-giuste.png)Cambi la storia, cambia tutto.
+![]({{site.baseurl}}/assets/media/Scegliere-le-storie-giuste.png)Cambi la storia, cambia tutto.
 
 È una lotta, lo ammetto, e contro un avversario temibile. Per questo hai bisogno di una strategia e delle migliori armi.
 

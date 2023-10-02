@@ -21,7 +21,7 @@ image:
 > La nostra cultura ci spinge a vedere le routine come qualcosa di negativo o triste. Ma queste sono l’ancora che ci evita l’infinito stress del dover decidere in continuazione.
 
 
-![Decisioni e abitudini - Schema concettuale](/assets/media/Decisioni-e-abitudini-1.png)
+![Decisioni e abitudini - Schema concettuale]({{site.baseurl}}/assets/media/Decisioni-e-abitudini-1.png)
 
 Voglio una vita spericolata, piena di novità, in cui ogni giorno è diverso dall’altro. Ma l’essere umano non si è evoluto in modo compatibile a questo ideale di vita.
 

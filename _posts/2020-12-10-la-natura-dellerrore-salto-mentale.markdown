@@ -18,7 +18,7 @@ image:
 > Chiunque può sbagliare, ma nessuno, se non è uno sciocco, persevera nell’errore.
 > — Marco Tullio Cicerone
 
-![La natura dell’errore - Concetto](/assets/media/La-natura-dellerrore-1.png)
+![La natura dell’errore - Concetto]({{site.baseurl}}/assets/media/La-natura-dellerrore-1.png)
 
 Saper individuare e correggere gli errori è una delle facoltà più importanti su cui possiamo lavorare. La mentalità propensa alla crescita che ne deriva ci permette di migliorarci continuamente e di avere un impatto sempre più grande man mano che miglioriamo.
 

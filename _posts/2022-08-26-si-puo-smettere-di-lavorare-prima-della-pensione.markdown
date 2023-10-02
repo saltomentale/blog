@@ -29,7 +29,7 @@ Solo allora avrai pensione e riposo.
 
 Per una decina d’anni, s’intende, poi dovrai fare spazio.
 
-![Percorso dalla nascita alla pensione senza smettere di lavorare](/assets/media/Percorso-dalla-nascita-alla-pensione-senza-smettere-di-lavorare.png)
+![Percorso dalla nascita alla pensione senza smettere di lavorare]({{site.baseurl}}/assets/media/Percorso-dalla-nascita-alla-pensione-senza-smettere-di-lavorare.png)
 
 Ed è un percorso ottimistico: presuppone di avere le risorse per frequentare l’università, la fortuna di trovare sempre un buon lavoro e di non ammalarsi lungo il percorso… E poi di arrivare in discreta salute alla pensione per godersela un poco.
 
@@ -60,7 +60,7 @@ Il meccanismo alla base è davvero semplice.
 
 Questi sono i flussi di denaro di una famiglia qualsiasi:
 
-![Si può smettere di lavorare prima della pensione – Mappa gestione finanze](/assets/media/Si-può-smettere-di-lavorare-prima-della-pensione-–-Mappa-gestione-finanze-1.png)
+![Si può smettere di lavorare prima della pensione – Mappa gestione finanze]({{site.baseurl}}/assets/media/Si-può-smettere-di-lavorare-prima-della-pensione-–-Mappa-gestione-finanze-1.png)
 
 Ci sono due cicli che si rafforzano da soli.
 
@@ -86,7 +86,7 @@ Al primo anno preleviamo il 4% del capitale: 20’000€.
 Ad ogni anno successivo preleviamo 20’000€, aggiornati con l’inflazione.  
 Se avremo scelto bene il SWR arriveremo alla fine del percorso senza troppe angosce ed essendoci goduti al meglio le nostre risorse.
 
-![Safe Withdrawal Rate - Smettere di lavorare e vivere di rendita fino alla pensione](/assets/media/Safe-Withdrawal-Rate-Smettere-di-lavorare-e-vivere-di-rendita-fino-alla-pensione.png)
+![Safe Withdrawal Rate - Smettere di lavorare e vivere di rendita fino alla pensione]({{site.baseurl}}/assets/media/Safe-Withdrawal-Rate-Smettere-di-lavorare-e-vivere-di-rendita-fino-alla-pensione.png)
 
 > Nota: Questo non è l’unico metodo per vivere della rendita di un capitale fisso, né è il migliore, ma per i nostri scopi può andare bene. È semplice e ci dà un’idea grossolana di quanto denaro ci serve. Trovi risorse aggiuntive negli approfondimenti!
 
@@ -111,7 +111,7 @@ Anche le sue spese sono di 1’500€ mensili. È uno cauto, Tizio, lì dentro c
 
 Tizio dovrà vivere di rendita per i 15 anni tra i 52 attuali ed i 67 della pensione.
 
-![Smettere di lavorare ed aspettare la pensione - deaccumulo tra i 52 anni e la pensione](/assets/media/Smettere-di-lavorare-ed-aspettare-la-pensione-deaccumulo-tra-i-52-anni-e-la-pensione.png)
+![Smettere di lavorare ed aspettare la pensione - deaccumulo tra i 52 anni e la pensione]({{site.baseurl}}/assets/media/Smettere-di-lavorare-ed-aspettare-la-pensione-deaccumulo-tra-i-52-anni-e-la-pensione.png)
 
 Quanto gli serve per potersi ritirare in tranquillità?
 
@@ -159,7 +159,7 @@ Infine, applica la formula che abbiamo visto prima:
 
 Le cifre restano elevate? A questo punto ho una notizia buona ed una cattiva. Quale vuoi prima? La cattiva, chiaro.
 
-![Non esistono scorciatoie per vivere di rendita - sentiero nella foresta](/assets/media/Non-esistono-scorciatoie-per-vivere-di-rendita-sentiero-nella-foresta.jpg)Foto di [Ugne Vasyliute](https://unsplash.com/@ugnehenriko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Non esistono scorciatoie per vivere di rendita - sentiero nella foresta]({{site.baseurl}}/assets/media/Non-esistono-scorciatoie-per-vivere-di-rendita-sentiero-nella-foresta.jpg)Foto di [Ugne Vasyliute](https://unsplash.com/@ugnehenriko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Non esistono scorciatoie
 
@@ -197,7 +197,7 @@ Ed ora la buona notizia: non servono scorciatoie perché tanto eravamo comunque 
 
 Infatti, non abbiamo mai chiarito **cosa significa smettere di lavorare**. Forse non serve vivere di rendita, dopotutto.
 
-![Smettere di lavorare senza vivere di rendita - foto boscaiolo](/assets/media/Smettere-di-lavorare-senza-vivere-di-rendita-foto-boscaiolo.jpg)Foto di [Abby Savage](https://unsplash.com/@abbysavagecreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Smettere di lavorare senza vivere di rendita - foto boscaiolo]({{site.baseurl}}/assets/media/Smettere-di-lavorare-senza-vivere-di-rendita-foto-boscaiolo.jpg)Foto di [Abby Savage](https://unsplash.com/@abbysavagecreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Smettere di “lavorare” senza vivere di rendita
 

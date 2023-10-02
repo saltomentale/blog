@@ -42,7 +42,7 @@ Metti in vendita la tua auto _praticamente_ nuova… ed ottieni 15’000€.
 
 Il suo valore di mercato, il prezzo a cui qualcuno è disposto a pagarla, è sceso molto. Non è così per il suo valore ai tuoi occhi, giusto?
 
-![Discrepanza prezzo - valore: col tempo il valore del bene decresce progressivamente seguendo una funzione concava. Il prezzo, invece , varia seguendo una funzione convessa.](/assets/media/Discrepanza-prezzo-valore.png)Questo, grossomodo, è l’andamento del prezzo e del valore materiale di un’automobile. Notare la discrepanza.
+![Discrepanza prezzo - valore: col tempo il valore del bene decresce progressivamente seguendo una funzione concava. Il prezzo, invece , varia seguendo una funzione convessa.]({{site.baseurl}}/assets/media/Discrepanza-prezzo-valore.png)Questo, grossomodo, è l’andamento del prezzo e del valore materiale di un’automobile. Notare la discrepanza.
 
 Altro esempio classico è l’arredamento.
 
@@ -69,7 +69,7 @@ Tuttavia, lo stesso bene evolve nel tempo:
 - Sul piano dei servizi accessori (ad esempio ha meno garanzie)
 - Sul piano della comodità di accesso (ad esempio dobbiamo smontarlo e trasportarlo)
 
-![Componenti del valore di un bene - schema: il prezzo totale dipende dal valore materiale del bene e dal valore immateriale di voci come la garanzia, la comodità di acquisto e lo status sociale](/assets/media/Componenti-del-valore.png)
+![Componenti del valore di un bene - schema: il prezzo totale dipende dal valore materiale del bene e dal valore immateriale di voci come la garanzia, la comodità di acquisto e lo status sociale]({{site.baseurl}}/assets/media/Componenti-del-valore.png)
 
 Quando il bene si trasforma il mercato attorno ad esso cambia. Un piccolo cambiamento nel bene può comportare grandi differenze di mercato.
 

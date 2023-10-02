@@ -81,7 +81,7 @@ Il corpo umano è complesso. Pensare di manipolarlo ed imporgli il nostro volere
 - Ascoltare il proprio corpo e prendersene cura, senza diventare ipocondriaci!
 - Non interrompere la ripetizione (monotona) delle stesse attività da parte dei bambini: serve ad affinare le loro capacità, esserne infastiditi è l’unica cosa infantile.
 
-![](/assets/media/bimbo-seduto.jpeg)E va bene, immagino ci sia chi è più bravo di altri. Photo by [Edi Kurniawan](https://unsplash.com/@edikurniawan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{site.baseurl}}/assets/media/bimbo-seduto.jpeg)E va bene, immagino ci sia chi è più bravo di altri. Photo by [Edi Kurniawan](https://unsplash.com/@edikurniawan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## 5) Scherzi della memoria
 

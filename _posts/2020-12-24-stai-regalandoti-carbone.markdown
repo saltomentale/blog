@@ -21,7 +21,7 @@ image:
 Possiamo cambiare mentalità ed ottenere il meglio nel lungo periodo?
 
 
-![](/assets/media/Stai-regalandoti-carbone.png)
+![]({{site.baseurl}}/assets/media/Stai-regalandoti-carbone.png)
 
 Davanti ad una decisione manchiamo di vedere l’impatto che essa avrà su di noi nel lungo periodo. Magari ci troviamo davanti ad uno sfizio, una macchina nuova ad esempio, e pensiamo agli attori coinvolti nella decisione. Ci siamo ovviamente noi adesso e la voglia di guidare il bolide. Il concessionario, che vuole prendersi i nostri soldi, la banca che ce li deve prestare. E basta. Non un pensiero a voi stessi, che tra 5 anni vi ritrovate a dover estinguere il debito preso ed avete quel mostro assetato di benzina in garage, che ha perso gran parte del valore di mercato e pesa sulle vostre finanze.
 
@@ -65,7 +65,7 @@ Insomma, quel che voglio dire è, cosa credete che penserete tra 10 anni di una 
 
 Ragionare sul lungo termine potrebbe non essere sempre semplice. Vale la pena di riflettere su quali siano le aree sulle quale concentrarsi, ossia quelle che avranno l’impatto maggiore sulla vostra qualità di vita futura. Vi elenco le mie, le vostre potrebbero essere leggermente diverse:
 
-![](/assets/media/Stai-regalandoti-carbone-–-Categorie.png)
+![]({{site.baseurl}}/assets/media/Stai-regalandoti-carbone-–-Categorie.png)
 
 Scelte fatte oggi che possano aumentare le mie disponibilità in qualcuna di queste aree sono bei regali per il me futuro. Se sto sottraendo a quelle dimensioni sto danneggiandomi.
 

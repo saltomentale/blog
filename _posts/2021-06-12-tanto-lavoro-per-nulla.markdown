@@ -22,7 +22,7 @@ image:
 > Lavorare: Impiegare le energie fisiche o intellettuali nello svolgimento di un’attività. Qui inteso al fine di ottenere un beneficio economico.
 
 
-![](/assets/media/Tanto-lavoro-per-nulla.jpg)
+![]({{site.baseurl}}/assets/media/Tanto-lavoro-per-nulla.jpg)
 
 Caro figliolo,
 

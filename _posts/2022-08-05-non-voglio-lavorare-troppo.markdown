@@ -49,7 +49,7 @@ Ottimizzi un processo aziendale ed il tuo datore di lavoro, risparmiando grazie 
 
 Vendi 10 case, rendendo entusiaste sia le famiglie che le hanno acquistate che quelle che le hanno vendute, e ricevi una ricca commissione dall’agenzia per cui lavori.
 
-![Ti pagano per il valore che crei - immagine mercato agricolo](/assets/media/Ti-pagano-per-il-valore-che-crei-immagine-mercato-agricolo.jpg)Il tuo lavoro mi è d’aiuto, ecco a te dei soldi in cambio. Foto di [Alex Hudson](https://unsplash.com/@aliffhassan91?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Ti pagano per il valore che crei - immagine mercato agricolo]({{site.baseurl}}/assets/media/Ti-pagano-per-il-valore-che-crei-immagine-mercato-agricolo.jpg)Il tuo lavoro mi è d’aiuto, ecco a te dei soldi in cambio. Foto di [Alex Hudson](https://unsplash.com/@aliffhassan91?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 **Vieni pagato per il valore che crei per la tua azienda o per i tuoi clienti.**
 
@@ -64,7 +64,7 @@ Ora proviamo a chiederci: come possiamo aumentare il profitto dal nostro lavoro?
 
 La via più sensata ed affidabile sul lungo termine è **aumentare il valore che produci**. Ci sono due modi per farlo.
 
-![Smettere di lavorare troppo a lungo - Orologio alla parete](/assets/media/Smettere-di-lavorare-troppo-a-lungo-Orologio-alla-parete.jpg)Se solo avessi un martello… Foto di [Renel Wackett](https://unsplash.com/@renelwackett?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Smettere di lavorare troppo a lungo - Orologio alla parete]({{site.baseurl}}/assets/media/Smettere-di-lavorare-troppo-a-lungo-Orologio-alla-parete.jpg)Se solo avessi un martello… Foto di [Renel Wackett](https://unsplash.com/@renelwackett?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### Creare valore lavorando più ore
 
@@ -84,7 +84,7 @@ Dopo settimane di quella vita parti al mattino che sei già stanco e la tua prod
 
 Dopo anni di sforzi ai limiti sei talmente cotto che rischi d’infortunarti o di andare in burnout. Fermarsi diventa obbligatorio e finisci per non lavorare (e non guadagnare) finché non recuperi.
 
-![Non voglio lavorare - Risultati lavorando più tempo](/assets/media/Non-voglio-lavorare-Risultati-lavorando-più-tempo.png)
+![Non voglio lavorare - Risultati lavorando più tempo]({{site.baseurl}}/assets/media/Non-voglio-lavorare-Risultati-lavorando-più-tempo.png)
 
 **Il valore aggiunto di un’ora di lavoro diminuisce con l’aumentare delle ore fatte.** Oltre un certo limite non sarai più produttivo.
 
@@ -106,7 +106,7 @@ Se il tuo capo non è scemo ti terrà in grande considerazione. Sei la punta di 
 
 Non c’è limite alla qualità che puoi aggiungere, anzi, più ne aggiungi e più ogni aggiunta diventa grande e rilevante.
 
-![Non voglio lavorare - Risultati lavorando con più qualità](/assets/media/Non-voglio-lavorare-Risultati-lavorando-con-più-qualità.png)
+![Non voglio lavorare - Risultati lavorando con più qualità]({{site.baseurl}}/assets/media/Non-voglio-lavorare-Risultati-lavorando-con-più-qualità.png)
 
 **La crescita diventa esponenziale!**
 
@@ -133,7 +133,7 @@ Infine, la qualità della vita sarà molto migliore perché saremo più motivati
 
 Avremo anche più libertà di scelta e potremo chiederci cosa fare se…
 
-![](/assets/media/Non-voglio-lavorare-amaca-in-mezzo-alla-natura.jpg)Foto di [Zach Betten](https://unsplash.com/@bettenz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{site.baseurl}}/assets/media/Non-voglio-lavorare-amaca-in-mezzo-alla-natura.jpg)Foto di [Zach Betten](https://unsplash.com/@bettenz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Non voglio più lavorare e basta
 

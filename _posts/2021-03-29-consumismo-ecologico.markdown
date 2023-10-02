@@ -20,7 +20,7 @@ image:
 > Ecologia e consumo non sono compatibili. L’illusione che nuovi prodotti possano risolvere i problemi ambientali distoglie l’attenzione dalle azioni necessarie.
 
 
-![](/assets/media/image-3.png)
+![]({{site.baseurl}}/assets/media/image-3.png)
 
 Ci rendiamo conto dei problemi ambientali che l’industrializzazione ha creato e siamo cresciuti con l’idea che i singoli cittadini debbano essere responsabili verso l’ambiente. È un dovere civico riciclare con cura e sostituire l’auto con un modello elettrico. Ma siamo sicuri che abbia un impatto ambientale rilevante? Non è che ci prendono per fessi facendo leva sull’ecologismo per venderci robaccia superflua ed accettare lo status quo? Non è che l’industria stia evitando di prendersi la responsabilità del degrado ambientale del nostro pianeta?
 
@@ -40,13 +40,13 @@ Questi dati potrebbero essere presentati in maniera scorretta da chi cerca di ve
 
 Cominciamo con i dati sul cambiamento climatico dovuto all’emissione di gas serra. È vero che un’auto elettrica _risolve il problema_? Ecco il grafico delle emissioni per km di vari tipi di auto, comparabili in tutto tranne che nel sistema di propulsione. Include le emissioni dovute alla produzione, all’uso per 200’000 km ed allo smaltimento dell’auto.
 
-![](/assets/media/image-4.png)Emissioni totali di veicoli con diverso sistema di propulsione
+![]({{site.baseurl}}/assets/media/image-4.png)Emissioni totali di veicoli con diverso sistema di propulsione
 
 Ecco il risultato: un veicolo elettrico produce il 15% in meno di emissioni rispetto ad uno a benzina. Poco rispetto alle nostre ambizioni di _salvare il mondo_.
 
 Come accennato, quei dati riguardano l’intera vita del veicolo, usato per 200’000 km. Questo grafico mostra le emissioni man mano che facciamo chilometri con l’automobile.
 
-![](/assets/media/image-5.png)Emissioni cumulative di veicoli con diverso sistema di propulsione
+![]({{site.baseurl}}/assets/media/image-5.png)Emissioni cumulative di veicoli con diverso sistema di propulsione
 
 Le emissioni totali di un veicolo elettrico (arancione chiaro) appena uscito dalla concessionaria sono del 25% più alte rispetto ad uno simile a benzina (blu), diesel o gas. Siccome parte dell’energia con cui si ricarica il veicolo sarà prodotta da energie rinnovabili, le emissioni durante l’uso del veicolo saranno minori, ma non così fantastiche come pensavamo! Ci vogliono circa 60’000 km prima che un’auto a benzina emetta la stessa quantità di gas serra della nostra Tesla!
 

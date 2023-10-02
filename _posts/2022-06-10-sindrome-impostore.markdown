@@ -41,7 +41,7 @@ Dove sta il _suo_ merito?
 
 Non togliamo nulla ai suoi sforzi, sono condizione necessaria ma non sufficiente al suo successo. Egli non sarebbe nella stessa posizione se fosse nato nell’Africa sub-sahariana da una famiglia di pastori analfabeti, né se avesse avuto un cromosoma in più né se si fosse innamorato follemente di una eroinomane negli anni ’90 e fosse partito con lei per un viaggio di non ritorno negli slum di Edimburgo per dedicarsi all’ammirare i treni che passano.
 
-![Immagine di copertina del film Trainspotting](/assets/media/Trainspotting_danny_boyle.png)Già, [Trainspotting](https://it.wikipedia.org/wiki/Trainspotting_%28film%29), bravi. Dimostra solo che siete vecchi quanto me, niente meriti!
+![Immagine di copertina del film Trainspotting]({{site.baseurl}}/assets/media/Trainspotting_danny_boyle.png)Già, [Trainspotting](https://it.wikipedia.org/wiki/Trainspotting_%28film%29), bravi. Dimostra solo che siete vecchi quanto me, niente meriti!
 
 Nessuno qui _merita_ granché quindi niente sensi di colpa. Se proprio siamo nel dubbio, possiamo dire “grazie“ un po’ più spesso che tanto male non fa.
 

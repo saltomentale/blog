@@ -23,7 +23,7 @@ image:
 L’unica differenza è nello sguardo di chi le osserva.
 
 
-![](/assets/media/Non-esistono-segreti.png)
+![]({{site.baseurl}}/assets/media/Non-esistono-segreti.png)
 
 Ci sono idee che hanno cambiato radicalmente la nostra vita. Quando le abbiamo incontrate e le abbiamo interiorizzate ne siamo stati rapiti. Dopo averne osservato gli effetti su di noi non possiamo reprimere il desiderio di diffonderle, di rendere tutti partecipi della grande verità che abbiamo scoperto, così da aiutarli a fare gli stessi passi.
 
