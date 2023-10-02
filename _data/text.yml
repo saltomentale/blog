@@ -143,7 +143,7 @@ it: &DEFAULT_IT
   skip_footer: "Vai al footer"
   menu_label: "Menu"
   by: "di"
-  min_read: "min. per leggere"
+  min_read: "minuti"
   read_more: "Leggi di più&hellip;"
   categories: "Categorie"
   tags: "Tags"
