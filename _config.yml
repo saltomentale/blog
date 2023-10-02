@@ -53,7 +53,8 @@ liquid:
 # Build settings
 markdown: kramdown
 feed:
-  path: feed
+  path: feed/index.xml
+  excerpt_only: true
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 12
