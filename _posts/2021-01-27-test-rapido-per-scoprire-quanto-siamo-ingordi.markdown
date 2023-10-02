@@ -23,7 +23,7 @@ image:
 
 Ecco qui il test. Richiede grande sforzo:
 
-![](/assets/media/image.png)
+![]({{ '/assets/media/image.png' | relative_url }})
 
 Fine.
 
@@ -56,7 +56,7 @@ Oggi come allora, quello che si considerava giusto dipendeva dal contesto. Non p
 
 L’ingordigia non rende felici, tutt’altro. Ci fa stare sempre in tensione, desiderosi di qualcosa che ancora non abbiamo. E quando l’abbiamo raggiunta la gioia è breve. Presto subentra un nuovo desiderio, poi un altro ed un altro ancora in un ciclo infinito.
 
-![](/assets/media/image-1.png)
+![]({{ '/assets/media/image-1.png' | relative_url }})
 
 Lavoriamo per poterci permettere i nostri vizi e questi non ci soddisfano mai, quindi dobbiamo sforzarci di più per averne di nuovi e più grandi, come fossero una droga. Non ci basta lo stipendio, non ci bastano le cose che abbiamo e in questa eterna lotta perdiamo quello che davvero conta: le relazioni con chi ci è caro, la gioia di fare del bene a qualcuno, la soddisfazione di creare qualcosa per il solo gusto di farlo. La serenità del contemplare il mondo senza volerlo per forza domare. La calma, il tempo da vivere.
 

@@ -31,7 +31,7 @@ Visualizzano con chiarezza la destinazione. Ne assaporano il gusto, così come v
 
 Poi si trovano nel solito carnaio di escursionisti che ha scelto quella stessa destinazione e la differenza con Parco Sempione non si nota più di tanto.
 
-![Piatto rotto](/assets/media/Foto-di-un-piatto-rotto.jpg)Foto di [CHUTTERSNAP](https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Piatto rotto]({{ '/assets/media/Foto-di-un-piatto-rotto.jpg' | relative_url }})Foto di [CHUTTERSNAP](https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 [Aspettative infrante.](/fare-una-promessa/)
 
@@ -67,7 +67,7 @@ Insomma, immaginiamo le vette, le idealizziamo, trascuriamo gli aspetti negativi
 
 Soprattutto, non consideriamo la lunga strada che dovrebbe portarci alla meta.
 
-![Persone lungo un sentiero di montagna](/assets/media/Sentiero-di-montagna.jpg)Foto di [Ted Bryan Yu](https://unsplash.com/@wanderingteddybear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Persone lungo un sentiero di montagna]({{ '/assets/media/Sentiero-di-montagna.jpg' | relative_url }})Foto di [Ted Bryan Yu](https://unsplash.com/@wanderingteddybear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Scegliere il percorso
 

@@ -23,7 +23,7 @@ image:
 Ricco è chi ha molto oppure chi ha abbastanza?
 
 
-![](/assets/media/Ricchi-sfondati.png)
+![]({{ '/assets/media/Ricchi-sfondati.png' | relative_url }})
 
 Bambina mia,
 

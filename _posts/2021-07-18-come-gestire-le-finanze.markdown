@@ -23,7 +23,7 @@ image:
 > Pochi principi sono sufficienti per gestire meglio le nostre finanze. Li spiego a mia figlia.
 
 
-![](/assets/media/Come-gestire-le-finanze-in-meno-di-500-parole.png)
+![]({{ '/assets/media/Come-gestire-le-finanze-in-meno-di-500-parole.png' | relative_url }})
 
 Figlia mia,
 

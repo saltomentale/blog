@@ -18,7 +18,7 @@ image:
 
 > Una scarsa consapevolezza della realtà provoca frequenti frustrazioni. Crediamo che il mondo funzioni in un certo modo, ma evidentemente esso la pensa in modo diverso.
 
-![La mappa non è il territorio - schema concettuale](/assets/media/La-mappa-non-e-il-territorio-1.png)
+![La mappa non è il territorio - schema concettuale]({{ '/assets/media/La-mappa-non-e-il-territorio-1.png' | relative_url }})
 
 Alla prossima bisogna svoltare a sinistra, poi 100 metri ed ecco… il Colosseo? Ma questa non è Milano?!
 

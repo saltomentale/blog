@@ -28,7 +28,7 @@ Temo che non abbiano mai colto la differenza fra spendere, investire e speculare
 
 ## Spendere
 
-![Spendere - Libri usati in vendita](/assets/media/Spendere-Libri-usati-in-vendita-e1672823888273.jpg)Foto di [Marcel Pirnay](https://unsplash.com/@marcel_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Spendere - Libri usati in vendita]({{ '/assets/media/Spendere-Libri-usati-in-vendita-e1672823888273.jpg' | relative_url }})Foto di [Marcel Pirnay](https://unsplash.com/@marcel_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Partiamo dal più semplice della triade, spendere.
 
@@ -46,7 +46,7 @@ Rimangono delle spese. [Spese da fare responsabilmente](/risparmiare-senza-fatic
 
 ## Speculare
 
-![Speculare - Grafico a candele per trading](/assets/media/Speculare-Grafico-a-candele-per-trading-e1672823969653.jpg)Foto di [Maxim Hopman](https://unsplash.com/ja/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Speculare - Grafico a candele per trading]({{ '/assets/media/Speculare-Grafico-a-candele-per-trading-e1672823969653.jpg' | relative_url }})Foto di [Maxim Hopman](https://unsplash.com/ja/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Speculare significa trarre vantaggio da un’operazione finanziaria.
 
@@ -68,7 +68,7 @@ Sei sempre certo delle commissioni, non sei mai certo di vincere.
 
 ## Investire
 
-![Investire - Alberi da frutto](/assets/media/Investire-Alberi-da-frutto-e1672824019544.jpg)Foto di [MetroList Services](https://unsplash.com/@etieseler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Investire - Alberi da frutto]({{ '/assets/media/Investire-Alberi-da-frutto-e1672824019544.jpg' | relative_url }})Foto di [MetroList Services](https://unsplash.com/@etieseler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Investire significa impegnare il proprio capitale in attività o beni fruttiferi.
 
@@ -87,7 +87,7 @@ Guadagni dal possederli, non dal venderli!
 
 Ricapitolando:
 
-![Spendere, investire, speculare - schema riassuntivo](/assets/media/Spendere-investire-speculare.png)
+![Spendere, investire, speculare - schema riassuntivo]({{ '/assets/media/Spendere-investire-speculare.png' | relative_url }})
 
 ## 50 sfumature di grigio
 

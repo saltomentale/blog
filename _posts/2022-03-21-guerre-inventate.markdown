@@ -25,7 +25,7 @@ Vedo una cacca di cane abbandonata in strada e parte il viaggio allucinato: inst
 
 Considerando che le nostre città sono piene di cacca di cane il mio viaggiare nelle guerre inventate sta diventando un lavoro a tempo pieno.
 
-![](/assets/media/Guerre-inventate-mucche.jpeg)Tra parentesi: so che sembra incredibile ma, nonostante la pastorizia molto diffusa nella zona in cui vivo ed il caratteristico odore pungente, la cacca di mucca mi da meno noia di quella di cane. Si, signore vacche, parlo di voi.  
+![]({{ '/assets/media/Guerre-inventate-mucche.jpeg' | relative_url }})Tra parentesi: so che sembra incredibile ma, nonostante la pastorizia molto diffusa nella zona in cui vivo ed il caratteristico odore pungente, la cacca di mucca mi da meno noia di quella di cane. Si, signore vacche, parlo di voi.  
 Foto di [Daniel Quiceno M](https://unsplash.com/@daquima23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Non posso continuare a perdere energia vitale in attività così negative quindi ho elaborato una soluzione. Prima di parlarvene devo introdurre un concetto chiave.
@@ -34,7 +34,7 @@ Non posso continuare a perdere energia vitale in attività così negative quindi
 
 La distinzione fra sfera d’interesse e sfera d’influenza è vecchia di qualche millennio, a memoria credo sia frutto del pensiero [stoico](https://it.wikipedia.org/wiki/Stoicismo). Il concetto è semplice: tutti i nostri pensieri possono rientrare in due sfere distinte.
 
-![](/assets/media/Guerre-inventate-Sfere.jpg)
+![]({{ '/assets/media/Guerre-inventate-Sfere.jpg' | relative_url }})
 
 La sfera d’interesse contiene tutto quello che impatta le nostre vite, e che quindi, in qualche modo, ci interessa. Ad esempio l’esame che dobbiamo sostenere domani, il meteo, la relazione con nostra madre, le possibilità di una guerra nucleare.
 
@@ -69,7 +69,7 @@ Se la risposta è affermativa allora basta paturnie che ho da fare: creo un pian
 
 Se la risposta è negativa non faccio proprio nulla. La faccenda non mi riguarda e posso dimenticarla.
 
-![](/assets/media/Guerre-inventate-Flow-chart.jpg)
+![]({{ '/assets/media/Guerre-inventate-Flow-chart.jpg' | relative_url }})
 
 Torniamo agli escrementi. Si, di nuovo.
 
@@ -109,7 +109,7 @@ Scritta la lettera, spedita con raccomandata A/R, atteso 4 giorni per la ricezio
 
 Problema risolto. Niente più fastidio, niente più pensieri e niente più guerre inventate.
 
-![](/assets/media/Guerre-inventate-relax.jpeg)Eh, magari! Foto di [S Migaj](https://unsplash.com/@simonmigaj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/Guerre-inventate-relax.jpeg' | relative_url }})Eh, magari! Foto di [S Migaj](https://unsplash.com/@simonmigaj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Comunque, il metodo si sta dimostrando valido. Se lo provate fatemelo sapere nei commenti.
 

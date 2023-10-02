@@ -35,7 +35,7 @@ Il padrone di un cane che ne lascia per strada le deiezioni.
 
 Le mele marce sono in genere [poche ma fanno molto rumore](/rompiscatole-ed-eroi/).
 
-![Mela marcia - singola mela](/assets/media/Mela-marcia-singola-mela.png)
+![Mela marcia - singola mela]({{ '/assets/media/Mela-marcia-singola-mela.png' | relative_url }})
 
 Se non raccolgo i bisogni del mio cane e lo lascio urinare davanti all’uscio dei vicini, nel giro di poche settimane l’intero quartiere sarà ridotto ad un campo minato di crocchette digerite e macchie maleodoranti.
 
@@ -57,7 +57,7 @@ I frutti esposti all’etilene tendono a maturare più velocemente. Ricordi quel
 
 Una mela marcia rilascia grandi quantità di etilene ed in breve tempo intacca le mele vicine, facendole marcire a loro volta. Questa grande quantità di etilene favorisce la maturazione rapida di tutto il cesto, che in breve tempo rischia di essere tutto rovinato.
 
-![Mela marcia - contagio del cesto](/assets/media/Mela-marcia-contagio-del-cesto.png)
+![Mela marcia - contagio del cesto]({{ '/assets/media/Mela-marcia-contagio-del-cesto.png' | relative_url }})
 
 Lo stesso capita nei gruppi umani.
 
@@ -89,7 +89,7 @@ Poi siamo diventati genitori. Ora osserviamo con più attenzione il gruppo di cu
 
 [I rompiscatole ci sono ma sono davvero pochi](/rompiscatole-ed-eroi/). Solo che, da fuori, **sono gli unici che noti**!
 
-![Mela marcia - gruppo visto da fuori](/assets/media/Mela-marcia-gruppo-visto-da-fuori.png)
+![Mela marcia - gruppo visto da fuori]({{ '/assets/media/Mela-marcia-gruppo-visto-da-fuori.png' | relative_url }})
 
 Ed è qui che una mela marcia fa più danno. Fa apparire tutti gli appartenenti al proprio gruppo come responsabili del suo comportamento tossico.
 
@@ -147,7 +147,7 @@ Poi ebbe un problema di salute ed il dottore gli fece notare che _fumare era la 
 
 Morale: punizioni, emarginazione, minacce possono rivelarsi controproducenti e suscitare comportamenti opposti a quelli che desideriamo. Fenomeno detto “[reattanza psicologica](https://en.wikipedia.org/wiki/Reactance_%28psychology%29)”.
 
-![Dito indice rimprovera bambino](/assets/media/Dito-indice-rimprovera-bambino.jpg)Il dito può servire ad indicare o a cavare gli occhi. Educare o punire. Foto di [Artyom Kabajev](https://unsplash.com/@artfilm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Dito indice rimprovera bambino]({{ '/assets/media/Dito-indice-rimprovera-bambino.jpg' | relative_url }})Il dito può servire ad indicare o a cavare gli occhi. Educare o punire. Foto di [Artyom Kabajev](https://unsplash.com/@artfilm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Solo in casi estremi l’isolamento dalla società è giustificato perché il soggetto non è recuperabile o perché è pericoloso. Le punizioni, poi, anche quando travestite da strumento educativo, servono più a placare l’ego del giudice che a correggere.
 

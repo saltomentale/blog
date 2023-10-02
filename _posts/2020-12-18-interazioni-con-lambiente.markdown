@@ -25,7 +25,7 @@ image:
 > Come tutti gli esseri viventi, abbiamo un impatto sull’ambiente in cui viviamo.
 > Come nessun altro essere vivente, siamo consapevoli di tale interazione.
 
-![Interazioni con l’ambiente](/assets/media/Interazioni-con-lambiente.png)
+![Interazioni con l’ambiente]({{ '/assets/media/Interazioni-con-lambiente.png' | relative_url }})
 
 Perché questa consapevolezza è importante?
 

@@ -39,7 +39,7 @@ Che bello il sole durante una bella giornata primaverile. Emette una bella luce 
 
 Se prendiamo una lente d’ingrandimento possiamo concentrare una parte dei raggi del sole in un singolo punto pieno di sterpaglie. Il sole che prima lo scaldava soltanto, dopo un poco, alzerà la temperatura abbastanza da incendiare le sterpaglie e da quel momento il rogo si auto-alimenta consumando tutto il materiale a sua disposizione.
 
-![](/assets/media/Concentrare-gli-sforzi.jpg)
+![]({{ '/assets/media/Concentrare-gli-sforzi.jpg' | relative_url }})
 
 Ammesso di avere abbastanza sterpaglie l’incendio potrebbe divampare anche di notte e consumare i boschi vicini. Consumerà tutto il materiale oppure verrà estinto da un intervento esterno, che sia pioggia o pompieri.
 
@@ -53,17 +53,17 @@ Era uno dei temi che mi stavano a cuore, assieme ad altri dieci. Per quando l’
 
 “Ci sarebbe il problema delle facciate da discutere”
 
-![](/assets/media/palla-di-fieno-1.jpg)Foto di [Adrien Bruneau](https://unsplash.com/@papidridri44?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/palla-di-fieno-1.jpg' | relative_url }})Foto di [Adrien Bruneau](https://unsplash.com/@papidridri44?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 “Quest’anno è l’ultimo del bonus facciate, e se chiedessimo qualche preventivo?”
 
-![](/assets/media/palla-di-fieno-2.jpg)Foto di [Peter Kleinau](https://unsplash.com/es/@nepumuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/palla-di-fieno-2.jpg' | relative_url }})Foto di [Peter Kleinau](https://unsplash.com/es/@nepumuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 “Io vado che ho da prendere i figli a scuola”  
 “Anche io”  
 “Bene, direi che l’assemblea è chiusa senza altri problemi da discutere”
 
-![](/assets/media/palla-di-fieno-3.jpg)Foto di [Josh Mills](https://unsplash.com/@jkmills?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/palla-di-fieno-3.jpg' | relative_url }})Foto di [Josh Mills](https://unsplash.com/@jkmills?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Ottenuto niente. E così tutti gli altri temi a dire il vero.
 
@@ -75,7 +75,7 @@ Il mio sforzo aggiuntivo? Nullo! Una volta superato il punto d’innesco il prog
 
 Possiamo rappresentare il tutto in un grafico sforzo-risultati. Pensavate che vi avrei risparmiato un grafico, oggi? No.
 
-![](/assets/media/Concentrare-gli-sforzi-–-Grafico.jpg)
+![]({{ '/assets/media/Concentrare-gli-sforzi-–-Grafico.jpg' | relative_url }})
 
 L’idea è questa: spesso i risultati li si ottiene tutti quasi in blocco una volta superata una certa soglia di sforzo.
 
@@ -137,7 +137,7 @@ Questa è più soggettiva da valutare. Quanto varrebbe, per noi, avere delle bel
 
 Abbiamo notato commenti da parte dei nostri genitori sullo stato delle facciate ed un poco la cosa c’imbarazza. D’altro canto il modo migliore per non vedere lo stato schifoso delle cose è stare qui dentro: il peggio se lo becca chi abita nelle case vicine!
 
-![](/assets/media/Condominio.jpeg)Poteva andargli peggio, dai. Foto di [Fer Troulik](https://unsplash.com/@fertroulik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/Condominio.jpeg' | relative_url }})Poteva andargli peggio, dai. Foto di [Fer Troulik](https://unsplash.com/@fertroulik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Diciamo che il valore dell’appartamento aumenterebbe del 3%, includendo in quella cifra la nostra soddisfazione personale. In soldoni sono 3000€.
 

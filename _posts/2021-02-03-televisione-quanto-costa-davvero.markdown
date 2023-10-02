@@ -20,7 +20,7 @@ image:
 > Avere una televisione non è obbligatorio. Sappiamo quanto costa e se è opportuno averla in casa?
 
 
-![](/assets/media/image.png)
+![]({{ '/assets/media/image.png' | relative_url }})
 
 La televisione era una presenza fissa a casa nostra. Ricordo quando l’accendevo per guardare i cartoni animati o qualche film in famiglia. Diventato adulto, la sua presenza mi teneva compagnia con programmi comici, sport, vecchi film e tanta sana pubblicità.
 
@@ -114,7 +114,7 @@ Chiariamo subito una cosa: non voglio dire che dovremmo passare 24 ore al lavoro
 
 ### Tiriamo le somme
 
-![Il costo della televisione - Calcoli](/assets/media/Il-costo-della-televisione-Calcoli-narrow.jpg)
+![Il costo della televisione - Calcoli]({{ '/assets/media/Il-costo-della-televisione-Calcoli-narrow.jpg' | relative_url }})
 
 In 10 anni la televisione ci costa 175’500€. Se investissimo ogni anno il risparmio, con un rendimento annuo del 4%, il totale supera i **210’000€**.
 
@@ -134,6 +134,6 @@ Cosa farete con 200’000€ in più in tasca ed anni di tempo extra da spendere
 
 ### Risorse
 
-[Il foglio Excel che potete usare per fare i calcoli da voi:](/assets/media/Il-costo-delle-cose_-Televisione.xlsx)[Scarica](/assets/media/Il-costo-delle-cose_-Televisione.xlsx)
+[Il foglio Excel che potete usare per fare i calcoli da voi:]({{ '/assets/media/Il-costo-delle-cose_-Televisione.xlsx' | relative_url }})[Scarica]({{ '/assets/media/Il-costo-delle-cose_-Televisione.xlsx' | relative_url }})
 
     Immagine di copertina di <a href="https://unsplash.com/@jenskreuter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jens Kreuter</a> on <a href="https://unsplash.com/s/photos/television?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

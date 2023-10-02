@@ -35,7 +35,7 @@ Qualche giorno dopo sono andato all’ufficio anagrafe per l’atto di nascita. 
 
 Purtroppo ci sono due metri di giudizio differenti: alle mamme si fanno richieste assurde mentre per noi papà l’asticella per essere considerati bravi è drammaticamente bassa.
 
-![](/assets/media/Il-doppio-standard.png)
+![]({{ '/assets/media/Il-doppio-standard.png' | relative_url }})
 
 Non sempre si applicava il doppio standard, in molte situazioni venivamo trattati in maniera coerente al nostro ruolo: mamma il capitano, io [mozzo in seconda](<https://it.wikipedia.org/wiki/Mozzo_(nautica)>). Il doppio standard è stato comunque frequente.
 

@@ -40,7 +40,7 @@ Ecco lo scenario.
 Siamo soli in auto, in ritardo ad un appuntamento per un contratto da **10’000€**.  
 Se arriviamo in ritardo c’è il **10%** di probabilità di perdere il contratto.
 
-![Guida sportiva - Uomo in ritardo che corre](/assets/media/Guida-sportiva-Uomo-in-ritardo-che-corre.jpg)Oh no, la puntata di Beautiful è durata più del previsto! Foto di [Andy Beales](https://unsplash.com/@andybeales?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Guida sportiva - Uomo in ritardo che corre]({{ '/assets/media/Guida-sportiva-Uomo-in-ritardo-che-corre.jpg' | relative_url }})Oh no, la puntata di Beautiful è durata più del previsto! Foto di [Andy Beales](https://unsplash.com/@andybeales?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Fare un **sorpasso avventato in curva** e **guidare in modo sportivo per 10 minuti** con la strada libera ci permetterebbe di arrivare in perfetto orario.
 
@@ -63,7 +63,7 @@ Se tutto va liscio avremo solo un [maggior consumo di carburante ed usura del ve
 
 Spicci, nella nostra situazione. Ma se non andasse tutto liscio?
 
-![Guida pericolosa - Immagine lampeggiante polizia](/assets/media/Guida-pericolosa-Immagine-lampeggiante-polizia.jpg)Proprio quello che non volevi vedere: gli ultras del Bologna calcio! Foto di [Scott Rodgerson](https://unsplash.com/@scottrodgerson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Guida pericolosa - Immagine lampeggiante polizia]({{ '/assets/media/Guida-pericolosa-Immagine-lampeggiante-polizia.jpg' | relative_url }})Proprio quello che non volevi vedere: gli ultras del Bologna calcio! Foto di [Scott Rodgerson](https://unsplash.com/@scottrodgerson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### Multa per guida spericolata
 
@@ -84,7 +84,7 @@ Il valore atteso, quindi, è:
 
 Ma è chiaro che la multa è il minore dei mali, tu stai già pensando ad altro.
 
-![Guida spericolata - Macchina incidentata](/assets/media/Guida-spericolata-Macchina-incidentata.jpg)Non ho bevuto, stavo solo andando per funghi! Foto di [Tobias Tullius](https://unsplash.com/@tobiastu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Guida spericolata - Macchina incidentata]({{ '/assets/media/Guida-spericolata-Macchina-incidentata.jpg' | relative_url }})Non ho bevuto, stavo solo andando per funghi! Foto di [Tobias Tullius](https://unsplash.com/@tobiastu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### Incidenti con colpa
 

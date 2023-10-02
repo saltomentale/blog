@@ -51,7 +51,7 @@ Forse è andata bene anche a Pino, dopotutto: se avesse fatto un buon lavoro ed 
 
 Viviamo in un’epoca in cui la tecnologia potrebbe rimpiazzarci in molti lavori, creando valore per l’umanità intera, ma chi crea queste innovazioni diventa superfluo e perde la propria sicurezza economica, oltre a rovinare altri malcapitati lavoratori. Meglio non innovare e continuare a fare le solite cose in modo macchinoso e ripetitivo pur di mantenere lo stipendio!
 
-![](/assets/media/Lavoro.jpg)Art 1: L’Italia è una repubblica fondata sul lavoro. Guai a ridurlo! Foto di [Michele Bitetto](https://unsplash.com/@michelebit_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/Lavoro.jpg' | relative_url }})Art 1: L’Italia è una repubblica fondata sul lavoro. Guai a ridurlo! Foto di [Michele Bitetto](https://unsplash.com/@michelebit_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### Lavoro e danno sociale
 
@@ -71,7 +71,7 @@ Vale la pena chiedercelo adesso che siamo negli strascichi di una pandemia globa
 
 Io non ho un piano, ma ho un indizio del fatto che, senza bisogno di lavorare, molti si dedicherebbero a missioni importanti. Possiamo osservare chi già oggi non ha bisogno di lavorare: alcuni hanno avviato attività filantropiche, altri hanno donato gran parte del loro patrimonio ed altri ancora hanno semplicemente mollato il loro vecchio lavoro per uno nuovo che sia di beneficio alla loro comunità. Non sempre fanno quello che serve o è urgente, ma almeno fanno quello che li appassiona e, soprattutto, nessuno di loro vi telefonerà per la nuova offerta luce e gas di ENEL.
 
-![](/assets/media/mannaggia.jpg)Mannaggia a te ENEL ed ai call center cui ti appoggi. Foto di [Icons8 Team](https://unsplash.com/@icons8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/mannaggia.jpg' | relative_url }})Mannaggia a te ENEL ed ai call center cui ti appoggi. Foto di [Icons8 Team](https://unsplash.com/@icons8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 **Nella nostra natura c’è la voglia di fare qualcosa di bello ed utile**. Sarebbe ancora più evidente [se non ospitassimo in casa chi fa soldi rimbambendoci](/televisione-quanto-costa-davvero/).
 
@@ -85,7 +85,7 @@ Ci sono lavori sgradevoli che vanno fatti e per i quali è improbabile che trove
 
 Potremmo dividerceli: ognuno di noi darebbe il suo contributo nella misura in cui è necessario. Se ne è parlato per più di un secolo, nel quale si era riusciti a ridurre l’orario lavorativo, e [per alcune aziende si trattava di una questione ideologica](https://www.jstor.org/stable/3116979). Peccato che il processo si sia arrestato negli anni 40, sostituito dalla corsa alla crescita ed al consumo.
 
-![](/assets/media/US_work_week_-_GDP_-_GPI.jpg)Le ore lavorative settimanali nella manifattura USA. Stabili dagli anni 40. Fonte [Wikipedia](https://en.wikipedia.org/wiki/Working_time).
+![]({{ '/assets/media/US_work_week_-_GDP_-_GPI.jpg' | relative_url }})Le ore lavorative settimanali nella manifattura USA. Stabili dagli anni 40. Fonte [Wikipedia](https://en.wikipedia.org/wiki/Working_time).
 
 Dividendoci i lavori necessari potremmo anche incentivare soluzioni innovative per ridurli. Ad esempio, supponiamo che si debbano raccogliere i pomodori e che nessuno voglia farlo. Oggi risolviamo il problema obbligando persone disperate a lavorare per la raccolta con stipendi bassissimi che rendono qualsiasi investimento per automatizzare il processo non conveniente.
 

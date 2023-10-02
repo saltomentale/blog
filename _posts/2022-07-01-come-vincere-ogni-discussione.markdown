@@ -53,7 +53,7 @@ Il nostro maestro sarà [Aristotele](https://it.wikipedia.org/wiki/Retorica_%28A
 - **Pathos**: Sono argomentazioni che persuadono facendo leva su _sentimenti ed emozioni_.
 - **Ethos**: Sono argomentazioni che persuadono grazie alla _reputazione_ dell’oratore.
 
-![Fondamenti di retorica - logos, pathos, ethos](/assets/media/Come-vincere-ogni-discussione-fondamenti-di-retorica.png)
+![Fondamenti di retorica - logos, pathos, ethos]({{ '/assets/media/Come-vincere-ogni-discussione-fondamenti-di-retorica.png' | relative_url }})
 
 È un po’ come per i **[tipi di sapere](/tipi-di-sapere/)**: abbiamo a che fare con un iceberg la cui punta evidente, il Logos, non è che una minima parte del sistema.
 
@@ -100,7 +100,7 @@ Immaginiamo di essere afroamericani davanti ad una folla inferocita di KKK. Megl
 
 Oppure vogliamo spiegare in modo rigoroso come funziona un vaccino… Ospiti di una trasmissione TV della domenica pomeriggio, quelle che guardano solo le nonne annoiate ed i cui ospiti sono delle tristi caricature di essere umano. Ma che ci salta in testa? Lasciamo perdere!
 
-![Nonna perplessa con sombrero messicano](/assets/media/Come-vincere-ogni-discussione-Nonna-perplessa.jpg)Troppo tardi? Photo by [RASCJ](https://unsplash.com/@alexharvey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Nonna perplessa con sombrero messicano]({{ '/assets/media/Come-vincere-ogni-discussione-Nonna-perplessa.jpg' | relative_url }})Troppo tardi? Photo by [RASCJ](https://unsplash.com/@alexharvey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Bene, a questo punto supponiamo di aver _livellato il terreno_ e di poter usare le nostre argomentazioni logiche, vediamone i tipi principali.
 
@@ -147,7 +147,7 @@ Può comunque tornare utile in una discussione, ad esempio per falsificare una p
 
 _Ho visto un cigno nero, quindi non tutti i cigni sono bianchi come sostieni._
 
-![Cigni neri in uno specchio d'acqua](/assets/media/Come-vincere-ogni-discussione-Cigni-neri.jpg)Ma qui c’è un raduno! Photo by [Mitchell Luo](https://unsplash.com/@mitchel3uo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Cigni neri in uno specchio d'acqua]({{ '/assets/media/Come-vincere-ogni-discussione-Cigni-neri.jpg' | relative_url }})Ma qui c’è un raduno! Photo by [Mitchell Luo](https://unsplash.com/@mitchel3uo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### Argomentazione abduttiva
 
@@ -169,7 +169,7 @@ _Nella mia auto il pedale centrale è il freno, quindi anche in quest’altra au
 
 A volte funziona, a volte no, ma l’effetto retorico potrebbe comunque essere utile, **dipende dalla situazione**. Potrebbe addirittura essere più forte di una complessa e raffinata dimostrazione deduttiva, in quanto più semplice da cogliere e più evocativo.
 
-![Discussioni - Immagine nativo americano](/assets/media/Discussioni-Immagine-nativo-americano.jpeg)Argomentazione per analogia: “Loro non hanno potuto mettere regole all’immigrazione _quindi_ ora vivono nelle riserve!”  
+![Discussioni - Immagine nativo americano]({{ '/assets/media/Discussioni-Immagine-nativo-americano.jpeg' | relative_url }})Argomentazione per analogia: “Loro non hanno potuto mettere regole all’immigrazione _quindi_ ora vivono nelle riserve!”  
 Illogica ed odiosa eppure supportata da una larga fetta di popolazione.  
 Foto di [Andrew James](https://unsplash.com/@andrewjamesphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
@@ -187,7 +187,7 @@ Invece di ribattere sulle sue argomentazioni logiche, spostiamo l’area di conf
 
 _A quanto pare il signore qui presente è abituato a scroccare. Ricordo a tutti che gli scrocconi come lui si prendono tutta la mano quando gli si lascia un dito._
 
-![Un gruppo di pedine rosse esclude una pedina nera](/assets/media/Come-vincere-ogni-discussione-argumentum-ad-hominen.jpg)Ops… Ora speriamo solo di non aver bisogno di lui in futuro! Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Un gruppo di pedine rosse esclude una pedina nera]({{ '/assets/media/Come-vincere-ogni-discussione-argumentum-ad-hominen.jpg' | relative_url }})Ops… Ora speriamo solo di non aver bisogno di lui in futuro! Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Dal punto di vista logico questa argomentazione è fallace. Stiamo generalizzando ed ipotizzando che le cose potrebbero andare peggio quando invece sono stabili da decenni. Soprattutto, stiamo **screditando il nostro interlocutore**, dandogli dello scroccone e cercando di renderlo antipatico al pubblico.
 

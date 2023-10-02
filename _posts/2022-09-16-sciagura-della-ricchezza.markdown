@@ -21,7 +21,7 @@ In tutte le culture esistono complessi, dolorosi, faticosi e costosi modi per di
 
 Lo scopo è essere **esclusivi**, distanziarsi dalla massa, venire invidiati.
 
-![Villa lussuosa - una ricchezza costosa da mantnere](/assets/media/Villa-lussuosa-una-ricchezza-costosa-da-mantnere.jpg)Avrebbe lo stesso fascino se ne avessimo tutti una simile?  
+![Villa lussuosa - una ricchezza costosa da mantnere]({{ '/assets/media/Villa-lussuosa-una-ricchezza-costosa-da-mantnere.jpg' | relative_url }})Avrebbe lo stesso fascino se ne avessimo tutti una simile?  
 Foto di [Nick Romanov](https://unsplash.com/@nick_r?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 La tragedia è che, pur di **escludere gli altri**, siamo disposti a **rovinarci con le nostre mani**.
@@ -30,17 +30,17 @@ La tragedia è che, pur di **escludere gli altri**, siamo disposti a **rovinarci
 
 Fino al XX secolo la [fasciatura dei piedi](https://it.wikipedia.org/wiki/Loto_d%27oro) ha deformato gli arti di milioni di bambine cinesi. Pare che nacque dagli ambienti imperiali del 900 d.C., corroborata dall’idea che piedi piccoli ed andatura ondeggiante fossero _”belli”_.
 
-![donna dai piedi deformati dalla tradizionale fasciatura](/assets/media/donna-dai-piedi-deformati-dalla-tradizionale-fasciatura.jpg)A te giudicare. Foto da [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:A_HIGH_CASTE_LADYS_DAINTY_LILY_FEET.jpg).
+![donna dai piedi deformati dalla tradizionale fasciatura]({{ '/assets/media/donna-dai-piedi-deformati-dalla-tradizionale-fasciatura.jpg' | relative_url }})A te giudicare. Foto da [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:A_HIGH_CASTE_LADYS_DAINTY_LILY_FEET.jpg).
 
 Su una nota meno tragica, uomini e donne di diverse culture tenevano [una o più unghie delle mani molto lunghe](https://it.wikipedia.org/wiki/Unghia_del_sarto). Dimostravano così di essere tanto benestanti da poter fare a meno di lavorare.
 
-![Carta igienica esautira - un problema per ricchi e non](/assets/media/Carta-igienica-esautira-un-problema-per-ricchi-e-non.jpg)… E che magari c’era qualcuno a pulirli quando necessario.
+![Carta igienica esautira - un problema per ricchi e non]({{ '/assets/media/Carta-igienica-esautira-un-problema-per-ricchi-e-non.jpg' | relative_url }})… E che magari c’era qualcuno a pulirli quando necessario.
 
 C’inventiamo da sempre regole sociali contro natura pur di dimostrare il nostro status.
 
 La follia continua ancora oggi: in certi ambienti è ancora obbligatoria un’etichetta ridicola e dannosa.
 
-![Piede femminile con alluce valgo](/assets/media/Piede-femminile-con-alluce-valgo.jpg)La cosa delle scarpe non vogliamo proprio impararla. [Possono fare male](https://www.humanitas.it/malattie/alluce-valgo/).  
+![Piede femminile con alluce valgo]({{ '/assets/media/Piede-femminile-con-alluce-valgo.jpg' | relative_url }})La cosa delle scarpe non vogliamo proprio impararla. [Possono fare male](https://www.humanitas.it/malattie/alluce-valgo/).  
 Fonte: [Wikipedia](https://it.wikipedia.org/wiki/Alluce_valgo#/media/File:Hallux_valgus_or_bunion_02.jpg)
 
 Cappio al collo d’ordinanza, vestito il più scomodo possibile, villa costosissima da mantenere e chihuahua raro e rompiballe. Per cosa? A cosa serve essere ricchi se poi ci si sottopone a queste torture per dimostrarlo?
@@ -85,7 +85,7 @@ Mostrarsi ricchi ci impoverisce e ci fa diventare schiavi di quello che possedia
 
 Un oggetto lanciato ad una velocità sufficiente può sfuggire all’attrazione gravitazionale del pianeta e viaggiare all’infinito nello spazio.
 
-![Velocità di fuga - Missile che lascia l'atmosfera terrestre](/assets/media/Velocità-di-fuga-Missile-che-lascia-latmosfera-terrestre.jpg)Foto di [SpaceX](https://unsplash.com/@spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Velocità di fuga - Missile che lascia l'atmosfera terrestre]({{ '/assets/media/Velocità-di-fuga-Missile-che-lascia-latmosfera-terrestre.jpg' | relative_url }})Foto di [SpaceX](https://unsplash.com/@spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 L’oggetto da liberare siamo noi e le nostre finanze.
 

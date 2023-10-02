@@ -41,7 +41,7 @@ Il punto di partenza ideale per diventare minimalisti! Non è uno scherzo: non a
 
 La goccia che ha fatto traboccare il vaso si era incarnata in uno sgabello nero. Pensavo di usarlo per lavorare da casa ma era scomodo come sedersi sul manico di una scopa. Sta di fatto che questo sgabello ci guardava tutti i giorni, inutile ed ingombrante nel piccolo bilocale in cui abitavamo e ci siamo decisi: proviamo a venderlo su [Subito.it](https://www.subito.it/).
 
-![](/assets/media/V0jxkBZg2VPbL_-4FIVvPmypXErMRZPGb2_7XhzkCnZWhpq7T3EsZ5lkm7e5f-mvMVKDZKGGyCfVwAMHGeiC6iH0VuTX0tU_4kGFbA-gx2N8X1HnbPoNVazrrL8iJtT3QvQz9pRUs0.png)
+![]({{ '/assets/media/V0jxkBZg2VPbL_-4FIVvPmypXErMRZPGb2_7XhzkCnZWhpq7T3EsZ5lkm7e5f-mvMVKDZKGGyCfVwAMHGeiC6iH0VuTX0tU_4kGFbA-gx2N8X1HnbPoNVazrrL8iJtT3QvQz9pRUs0.png' | relative_url }})
 
 Lo sgabello incriminato, photo by Ikea.
 
@@ -69,7 +69,7 @@ Sono diventato un mostro senza coscienza sociale.
 
 Ora, a nostra discolpa, siamo cresciuti immersi in una cultura che venera gli oggetti materiali, che siano o meno utili. Il sogno è ancora quello americano della villetta in periferia, giardino, cane, gatto e tanti soprammobili: **noi abbiamo rifiutato quel modello**.
 
-![](/assets/media/Cosa-è-il-Minimalismo-Sogno.jpg)È davvero questo il sogno? ? - Photo by [Daniel Barnes](https://unsplash.com/@dannybarness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ '/assets/media/Cosa-è-il-Minimalismo-Sogno.jpg' | relative_url }})È davvero questo il sogno? ? - Photo by [Daniel Barnes](https://unsplash.com/@dannybarness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ### Vale la pena di diventare minimalisti?
 

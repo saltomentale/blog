@@ -32,7 +32,7 @@ Prendiamo Re Sole, [Luigi XIV di Francia](https://it.wikipedia.org/wiki/Luigi_XI
 
 [John D. Rockefeller](https://en.wikipedia.org/wiki/John_D._Rockefeller) è ritenuto l’uomo più ricco della storia, ma anche lui aveva le sue miserie materiali: si muoveva in strade per lo più sterrate e non viveva certo in una abitazione classe energetica A con riscaldamento autonomo.
 
-![](/assets/media/La-formula-per-la-ricchezza-confronto.png)Il progresso ci ha spinti tutti quanti in alto, perché non ci sentiamo più ricchi?
+![]({{ '/assets/media/La-formula-per-la-ricchezza-confronto.png' | relative_url }})Il progresso ci ha spinti tutti quanti in alto, perché non ci sentiamo più ricchi?
 
 ## **La ricchezza è sempre relativa**
 
@@ -72,7 +72,7 @@ L’ombra dell’olocausto nucleare è durata fino alla caduta dell’URSS. Nell
 
 Prendiamo C > 7, qualsiasi data antecedente al 2015. I freddi dati sono abbastanza chiari: la povertà, come trend, sta arretrando ed abbiamo fatto passi da gigante per permettere a molte più persone di vivere una vita fuori dalla miseria. Ecco un grafico degli ultimi due secoli:
 
-![](/assets/media/World-Poverty-Since-1820.png)Qui l’intero report: [Global Extreme Poverty - Our World in Data](https://ourworldindata.org/extreme-poverty)
+![]({{ '/assets/media/World-Poverty-Since-1820.png' | relative_url }})Qui l’intero report: [Global Extreme Poverty - Our World in Data](https://ourworldindata.org/extreme-poverty)
 
 Per quanto riguarda le disparità è vero, [in alcuni paesi sono cresciute in termini nominali](https://ourworldindata.org/income-inequality), cioè in moneta sonante, ma dal punto di vista della capacità di [soddisfare i bisogni reali](/ricchi-sfondati/) la situazione è diversa. Buona parte di noi italiani può godere degli stessi piaceri dei più ricchi del mondo, perché in effetti siamo tra i più ricchi del mondo:
 
