@@ -11,3 +11,7 @@ sitemap: false
     width: auto;
     max-height: 600px;
 }
+
+html {
+    font-size: calc(16px + 4 * ((100vw - 320px) / 960));
+}
