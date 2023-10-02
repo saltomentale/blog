@@ -20,7 +20,7 @@ image:
 > Numerosi elementi influenzano il nostro stato d’animo. Molti di questi possono essere manipolati per farci sentire meglio con meno fatica.
 
 
-![]({{ '/assets/media/Schiavi-dellumore.png' | relative_url }})
+![]({{ '/assets/media/Schiavi-dellumore.png' | absolute_url }})
 
 Capita a tutti di alzarsi col piede sbagliato. Magari si è dormito poco o male, il caffè è stato meno buono del solito o c’è qualche ritardo col treno. Cose di poco conto che ci fanno cadere in uno stato di cattivo umore.
 

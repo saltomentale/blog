@@ -25,7 +25,7 @@ Le abitudini sono spesso piccole, subdole, insignificanti. Presa singolarmente o
 
 Il potere delle piccole abitudini sta nel fatto che le ripetiamo volta dopo volta, con consistenza, per anni.
 
-![Effetto delle abitudini - Stalattiti in una caverna formate goccia dopo goccia]({{ '/assets/media/Cambiare-abitudini-Stalattite.jpeg' | relative_url }})Ricetta: goccia dopo goccia. Foto di [Matteo Panara](https://unsplash.com/@panteo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Effetto delle abitudini - Stalattiti in una caverna formate goccia dopo goccia]({{ '/assets/media/Cambiare-abitudini-Stalattite.jpeg' | absolute_url }})Ricetta: goccia dopo goccia. Foto di [Matteo Panara](https://unsplash.com/@panteo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Le abitudini sono il nostro pilota automatico. Scattano quando siamo in una situazione nota e ci permettono di evitare continue decisioni.
 
@@ -43,7 +43,7 @@ Pensa alla guida di un’automobile: movimenti complessi che fatichiamo a gestir
 
 Ogni ripetizione di un’abitudine ha tre fasi:
 
-![Cambiare abitudini - Ciclo delle abitudini - Indizio-Azione-Ricompensa]({{ '/assets/media/Cambiare-abitudini-Ciclo.jpg' | relative_url }})
+![Cambiare abitudini - Ciclo delle abitudini - Indizio-Azione-Ricompensa]({{ '/assets/media/Cambiare-abitudini-Ciclo.jpg' | absolute_url }})
 
 **L’indizio** è ciò che scatena l’abitudine, la scintilla (in inglese trigger, grilletto, innesco).
 
@@ -72,7 +72,7 @@ Possiamo agire su tutti e tre gli elementi del ciclo, a seconda della situazione
 
 ### Agire sull’indizio
 
-![Cambiare abitudini - Ciclo delle abitudini - Indizio]({{ '/assets/media/Cambiare-abitudini-Ciclo-–-Indizio.jpg' | relative_url }})
+![Cambiare abitudini - Ciclo delle abitudini - Indizio]({{ '/assets/media/Cambiare-abitudini-Ciclo-–-Indizio.jpg' | absolute_url }})
 
 - Arrivano le 11:00 e vado al bar a prendere caffè e dolcetto. Relax.
 - Vedo la ciotola con le caramelle sul tavolo e ne mangio una. Gusto.
@@ -90,7 +90,7 @@ Per agire sull’indizio possiamo modificare l’ambiente in modo da innescare p
 
 ### Agire sull’azione
 
-![Cambiare abitudini - Ciclo delle abitudini - Azione]({{ '/assets/media/Cambiare-abitudini-Ciclo-–-Azione.jpg' | relative_url }})
+![Cambiare abitudini - Ciclo delle abitudini - Azione]({{ '/assets/media/Cambiare-abitudini-Ciclo-–-Azione.jpg' | absolute_url }})
 
 - Arrivano le 11:00 e vado al bar a prendere caffè e dolcetto. Relax.
 - Sento freddo e vado in cucina a farmi una cioccolata. Caldo.
@@ -110,7 +110,7 @@ Dicevamo che azioni più semplici facilitano un’abitudine mentre azioni più d
 
 ### Agire sulla ricompensa
 
-![Cambiare abitudini - Ciclo delle abitudini - Ricompensa]({{ '/assets/media/Cambiare-abitudini-Ciclo-–-Ricompensa.jpg' | relative_url }})
+![Cambiare abitudini - Ciclo delle abitudini - Ricompensa]({{ '/assets/media/Cambiare-abitudini-Ciclo-–-Ricompensa.jpg' | absolute_url }})
 
 - Sono stanco e fumo una sigaretta. Relax. ?
 - Finisco il lavoro e faccio una corsa. Fatica. ?

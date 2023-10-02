@@ -23,7 +23,7 @@ image:
 — Denis Diderot
 
 
-![]({{ '/assets/media/Effetto-Diderot.png' | relative_url }})
+![]({{ '/assets/media/Effetto-Diderot.png' | absolute_url }})
 
 Bambina mia,
 

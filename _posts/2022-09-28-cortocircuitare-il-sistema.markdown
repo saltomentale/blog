@@ -29,7 +29,7 @@ Rispolveriamo un poco di elettrotecnica.
 
 Possiamo rappresentare un circuito elettrico che accende una lampadina col seguente schema:
 
-![]({{ '/assets/media/Cortocircuitare-il-sistema.drawio-1.png' | relative_url }})
+![]({{ '/assets/media/Cortocircuitare-il-sistema.drawio-1.png' | absolute_url }})
 
 Il circuito è alimentato con una tensione ‘V1’ e percorso dalla corrente ‘i’ che accende la lampada attraversandola.
 
@@ -41,7 +41,7 @@ Possiamo dedurne che:
 
 Torniamo al fai da te e supponiamo di dover installare una mensola. Vogliamo spendere le nostre risorse nel modo più efficiente possibile, idealmente vorremmo chiamare un _tizio delle mensole_, dirgli quello che vogliamo ed avere tutto pronto entro un’ora spendendo poco.
 
-![]({{ '/assets/media/Tizio-delle-mensole.jpeg' | relative_url }})Ecco i Tizi delle mensole! Ah no, forse questi sono quelli delle metanfetamine…
+![]({{ '/assets/media/Tizio-delle-mensole.jpeg' | absolute_url }})Ecco i Tizi delle mensole! Ah no, forse questi sono quelli delle metanfetamine…
 
 Ok, ma abbiamo detto che ci sono le resistenze!
 
@@ -53,7 +53,7 @@ Ok, ma abbiamo detto che ci sono le resistenze!
 
 Rappresentiamo il tutto con un bel circuito.
 
-![]({{ '/assets/media/Cortocircuitare-il-sistema.drawio.png' | relative_url }})
+![]({{ '/assets/media/Cortocircuitare-il-sistema.drawio.png' | absolute_url }})
 
 Benissimo, ora introduciamo un nuovo concetto, quello di **cortocircuito**.
 
@@ -61,7 +61,7 @@ Se prendiamo una forchetta di metallo e la infiliamo nella presa elettrica, crei
 
 _Vedi gli approfondimenti per una spiegazione più accurata!_
 
-![]({{ '/assets/media/Cortocircuitare-il-sistema.drawio-2.png' | relative_url }})
+![]({{ '/assets/media/Cortocircuitare-il-sistema.drawio-2.png' | absolute_url }})
 
 Se R2 è molto minore di R1, possiamo dire che abbiamo cortocircuitato il sistema, escludendo di fatto R1 e rimpiazzandola con R2.
 
@@ -71,7 +71,7 @@ Innanzitutto possiamo dire addio a tutte le resistenze legate al mondo imprendit
 
 Introdurremo invece delle nuove resistenze: il tempo per eseguire i lavori e gli strumenti che acquistiamo apposta per applicare la nostra mensola.
 
-![]({{ '/assets/media/Cortocircuitare-il-sistema.drawio-4.png' | relative_url }})
+![]({{ '/assets/media/Cortocircuitare-il-sistema.drawio-4.png' | absolute_url }})
 
 Il gioco vale la candela? Facciamo due conti, ho messo delle mensole da poco e sono fresco di prezzi del Brico.
 
@@ -79,7 +79,7 @@ Volevo delle belle mensole in legno massello per rimpiazzare il mega-mobile-TV d
 
 Mensole in legno massello danno un bel tono al nostro salotto [minimalista](/minimalismo-significato/) tutto bianco.
 
-![]({{ '/assets/media/add67befcb6f927e-600x338-1.jpg' | relative_url }})“Amico, chi ti ha rubato i mobili?!”
+![]({{ '/assets/media/add67befcb6f927e-600x338-1.jpg' | absolute_url }})“Amico, chi ti ha rubato i mobili?!”
 
 Mensole del genere non è facile trovarle nei negozi di bricolage per cui avrei dovuto rivolgermi ad un falegname. Tra il costo del legname, la manodopera e le tasse avremmo speso sui 1500€. Avremmo anche dovuto aspettare settimane o mesi, visto quanto è congestionato il mercato di questi tempi, e correvamo un serio rischio di fraintendimenti su tinte e stili.
 
@@ -89,7 +89,7 @@ Ora, io sono <del>tirchio</del> attento all’ambiente e quindi amo il riuso. Su
 
 Aggiungendo i tasselli al Brico (10€) e quattro ore di gradevole lavoro (40€) abbiamo speso 150€ in totale.
 
-![]({{ '/assets/media/fulmine.jpeg' | relative_url }})Un bel cortocircuito, SBAM! Si, so che è un fulmine e che non c’entra niente, ma ti sfido a trovare una foto evocativa di un cortocircuito. Foto di [Michał Mancewicz](https://unsplash.com/@kreyatif?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/fulmine.jpeg' | absolute_url }})Un bel cortocircuito, SBAM! Si, so che è un fulmine e che non c’entra niente, ma ti sfido a trovare una foto evocativa di un cortocircuito. Foto di [Michał Mancewicz](https://unsplash.com/@kreyatif?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Implicazioni
 
@@ -115,7 +115,7 @@ Cortocircuitare il sistema permette di **evitare le tasse legalmente**.
 
 IRPEF, IVA ed INPS possono arrivare ad erodere oltre il 65% di quello che paghiamo ad un professionista. Di 100€ che paghiamo gliene rimangono in tasca 35€.
 
-![]({{ '/assets/media/B2106973-9E6C-4BEB-8A10-496BE0F158B2.png' | relative_url }})Questa la situazione quando incassiamo 100€ aggiuntivi alla massima aliquota fiscale, con imponibile > 50.000€ annui (non proprio stratosferico).
+![]({{ '/assets/media/B2106973-9E6C-4BEB-8A10-496BE0F158B2.png' | absolute_url }})Questa la situazione quando incassiamo 100€ aggiuntivi alla massima aliquota fiscale, con imponibile > 50.000€ annui (non proprio stratosferico).
 
 Col fai da te la pressione fiscale rimane solo sui materiali. Acquistandoli di seconda mano spesso [non le paghiamo affatto](https://www.laleggepertutti.it/59320_posso-vendere-beni-usati-quali-tasse-devo-pagare).
 

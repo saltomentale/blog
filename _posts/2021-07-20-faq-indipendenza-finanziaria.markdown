@@ -21,7 +21,7 @@ Migliorare la propria indipendenza finanziaria è possibile? È desiderabile? Co
 
 In questo articolo provo ad articolare la mia visione e rispondere alle domande frequenti sulla indipendenza finanziaria. Prima di partire, consiglio la lettura dell'articolo principale sulla [**indipendenza finanziaria**.](/indipendenza-finanziaria/)
 
-![]({{ '/assets/media/FAQ-Indipendenza-finanziaria.png' | relative_url }})
+![]({{ '/assets/media/FAQ-Indipendenza-finanziaria.png' | absolute_url }})
 
 ## Domande frequenti sull'indipendenza finanziaria
 

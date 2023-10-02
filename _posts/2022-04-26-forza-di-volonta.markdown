@@ -24,7 +24,7 @@ Una delle [lezioni che ho ricevuto dai miei nonni](/lezioni-nonni/) è che, con 
 
 Viva la forza di volontà, è la soluzione a tutti i problemi!
 
-![]({{ '/assets/media/La-forza-di-volontà-è-limitata.jpg' | relative_url }})
+![]({{ '/assets/media/La-forza-di-volontà-è-limitata.jpg' | absolute_url }})
 
 Già, la forza di volontà non può risolvere tutto.
 

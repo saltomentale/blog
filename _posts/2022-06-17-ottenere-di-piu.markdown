@@ -31,7 +31,7 @@ Si chiama _software open source_.
 
 Per giunta chi utilizzerà tali strumenti potrebbe anche essere un competitor diretto.
 
-![]({{ '/assets/media/Open-source-imprenditore-brianzolo.jpeg' | relative_url }})Ed ecco che l’imprenditore brianzolo ha perso i sensi. Foto di [meriç tuna](https://unsplash.com/@tunagraphy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/Open-source-imprenditore-brianzolo.jpeg' | absolute_url }})Ed ecco che l’imprenditore brianzolo ha perso i sensi. Foto di [meriç tuna](https://unsplash.com/@tunagraphy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Sviluppatori indipendenti si riuniscono sui forum, **condividono** soluzioni a problemi comuni e si aiutano l’un l’altro anche quando si è in **competizione** per il tempo ed i soldi degli stessi utenti.
 
@@ -45,7 +45,7 @@ Ci hanno invitati ad una festicciola tra amici.
 
 C’è questo tortino a tavola e dobbiamo dividerlo in 10. Ce ne tocca il 10%.
 
-![]({{ '/assets/media/Mangiare-più-torta-Partenza.jpg' | relative_url }})
+![]({{ '/assets/media/Mangiare-più-torta-Partenza.jpg' | absolute_url }})
 
 Ma che fame, ne vogliamo di più!
 
@@ -59,7 +59,7 @@ Scommettiamo col tizio di fronte che sappiamo fare il gesto di Spock ? meglio di
 
 Ci siamo portati al 30% di torta! Ed abbiamo perso due amici, pace.
 
-![]({{ '/assets/media/Mangiare-più-torta-Competizione.jpg' | relative_url }})
+![]({{ '/assets/media/Mangiare-più-torta-Competizione.jpg' | absolute_url }})
 
 ### Collaborazione
 
@@ -69,7 +69,7 @@ In cucina c’è chi si adopera per farla e noi siamo in attesa in sala da pranz
 
 Il nostro intervento ispira gli altri commensali e finiamo per creare tutti una bellissima torta, 3 volte più grande e più buona della precedente!
 
-![]({{ '/assets/media/Mangiare-più-torta-Collaborazione.jpg' | relative_url }})
+![]({{ '/assets/media/Mangiare-più-torta-Collaborazione.jpg' | absolute_url }})
 
 ### Diversificazione
 
@@ -81,7 +81,7 @@ Noi alla torta ci teniamo proprio, per cui prendiamo accordi con un nostro amico
 
 Invece di puntare sulla torta principale, ce ne procuriamo un’altra.
 
-![]({{ '/assets/media/Mangiare-più-torta-Diversificazione.jpg' | relative_url }})
+![]({{ '/assets/media/Mangiare-più-torta-Diversificazione.jpg' | absolute_url }})
 
 ## Ottenere di più nel mondo del lavoro
 

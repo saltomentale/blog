@@ -15,7 +15,7 @@ image:
   thumbnail: /assets/media/I-nuovi-ruminanti-Copertina.jpeg
 ---
 
-![]({{ '/assets/media/I-nuovi-ruminanti.png' | relative_url }})
+![]({{ '/assets/media/I-nuovi-ruminanti.png' | absolute_url }})
 
     <code>Ho riscritto questo articolo il 23 Aug 2021.</code>
 

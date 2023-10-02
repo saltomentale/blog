@@ -36,7 +36,7 @@ Alla fine abbiamo deciso di mollare la metropoli e trasferirci in una città pi�
 
 Siamo tornati in un borgo montano a fine febbraio 2020. Non torneremmo indietro per niente al mondo. Credo che il 90% della popolazione, esclusa la fascia nel decennio 15-25 anni, potrebbe trovare in provincia un ambiente ideale.
 
-![]({{ '/assets/media/borgo.jpeg' | relative_url }})No, non è così figo, questa è una foto by [Tim Trad](https://unsplash.com/@timtrad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/borgo.jpeg' | absolute_url }})No, non è così figo, questa è una foto by [Tim Trad](https://unsplash.com/@timtrad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### I problemi della città e perché ci si vive
 
@@ -59,7 +59,7 @@ Pensa ora ad un’azienda con uffici in un borgo in riva al Lago di Garda, immer
 
 Ehi voi, imprenditori, basta guardare il palazzo Unicredit a Milano con la bava alla bocca, quella roba è per mezze calzette col [complesso di Napoleone](https://it.wikipedia.org/wiki/Sindrome_di_Napoleone). **Borghetto is the new palazzone**!
 
-![]({{ '/assets/media/vetri.jpeg' | relative_url }})Se non spendi 50.000€ all’anno in pulizia vetri non sei nessuno. Photo by [Caterina Beleffi](https://unsplash.com/@caterinabeleffi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/vetri.jpeg' | absolute_url }})Se non spendi 50.000€ all’anno in pulizia vetri non sei nessuno. Photo by [Caterina Beleffi](https://unsplash.com/@caterinabeleffi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### I problemi del borgo
 

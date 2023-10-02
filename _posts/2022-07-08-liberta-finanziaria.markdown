@@ -34,7 +34,7 @@ Come per l’indipendenza finanziaria, non esiste una _assoluta_ libertà finanz
 
 Possiamo riprendere i nostri **livelli d’indipendenza finanziaria** come riferimento:
 
-![Percorso per raggiungere l'indipendenza finanziaria]({{ '/assets/media/Migliorare-lindipendenza-finanziaria.png' | relative_url }})
+![Percorso per raggiungere l'indipendenza finanziaria]({{ '/assets/media/Migliorare-lindipendenza-finanziaria.png' | absolute_url }})
 
 La definizione di libertà finanziaria introduce anche termini nuovi ed interessanti.
 
@@ -57,7 +57,7 @@ A dimostrazione del fatto che esistono molte sfumature di libertà finanziaria, 
 
 Li ha chiamati **i 4 quadranti del cashflow**:
 
-![I quadranti del cashflow di Robert Kiyosaki, grafico]({{ '/assets/media/I-quadranti-del-cashflow-di-Robert-Kiyosaki.png' | relative_url }})
+![I quadranti del cashflow di Robert Kiyosaki, grafico]({{ '/assets/media/I-quadranti-del-cashflow-di-Robert-Kiyosaki.png' | absolute_url }})
 
 Sono 4 modi molto diversi di procurarsi da vivere.
 
@@ -81,7 +81,7 @@ Troviamo in italiano i libri più famosi dei due autori:
 
 Chiudo questa parentesi, ti ricorderò di nuovo i libri in fondo all’articolo.
 
-![Libertà finanziaria - Barattolo con monetine]({{ '/assets/media/Libertà-finanziaria-Barattolo-con-monetine-.jpg' | relative_url }})Perché se li compri io faccio il grano duro! Nah, cercali in biblioteca, tanto so’ spicci.  
+![Libertà finanziaria - Barattolo con monetine]({{ '/assets/media/Libertà-finanziaria-Barattolo-con-monetine-.jpg' | absolute_url }})Perché se li compri io faccio il grano duro! Nah, cercali in biblioteca, tanto so’ spicci.  
 Foto di [Josh Appel](https://unsplash.com/@joshappel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Formula per la libertà finanziaria
@@ -124,7 +124,7 @@ Abbiamo visto che la formula di libertà finanziaria ha due soli elementi: rendi
 
 Partiamo da queste ultime. **Ridurre le spese** tramite un accurato bilancio familiare ha un impatto enorme sulla nostra libertà finanziaria.
 
-![Bilancio familiare - porcellino salvadanaio]({{ '/assets/media/Bilancio-familiare-porcellino-salvadanaio.jpg' | relative_url }})Magari sei stufo del consiglio, ma risparmiare rimane un’arma potente.  
+![Bilancio familiare - porcellino salvadanaio]({{ '/assets/media/Bilancio-familiare-porcellino-salvadanaio.jpg' | absolute_url }})Magari sei stufo del consiglio, ma risparmiare rimane un’arma potente.  
 Foto di [Fabian Blank](https://unsplash.com/@blankerwahnsinn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Partiamo dal caso estremo. Se le nostre spese fossero 0€ godremmo da subito di infinita liberà, non ci servono i soldi.
@@ -145,7 +145,7 @@ Ecco ora la magia: se dimezziamo le spese portandole a 750€ mensili il tempo s
 
 Vedi quanto è potente modificare il proprio stile di vita?
 
-![]({{ '/assets/media/108782FC-17E4-4DD2-9450-2EB84791AE90.png' | relative_url }})
+![]({{ '/assets/media/108782FC-17E4-4DD2-9450-2EB84791AE90.png' | absolute_url }})
 
 Ah, so bene che con 750€ al mese non ci si fa nulla!  
 Fatti i calcoli che preferisci:  
@@ -155,7 +155,7 @@ Fatti i calcoli che preferisci:
 
 Il secondo punto chiave è il concetto di rendite passive.
 
-![Rendita passiva - Ingranaggi al lavoro]({{ '/assets/media/Rendita-passiva-Ingranaggi-al-lavoro.jpg' | relative_url }})Dette anche **rendite automatiche**.  
+![Rendita passiva - Ingranaggi al lavoro]({{ '/assets/media/Rendita-passiva-Ingranaggi-al-lavoro.jpg' | absolute_url }})Dette anche **rendite automatiche**.  
 Foto di [Laura Ockel](https://unsplash.com/@viazavier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 **La rendita passiva è che una entrata finanziaria che non richiede il nostro perpetuo lavoro per essere prodotta.**
@@ -243,7 +243,7 @@ Dopo 10 anni sono 12’000€!
 
 **Le cifre possono diventare importanti.**
 
-![]({{ '/assets/media/Rendite-passive-crescita.png' | relative_url }})
+![]({{ '/assets/media/Rendite-passive-crescita.png' | absolute_url }})
 
 Ma ecco che la realtà ci schiaffeggia. Vediamo la seconda caratteristica delle rendite passive: **non sono garantite**!
 
@@ -251,7 +251,7 @@ Nessuno ci garantisce di poter fare quei 100€ al mese. Anzi, è possibile che 
 
 In tal caso conveniva fare un lavoro dipendente!
 
-![]({{ '/assets/media/Rendite-passive-a-confronto.png' | relative_url }})
+![]({{ '/assets/media/Rendite-passive-a-confronto.png' | absolute_url }})
 
 Il tasso di fallimento è alto, i costi da sostenere per avviare una piccola attività possono essere gravosi e la redditività non è scontata.
 

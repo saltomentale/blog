@@ -29,7 +29,7 @@ Analizziamo un esempio concreto.
 
 In un universo parallelo io [potrei ancora lavorare in città](/quanto-costa-lavorare/) e fare il pendolare per recarmi al lavoro anche oggi che sono diventato padre; in effetti ho tanti cari amici che hanno fatto un percorso simile al mio ed oggi si trovano in quella situazione. Ipotizziamo che anche io stia facendo ancora lo stesso e vediamo quanto sono coerente.
 
-![]({{ '/assets/media/Misurare-la-coerenza-Priorità.png' | relative_url }})
+![]({{ '/assets/media/Misurare-la-coerenza-Priorità.png' | absolute_url }})
 
 > Prima di tutto sono un padre di famiglia ed un membro funzionale della mia comunità. In secondo luogo sono un idealista che ama la natura. Infine, sono un ingegnere, il che mi procura anche da vivere.  
 — Io, sia nell’universo che in questo.
@@ -41,15 +41,15 @@ Le mie azioni [sono coerenti](/siamo-coerenti/) con quello che penso? Partiamo a
 
 Ecco la settimana tipo:
 
-![]({{ '/assets/media/B9F50B41-4343-4DF9-9CA0-6C695734B63F.png' | relative_url }})
+![]({{ '/assets/media/B9F50B41-4343-4DF9-9CA0-6C695734B63F.png' | absolute_url }})
 
 Tolte le attività essenziali per vivere, il resto si suddivide in tre ambiti: lavoro, relazioni ed altro, che include qualche corsa nei boschi come espressione del mio amore per la natura. Aggreghiamo il tutto in un grafico a torta:
 
-![]({{ '/assets/media/D156E3F7-4E4F-4F5C-A690-6AD20BC36858.png' | relative_url }})
+![]({{ '/assets/media/D156E3F7-4E4F-4F5C-A690-6AD20BC36858.png' | absolute_url }})
 
 Togliendo gli essenziali, dedico la maggior parte del mio tempo al lavoro, più del doppio rispetto a quello che dedico alle relazioni; le attività nella natura sono trascurabili. Ops.
 
-![]({{ '/assets/media/Misurare-la-coerenza-Tempo.png' | relative_url }})
+![]({{ '/assets/media/Misurare-la-coerenza-Tempo.png' | absolute_url }})
 
 ### Spendo i miei soldi in modo coerente con chi dico di essere?
 
@@ -59,17 +59,17 @@ Togliendo gli essenziali, dedico la maggior parte del mio tempo al lavoro, più 
 
 Questa prima analisi è stata impietosa, dopo tutto col [sacrificio che facciamo lavorando](/tanto-lavoro-per-nulla/) stiamo finanziando tutto quello che conta, il tutto sta nel vedere il modo in cui spendiamo i soldi e di sicuro questo sarà coerente coi miei valori, no? Ecco le spese mensili, a spanne, che suppongo di sostenere nell’universo parallelo:
 
-![]({{ '/assets/media/50F9240B-1BC8-48CC-A467-97B4B9DAC21A.png' | relative_url }})
+![]({{ '/assets/media/50F9240B-1BC8-48CC-A467-97B4B9DAC21A.png' | absolute_url }})
 
 L’abitazione e gli essenziali sono la maggior parte delle spese, ma vale la pena di chiedersi che cosa sia essenziale davvero: ho fatto del mio meglio per suddividere alcune voci in due parti, la prima sotto essenziali per la spesa di base, la seconda sotto _status_ ad indicare una aggiunta rispetto ai nostri bisogni di base. Ad esempio, avere una bella auto nuova non ci serve rispetto alla nostra utilitaria, sarebbe una spesa solo per status, perché annoiati o per premiare le nostre fatiche.
 
 Ecco il grafico con gli aggregati:
 
-![]({{ '/assets/media/D43B1550-D3DF-4340-9D72-E436A349D407.png' | relative_url }})
+![]({{ '/assets/media/D43B1550-D3DF-4340-9D72-E436A349D407.png' | absolute_url }})
 
 Una volta soddisfatti i bisogni di base (abitazione ed essenziali) spendo soprattutto in in status, diversivi e cose per permettermi di lavorare. Il confronto con gli ideali è impietoso.
 
-![]({{ '/assets/media/Misurare-la-coerenza-Denaro.png' | relative_url }})
+![]({{ '/assets/media/Misurare-la-coerenza-Denaro.png' | absolute_url }})
 
 ## Perché non siamo chi vogliamo essere
 

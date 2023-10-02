@@ -29,7 +29,7 @@ Ora, la parola ad Archeowealth!
 
 ---
 
-![]({{ '/assets/media/tempo.jpg' | relative_url }})Photo by [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ '/assets/media/tempo.jpg' | absolute_url }})Photo by [NeONBRAND](https://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 E’ possibile investire in autonomia i propri risparmi pur non avendo una preparazione approfondita di finanza ed economia? E’ possibile creare un portafoglio di investimento efficiente che offra risultati in linea con l’andamento dei mercati nel lungo periodo?
 
@@ -47,7 +47,7 @@ Questo semplice gesto, qualche click dal vostro home banking, sarà l’ultimo d
 
 In tutto questo percorso un consulente finanziario può servire oppure no, dipende dal vostro grado di educazione finanziaria e dalla vostra voglia di accrescerla nel tempo. Più progredite meno vi servirà pagare qualcuno per investire i vostri soldi.
 
-![]({{ '/assets/media/stones.jpg' | relative_url }})Photo by [Brad West](https://unsplash.com/@mintchap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ '/assets/media/stones.jpg' | absolute_url }})Photo by [Brad West](https://unsplash.com/@mintchap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Archeowealth non ci avevi promesso che in 2 minuti puoi costruire un portafoglio di investimento probabilmente migliore di quello proposto dai gestori professionisti? Mantengo la promessa.
 
@@ -57,7 +57,7 @@ Andiamo avanti. Parto dal presupposto che avete già aperto un normalissimo cont
 
 Ora sì che facciamo partire il cronometro.
 
-![]({{ '/assets/media/chrono.jpg' | relative_url }})Photo by [Stanislav Remnev](https://unsplash.com/@stan_remnev?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ '/assets/media/chrono.jpg' | absolute_url }})Photo by [Stanislav Remnev](https://unsplash.com/@stan_remnev?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 1. Aprite il vostro home banking con user e password.
 2. Andate nella sezione investimenti e fate una ricerca prodotto per Isin inserendo IE00BK5BQT80 e IE00BG47KH54.
@@ -73,7 +73,7 @@ Ho scelto due ETF di Vanguard che investono a livello globale. Sull’azionario 
 
 Sull’obbligazionario (Global Aggregate Bond) con un unico prodotto i vostri soldi saranno ripartiti su tutte le principali categorie di obbligazioni mondiali con l’accortezza di coprire il [rischio di cambio](https://investireconbuonsenso.com/2017/01/10/chiariamo-meglio-cosa-intendiamo-per-costo-di-copertura-del-rischio-cambio/). Governativi, corporate, finanziari ed emergenti.
 
-![]({{ '/assets/media/terra.jpg' | relative_url }})Photo by [Elena Mozhvilo](https://unsplash.com/@miracleday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ '/assets/media/terra.jpg' | absolute_url }})Photo by [Elena Mozhvilo](https://unsplash.com/@miracleday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 L’unica attività extra che dovrete compiere nel corso degli anni sarà ribilanciare, se necessario, ciò che ha guadagnato tanto (vendendo) a favore di ciò che ha guadagnato meno (acquistando). La miglior strategia di gestione del rischio che esiste al mondo vi porterà via al massimo altri 2 minuti all’anno.
 

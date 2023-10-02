@@ -21,7 +21,7 @@ image:
 Specie per quanto riguarda la vita lavorativa.
 
 
-![]({{ '/assets/media/Quanto-ci-costa-lavorare-1.png' | relative_url }})
+![]({{ '/assets/media/Quanto-ci-costa-lavorare-1.png' | absolute_url }})
 
 Poco tempo fa, scrivendo una lettera a mia figlia sulla tendenza a [lavorare troppo per nessun motivo](/tanto-lavoro-per-nulla/), mi sono reso conto di aver preso le scelte più importanti per la mia carriera sulla baste del solo Reddito Annuo Lordo (RAL). È stato un errore grossolano da cui possiamo imparare qualcosa.
 
@@ -219,7 +219,7 @@ Vivendo al Paesiello, la nostra gita fuori porta parte da quando chiudiamo il ca
 
 Abbandonare il Paesiello per andare a Milano, seppure con un RAL iniziale del 50% più alto (30k vs 20k) finisce col costarci molto di più:
 
-![]({{ '/assets/media/49F3CEBA-50E0-48F9-9714-D067116DFC6A.png' | relative_url }})
+![]({{ '/assets/media/49F3CEBA-50E0-48F9-9714-D067116DFC6A.png' | absolute_url }})
 
 Grazie alla mia scelta ho ottenuto in media 450€ in meno al mese. In 10 anni sono 54,000€. Non sono tutti soldi che mi sarei ritrovato in tasca, sia chiaro, ma sono risorse che avrei allocato in aree più significative della mia vita e di cui avrei tratto maggior beneficio.
 
@@ -227,6 +227,6 @@ In parte mi ferisce ammettere che per me la scelta giusta era il Paesiello. Ero 
 
 Per voi il risultato potrebbe essere diverso. Ecco quindi il file promesso: fate i vostri calcoli e guardate in faccia la realtà. Buon lavoro.
 
-[Quanto_ci_costa_lavorare]({{ '/assets/media/Il-costo-delle-cose-Lavoro.xlsx' | relative_url }})[Scarica]({{ '/assets/media/Il-costo-delle-cose-Lavoro.xlsx' | relative_url }})
+[Quanto_ci_costa_lavorare]({{ '/assets/media/Il-costo-delle-cose-Lavoro.xlsx' | absolute_url }})[Scarica]({{ '/assets/media/Il-costo-delle-cose-Lavoro.xlsx' | absolute_url }})
 
     Immagine di copertina by <a href="https://unsplash.com/@flovayn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian van Duyn</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

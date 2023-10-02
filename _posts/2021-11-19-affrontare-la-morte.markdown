@@ -19,7 +19,7 @@ image:
   thumbnail: /assets/media/Il-più-grande-spoiler-Copertina.jpeg
 ---
 
-![]({{ '/assets/media/Il-più-grande-spoiler.png' | relative_url }})
+![]({{ '/assets/media/Il-più-grande-spoiler.png' | absolute_url }})
 
 Quella che segue è una lettera destinata a mia figlia e parla di cos’è la morte, di cosa succede dopo la morte (forse) e del perché non dovremmo esserne impensieriti.
 
@@ -92,7 +92,7 @@ Come dice ogni sera un tuo anziano zio: “e così, ho scroccato un altro giorno
 — Tiziano Terzani, Un altro giro di giostra.
 
 
-![]({{ '/assets/media/morte-intermezzo.jpeg' | relative_url }})Boh, mi piaceva questa foto di [Nila Maria](https://unsplash.com/@nilamaria?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) e serve per spezzare un attimo il ritmo :)
+![]({{ '/assets/media/morte-intermezzo.jpeg' | absolute_url }})Boh, mi piaceva questa foto di [Nila Maria](https://unsplash.com/@nilamaria?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) e serve per spezzare un attimo il ritmo :)
 
 ### Sii consapevole delle probabilità
 

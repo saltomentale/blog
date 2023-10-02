@@ -22,7 +22,7 @@ image:
 > Vediamo il mondo attraverso delle lenti. Indossa lenti buone e vedrai le cose bene. Indossa lenti deformi e vedrai mostri ovunque.
 
 
-![]({{ '/assets/media/Modelli-mentali.png' | relative_url }})
+![]({{ '/assets/media/Modelli-mentali.png' | absolute_url }})
 
 Figlia mia,
 

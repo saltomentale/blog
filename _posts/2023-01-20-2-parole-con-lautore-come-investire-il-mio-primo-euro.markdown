@@ -59,7 +59,7 @@ Gli studenti italiani erano in penultima posizione in Europa per conoscenze fina
 
 Infatti, il manuale si rivolge principalmente ai genitori, anche per ovvie ragioni anagrafiche, seppure credo che anche un quindicenne possa comprendere buona parte dei concetti. C’è un altro motivo per cui ho scelto la platea dei genitori: nel 2016 uscì uno dei più importanti studi per misurare l’alfabetizzazione finanziaria a livello globale, lo “[Standard & Poor's Ratings Services Global Financial Literacy Survey](https://gflec.org/initiatives/sp-global-finlit-survey/)”.
 
-![Mappa mondiale del livello di preparazione finanziaria]({{ '/assets/media/World-Map-Results2-jpeg-e1447795856530.jpeg' | relative_url }})
+![Mappa mondiale del livello di preparazione finanziaria]({{ '/assets/media/World-Map-Results2-jpeg-e1447795856530.jpeg' | absolute_url }})
 
 Solo il 33% della popolazione globale poteva essere considerato “preparato”. In Europa uno su due, mentre in Italia solo il 37%.
 
@@ -77,7 +77,7 @@ Si parte dagli obiettivi, che rappresentano lo scopo finale del nostro viaggio d
 
 I prodotti sono solo il mezzo che ci porterà alla meta del nostro viaggio. Ma come ci arriveremo, con quali esperienze, seguendo quale itinerario, il prodotto non è in grado di svelarlo. E quindi il prodotto è indispensabile, ma percentualmente poco rilevante per il successo finale.
 
-![Piramide dell'investire - Lorenzo Biagi]({{ '/assets/media/image3.png' | relative_url }})
+![Piramide dell'investire - Lorenzo Biagi]({{ '/assets/media/image3.png' | absolute_url }})
 
     <strong>Riesci a mettere in pratica con profitto i consigli del libro per la tua famiglia? Hai iniziato da subito con la nascita delle tue figlie oppure hai imparato strada facendo? </strong>
 
@@ -136,4 +136,4 @@ Non posso che raccomandare il libro di Lorenzo. È serio, solido e chiaro e ques
 
 Lorenzo Biagi, [Come investire il mio primo euro](https://amzn.to/3Ub6Ceb).
 
-![Copertina - intervista Lorenzo Biagi]({{ '/assets/media/Copertina-intervista-Lorenzo-Biagi.jpeg' | relative_url }})
+![Copertina - intervista Lorenzo Biagi]({{ '/assets/media/Copertina-intervista-Lorenzo-Biagi.jpeg' | absolute_url }})

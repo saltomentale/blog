@@ -22,11 +22,11 @@ image:
 
 Ogni anno dedico i giorni tra Natale e l’Epifania a fare due cose che ho sempre ritenuto importanti. La prima è fare una lista dei buoni propositi per l’anno che inizia.
 
-![I buoni propositi non servono a nulla - Obiettivi annuali]({{ '/assets/media/Tanti-buoni-propositi-Obiettivi-annuali.png' | relative_url }})Dai che quest’anno spacco!
+![I buoni propositi non servono a nulla - Obiettivi annuali]({{ '/assets/media/Tanti-buoni-propositi-Obiettivi-annuali.png' | absolute_url }})Dai che quest’anno spacco!
 
 La seconda, è rivedere i propositi dell’anno passato, per capire dove ho fatto bene e dove devo migliorare.
 
-![]({{ '/assets/media/Tanti-buoni-propositi-Obiettivi-annuali-–-1.png' | relative_url }})La tartaruga più sfuggente mai vista…
+![]({{ '/assets/media/Tanti-buoni-propositi-Obiettivi-annuali-–-1.png' | absolute_url }})La tartaruga più sfuggente mai vista…
 
 Una volta alla settimana creo le mie liste delle cose da fare. Tutte importanti, tutte urgenti e tutte orientate nella direzione giusta per raggiungere i miei obiettivi annuali.
 
@@ -77,7 +77,7 @@ Se i buoni propositi non funzionano, chi potrà guidarci verso i nostri obiettiv
 
 Perseguire un obiettivo è un po’ come cercare un tesoro nascosto.
 
-![]({{ '/assets/media/Tanti-buoni-propositi-Mappa.jpg' | relative_url }})
+![]({{ '/assets/media/Tanti-buoni-propositi-Mappa.jpg' | absolute_url }})
 
 Per raggiungere il tesoro dobbiamo fare 3 cose.
 
@@ -92,7 +92,7 @@ Definire l’obiettivo sembra facile ma non lo è. Diciamo che il mio obiettivo 
 
 È forse l’obiettivo di tutti, ma che cosa significa? Nella nostra metafora della mappa del tesoro, un obiettivo del genere sarebbe come indicare una enorme X che copre tutto l’Oceano Pacifico.
 
-![]({{ '/assets/media/Tanti-buoni-propositi-Obiettivo-vago.jpeg' | relative_url }})Grazie, molto utile…
+![]({{ '/assets/media/Tanti-buoni-propositi-Obiettivo-vago.jpeg' | absolute_url }})Grazie, molto utile…
 
 _Vivere una buona vita_.
 
@@ -116,7 +116,7 @@ Adesso che conosco le coordinate del tesoro, prendo la mappa e traccio la via mi
 > Seguo le scoscese scogliere a ovest, evitando la catena montuosa, quindi prendo per le pianure fino all’inizio della foresta dei grandi abeti, mi dirigo a sud fino alla costa. Aggiro la foresta infestata e svolto a nord. Viaggio per 3 giorni, infine, sotto una palma da cocco, ci sarà il tesoro. Argh.
 
 
-![]({{ '/assets/media/Tanti-buoni-propositi-Mappa-1.jpg' | relative_url }})
+![]({{ '/assets/media/Tanti-buoni-propositi-Mappa-1.jpg' | absolute_url }})
 
 L’uomo che voglio diventare è ben diverso da chi sono oggi. Oggi sono solo un “giovane” che cambia pannolini, ne devo fare di strada per diventare un bravo padre! E così su tutti gli altri aspetti della mia vita.
 
@@ -130,7 +130,7 @@ Questa sequenza di obiettivi **non sono la destinazione finale** ma solo punti d
 
 Da ultimo dobbiamo rimboccarci le maniche ed eseguire il piano. **Non è qualcosa di sgradevole**, che bisogna fare a colpi di [forza di volontà](/forza-di-volonta/) e sacrifici. Può anche essere gradevole e rilassato, purché non ci facciamo distrarre dalle mille sirene che canteranno sul percorso.
 
-![]({{ '/assets/media/ulissesirene.jpg' | relative_url }})Poi scopri che le sirene mica erano attraenti come t’immaginavi!
+![]({{ '/assets/media/ulissesirene.jpg' | absolute_url }})Poi scopri che le sirene mica erano attraenti come t’immaginavi!
 
 Bene, resistere, capito. Siamo a posto o serve altro?
 
@@ -144,7 +144,7 @@ Come detto, definire l’obiettivo non è facile. Anche facendo del nostro megli
 
 Il nostro obiettivo potrebbe essere da tutt’altra parte, ed il percorso scelto essere inadeguato a raggiungerlo.
 
-![]({{ '/assets/media/Tanti-buoni-propositi-Mappa-–-1.jpg' | relative_url }})Ma qui non c’è nulla!
+![]({{ '/assets/media/Tanti-buoni-propositi-Mappa-–-1.jpg' | absolute_url }})Ma qui non c’è nulla!
 
 Un tipico esempio è la ricerca della ricchezza materiale. Potremmo dedicare decenni ad accumulare denaro, investire, speculare, lottare e sgobbare per poi svegliarci una mattina annoiati e fuori forma con una decappottabile che non abbiamo idea dove guidare. Era questo quello che stavamo cercando?
 
@@ -154,7 +154,7 @@ Anche con la miglior mappa ed un obiettivo ben chiaro, potremmo non sapere bene 
 
 Lo stesso punto di riferimento che si trovava lungo la strada del nostro obiettivo potrebbe ora essere fuorviante e farci sprecare tempo ed energie.
 
-![]({{ '/assets/media/Tanti-buoni-propositi-Mappa-–-2.jpg' | relative_url }})Devo andare verso le montagne, giusto?
+![]({{ '/assets/media/Tanti-buoni-propositi-Mappa-–-2.jpg' | absolute_url }})Devo andare verso le montagne, giusto?
 
 Prendiamo l’indipendenza finanziaria. Per tanti significa ritirarsi dal lavoro ed a prima vista sembra un obiettivo sensato anche nel mio caso, così potrò avere più tempo per la mia famiglia. Peccato che, una volta raggiunto un certo livello di robustezza, i benefici di ogni euro aggiuntivo si riducono velocemente. Rischiamo di confondere i nostri obiettivi con l’inseguimento di un qualche numero magico da vedere nell’estratto conto, numero che possa _garantirci_ di vivere di rendita.
 
@@ -168,7 +168,7 @@ Ipotizziamo di avere una mappa fantastica, un GPS ed un obiettivo ben preciso. S
 
 Cosa succede se la nostra foresta, punto di riferimento lungo la via per il tesoro di Barbanera, va a fuoco?
 
-![]({{ '/assets/media/Tanti-buoni-propositi-Mappa-–-3.jpg' | relative_url }})Ma non doveva esserci una foresta, qui da qualche parte?
+![]({{ '/assets/media/Tanti-buoni-propositi-Mappa-–-3.jpg' | absolute_url }})Ma non doveva esserci una foresta, qui da qualche parte?
 
 Prendiamo ancora la questione dell’indipendenza finanziaria. Diciamo che 200.000€ sono il margine di sicurezza che ci serve. Questo riferimento è mutevole come se fosse appoggiato ad un budino!
 
@@ -212,7 +212,7 @@ Potrebbero tornare utili questi [consigli per migliorare la propria indipendenza
 
 Useremo lo zaino coi rifornimenti per rimetterci in sesto in caso d’incidenti.
 
-![]({{ '/assets/media/Tanti-buoni-propositi-Strumenti.jpeg' | relative_url }})Foto di [Sesha Reddy Kovvuri](https://unsplash.com/@seshareddy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/Tanti-buoni-propositi-Strumenti.jpeg' | absolute_url }})Foto di [Sesha Reddy Kovvuri](https://unsplash.com/@seshareddy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Ecco qua, abbiamo tre strumenti che davvero fanno la differenza.  
 Basta buoni propositi, ora vado a spaccarmi di gelato.

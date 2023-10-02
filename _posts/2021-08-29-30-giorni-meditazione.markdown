@@ -19,7 +19,7 @@ image:
   thumbnail: /assets/media/Svuotare-la-mente-Copertina.jpeg
 ---
 
-![]({{ '/assets/media/30-giorni-di-meditazione.png' | relative_url }})
+![]({{ '/assets/media/30-giorni-di-meditazione.png' | absolute_url }})
 
 Amici,
 

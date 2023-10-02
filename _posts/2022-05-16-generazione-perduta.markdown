@@ -38,7 +38,7 @@ Esiste già una [generazione perduta](https://it.wikipedia.org/wiki/Generazione_
 
 Secondo gli storici, è composta da chi è nato tra il 1883 ed il 1900. Sono coloro che erano dell’età giusta… per combattere la Grande Guerra del 1915-1918.
 
-![]({{ '/assets/media/1920px-Douaumont_ossuary3.jpg' | relative_url }})Il cimitero militare di Douaumont che ospita i caduti francesi e tedeschi della [battaglia di Verdun](https://it.wikipedia.org/wiki/Battaglia_di_Verdun), che da sola costò la vita a mezzo milione di giovani.
+![]({{ '/assets/media/1920px-Douaumont_ossuary3.jpg' | absolute_url }})Il cimitero militare di Douaumont che ospita i caduti francesi e tedeschi della [battaglia di Verdun](https://it.wikipedia.org/wiki/Battaglia_di_Verdun), che da sola costò la vita a mezzo milione di giovani.
 
 Le vittime totali della Grande Guerra [si stimano attorno ai 16 milioni](https://it.wikipedia.org/wiki/Conteggio_delle_vittime_della_prima_guerra_mondiale), e più di 20 milioni sono stati feriti o mutilati.
 
@@ -52,7 +52,7 @@ Non basta.
 
 Siccome la sfortuna ci vede benissimo, durante l’ultimo anno di guerra si è diffusa la pandemia d’influenza Spagnola. Da notare che, mentre la Covid19 uccide soprattutto persone anziane o fragili, la Spagnola preferiva i giovani adulti: [metà dei morti avevano tra i 20 ed i 40 anni](https://it.wikipedia.org/wiki/Influenza_spagnola#Mortalit%C3%A0_per_et%C3%A0,_sesso,_condizioni_sociali), proprio i nostri amici della generazione perduta. In Italia si stimano 600.000 vittime.
 
-![]({{ '/assets/media/2b5rn5x.jpg' | relative_url }})A quanto pare non siamo i primi e credo che non saremo nemmeno gli ultimi. Foto da [history.com](https://www.history.com/news/1918-pandemic-public-health-campaigns).
+![]({{ '/assets/media/2b5rn5x.jpg' | absolute_url }})A quanto pare non siamo i primi e credo che non saremo nemmeno gli ultimi. Foto da [history.com](https://www.history.com/news/1918-pandemic-public-health-campaigns).
 
 Senti, facciamo finta che le sfortune della generazione perduta siano state solo la Spagnola e la guerra. Insomma, facciamo finta che il [30% degli italiani non vivesse in povertà estrema](https://ourworldindata.org/extreme-poverty#historical-poverty-in-today-s-rich-countries) (contro il 2% scarso odierno), che [la mortalità infantile non fosse 100 volte superiore ad oggi](https://ourworldindata.org/uploads/2021/03/Youth-mortality-rates-over-last-two-millennia.png) (40%+ contro lo 0.3% odierno) e che l’aspettativa di vita alla nascita per loro non fosse di soli [41 anni](https://ourworldindata.org/grapher/life-expectancy?tab=chart&time=1770..2019&country=~ITA) (contro i nostri 82).
 
@@ -60,7 +60,7 @@ Confrontiamoci con loro, ti va?
 
 Ho una vecchia foto della scuola calcio che frequentavo alle elementari, ci sono io sorridente con altri 19 bambini, venti in tutto. Se fossimo stati della generazione perduta è probabile che 2 sarebbero morti in guerra, 3 feriti o mutilati, 1 morto di Spagnola. Saremmo rimasti in 14.
 
-![]({{ '/assets/media/Generazione-perduta-squadra.jpg' | relative_url }})Così forse rende l’idea?
+![]({{ '/assets/media/Generazione-perduta-squadra.jpg' | absolute_url }})Così forse rende l’idea?
 
 E invece siamo [millennial](https://it.wikipedia.org/wiki/Generazione_Y), e tutti e 20 i miei vecchi amici hanno belle auto, giocano a beach volley sulla spiaggia e godono di tutti i privilegi della nostra epoca. Le uniche cicatrici che ci portiamo dietro le abbiamo rimediate cadendo in bici.
 
@@ -86,7 +86,7 @@ Soprattutto, le generazioni passate non erano affatto smarrite, avevano una enor
 
 Siamo una generazione di transizione che ha bisogno di trovare un nuovo significato in quello che fa. Cosa può guidarci?
 
-![]({{ '/assets/media/Generazione-perduta-Bussola.jpg' | relative_url }})Foto di [Aaron Burden](https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![]({{ '/assets/media/Generazione-perduta-Bussola.jpg' | absolute_url }})Foto di [Aaron Burden](https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Una vecchia bussola
 

@@ -53,7 +53,7 @@ Ci sono poi una serie d’incentivi statali all’acquisto della prima casa:
 
 Non significa che l’acquisto di casa sia sempre un buon investimento: ci sono famiglie che acquistano la casa del sogno americano, gonfiando il proprio stile di vita e le proprie spese, il che è una sciagura finanziaria. Ma se acquisti la casa che affitteresti, pensi di stabilirtici per un periodo abbastanza lungo ed [è conveniente l’acquisto rispetto all’affitto](https://sossoldi.org/affitto-o-acquisto.html), allora si tratta della scelta finanziaria migliore.
 
-![]({{ '/assets/media/Cosa-è-il-Minimalismo-Sogno.jpg' | relative_url }})Ah, la casa dei sogni. Te la ricordi? Photo by [Daniel Barnes](https://unsplash.com/@dannybarness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ '/assets/media/Cosa-è-il-Minimalismo-Sogno.jpg' | absolute_url }})Ah, la casa dei sogni. Te la ricordi? Photo by [Daniel Barnes](https://unsplash.com/@dannybarness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 La proprietà di un immobile ti da anche l’occasione di cimentarti in molti lavori di fai da te che non potresti svolgere in affitto. Potresti sviluppare buone competenze ed ottenere una abitazione migliore ad un costo minore. A seconda della propria attitudine ai lavori manuali e della voglia di [prendersene le responsabilità](/tatismo/) potrebbe trattarsi di un bel vantaggio. Nel nostro caso, abbiamo ristrutturato in prima persona la nostra casa, risparmiando migliaia di Euro ed ottenendo un prodotto finito migliore. L’aneddoto che riporto di solito è questo:
 
