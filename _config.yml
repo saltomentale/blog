@@ -123,9 +123,9 @@ author:
     
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/SaltomentaleIt
-    icon: fab fa-twitter-square
+  - title: Contattami
+    url: mailto:saltomentale@gmail.com
+    icon: fas fa-envelope
   - title: Feed
     url: feed/index.xml
     icon: fas fa-rss-square
