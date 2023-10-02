@@ -32,7 +32,7 @@ Bisogna investire del **tempo per fare esercizio** tutti i giorni. La palestra c
 
 Infine serve del **tempo per rilassarsi** e godersi la vita. Essere sempre di fretta, [fare un lavoro che odiamo](/bisogno-di-lavorare/), stressarci per inezie o cose fuori dal nostro controllo non aiuta il nostro benessere. Stressarci per trasformare il nostro prezioso tempo in soldi è controproducente.
 
-![]({{site.baseurl}}/assets/media/Comprare-salute.jpg)Convertire tempo in denaro è facile, ma convertire denaro in salute è complicato ed inefficiente.
+![](/assets/media/Comprare-salute.jpg)Convertire tempo in denaro è facile, ma convertire denaro in salute è complicato ed inefficiente.
 
 È un peccato che così tante forze remino contro di noi.
 

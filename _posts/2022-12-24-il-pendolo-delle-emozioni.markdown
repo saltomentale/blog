@@ -42,7 +42,7 @@ Avete assistito alla stessa sequenza di eventi ma le emozioni che avete vissuto 
 
 Questo è quello che chiamano il pendolo delle emozioni.
 
-![Il pendolo delle emozioni - Schema di due pendoli con diversa ampiezza di oscillazione]({{site.baseurl}}/assets/media/Il-pendolo-delle-emozioni.png)
+![Il pendolo delle emozioni - Schema di due pendoli con diversa ampiezza di oscillazione](/assets/media/Il-pendolo-delle-emozioni.png)
 
 Quando teniamo a qualcosa, questa ci suscita emozioni forti, sia in positivo che in negativo. Vince la squadra del cuore ed è una giornata splendida, perde ed è terribile.
 

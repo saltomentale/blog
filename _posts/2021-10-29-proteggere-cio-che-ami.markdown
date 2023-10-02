@@ -21,7 +21,7 @@ I miei mi hanno ripetuto una frase fino alla nausea, di solito dopo avermi sgrid
 
 Pensare che più ci sforziamo e più otterremo, o che più tuteliamo qualcosa e più questo sarà protetto, è una [illusione molto comune](/la-mappa-non-e-il-territorio/). Come per ogni illusione la diamo per scontata e troviamo ottime scuse per rifiutare le prove che dimostrano che non sia valida. In sostanza, pensiamo che la relazione protezione - beneficio sia grossomodo lineare, come nel seguente grafico:
 
-![]({{site.baseurl}}/assets/media/Non-puoi-proteggere-quello-che-ami-grafico-1.jpg)
+![](/assets/media/Non-puoi-proteggere-quello-che-ami-grafico-1.jpg)
 
 Stando a questa regola, per il bene di un figlio dovremmo fare il massimo per proteggerlo, dal mettergli le ginocchiere quando va in bicicletta al negargli ogni goccia di droghe ricreative finché possiamo influenzarlo. Dovremmo prendere per lui tutte le decisioni, perché noi siamo più saggi e così facendo gli risparmiamo delle delusioni e dei pericoli, e non dobbiamo badare a spese per consentirgli di avere un qualche piccolo vantaggio nella vita.
 
@@ -34,7 +34,7 @@ Cosa significa? Dovremmo spingere nostro figlio verso le situazioni più diffici
 
 Il rapporto protezione - beneficio più realistico, quindi, è il seguente:
 
-![]({{site.baseurl}}/assets/media/Non-puoi-proteggere-quello-che-ami-grafico-2.jpg)
+![](/assets/media/Non-puoi-proteggere-quello-che-ami-grafico-2.jpg)
 
 Esiste un livello ottimale di protezione verso i nostri figli, né troppo poca da trascurarli, né troppa da lasciarli impreparati alla vita da soli o da causare nevrosi noi genitori.
 

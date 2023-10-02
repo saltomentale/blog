@@ -17,7 +17,7 @@ image:
   thumbnail: /assets/media/La-società-opulenta-Copertina.jpeg
 ---
 
-![]({{site.baseurl}}/assets/media/La-società-opulenta.png)
+![](/assets/media/La-società-opulenta.png)
 
 > _Estrema sintesi del libro del 1958 di _[John Kenneth Galbraith](https://it.wikipedia.org/wiki/John_Kenneth_Galbraith)_._
 

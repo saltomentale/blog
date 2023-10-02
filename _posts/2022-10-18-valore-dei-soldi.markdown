@@ -39,7 +39,7 @@ L’italiano medio ha un patrimonio di circa 115.000€ (ho preso la moda dal [G
 
 O in altri termini: lo sforzo economico di acquistare un caffè al bar (1€) per un italiano medio equivale a spendere oltre 2 milioni di € per Elon Musk!
 
-![Il valore dei soldi - patrimonio di Musk vs Italiano medio]({{site.baseurl}}/assets/media/Il-valore-dei-soldi-patrimonio-di-Musk-vs-Italiano-medio.png)Sì, il mio è quel puntino invisibile. E sì, il patrimonio di Musk non sono riuscito a contenerlo tutto nell’immagine.
+![Il valore dei soldi - patrimonio di Musk vs Italiano medio](/assets/media/Il-valore-dei-soldi-patrimonio-di-Musk-vs-Italiano-medio.png)Sì, il mio è quel puntino invisibile. E sì, il patrimonio di Musk non sono riuscito a contenerlo tutto nell’immagine.
 
 Per Elon Musk 10.000€ sono trascurabili, per me sono un bell’aiuto e per qualcuno sotto la soglia di povertà assoluta in Vietnam sono un sogno irraggiungibile.
 
@@ -54,7 +54,7 @@ Elon Musk, al contrario del sottoscritto, viene invitato nei più ristretti circ
 
 I soldi dimostrano il successo, no?
 
-![yacht a portofino - i soldi portano status]({{site.baseurl}}/assets/media/yacht-a-portofino-i-soldi-portano-status.jpeg)Secondo alcuni sì. E se la pensi diversamente ti daranno dell’invidioso.  
+![yacht a portofino - i soldi portano status](/assets/media/yacht-a-portofino-i-soldi-portano-status.jpeg)Secondo alcuni sì. E se la pensi diversamente ti daranno dell’invidioso.  
 Foto di [Ricardo Gomez Angel](https://unsplash.com/@rgaleriacom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Il conto in banca e [la ricchezza dimostrata](/sciagura-della-ricchezza/) sono indicatori sociali con un valore reale per tante persone.
@@ -72,7 +72,7 @@ Prendiamo l’automobile. Il bisogno concreto per cui l’acquisti è quello del
 
 Avere un’auto non è indispensabile per muoversi, è solo un metodo comodo, consolidato nella nostra società e molto pubblicizzato.
 
-![bambino che cavalca una pecora al golden gate bridge]({{site.baseurl}}/assets/media/bambino-che-cavalca-una-pecora-al-golden-gate-bridge.jpg)Ci sono anche altri mezzi di trasporto… [Immagine generata con DALL-E](https://labs.openai.com/).
+![bambino che cavalca una pecora al golden gate bridge](/assets/media/bambino-che-cavalca-una-pecora-al-golden-gate-bridge.jpg)Ci sono anche altri mezzi di trasporto… [Immagine generata con DALL-E](https://labs.openai.com/).
 
 Quanta _mobilità_ si può comprare con 10.000€? Dipende dalla soluzione scelta.
 
@@ -115,7 +115,7 @@ La velocità di spostamento è minore rispetto ai mezzi privati come bici ed aut
 
 Riassumendo, ecco quanta _mobilità_ possiamo acquistare con 10.000€:
 
-![Quanta mobilità si può comprare con 10000€]({{site.baseurl}}/assets/media/Quanta-mobilità-si-può-comprare-con-10000E.png)
+![Quanta mobilità si può comprare con 10000€](/assets/media/Quanta-mobilità-si-può-comprare-con-10000E.png)
 
 > **Osservazione 3: il valore dei soldi dipende dal modo in cui li si usa per soddisfare un bisogno.**
 
@@ -156,7 +156,7 @@ A volte l’ignoranza è un bene!
 > **Osservazione 4: si può usare i soldi per acquistare libertà, oltre che soddisfare bisogni ed acquisire status.**
 
 
-![]({{site.baseurl}}/assets/media/acquistare-tempo-clessidra-sulla-spiaggia.jpeg)Acquistare tempo e libertà. Possibile, ma non le trovi al mercato.  
+![](/assets/media/acquistare-tempo-clessidra-sulla-spiaggia.jpeg)Acquistare tempo e libertà. Possibile, ma non le trovi al mercato.  
 Foto di [Immo Wegmann](https://unsplash.com/@macroman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Libertà - parte 2

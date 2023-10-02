@@ -19,7 +19,7 @@ image:
   thumbnail: /assets/media/Gettare-la-spugna-copertina.jpeg
 ---
 
-![]({{site.baseurl}}/assets/media/Gettare-la-spugna.png)
+![](/assets/media/Gettare-la-spugna.png)
 
 Figlia mia,
 

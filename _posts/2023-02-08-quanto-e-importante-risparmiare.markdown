@@ -38,7 +38,7 @@ Un dipendente con 95.000€ di RAL, ad esempio una manager per una azienda di co
 
 **Quanto valore devono creare per intascare 100€ netti?**
 
-![]({{site.baseurl}}/assets/media/04F0B3A9-D16E-4256-94FF-E9F38D707AAD.png)
+![](/assets/media/04F0B3A9-D16E-4256-94FF-E9F38D707AAD.png)
 
 Un vero colabrodo. Vediamone i buchi.
 
@@ -74,7 +74,7 @@ Bene, abbiamo visto quanto valore è necessario creare per incassare 100€ nett
 
 **Quanto incassiamo, netto, per 100€ di valore creato?**
 
-![]({{site.baseurl}}/assets/media/image.png)
+![](/assets/media/image.png)
 
 Ogni 100€ di valore portano in tasca 57€ al forfettario, 18€ al dipendente e 14€ alla manager.
 

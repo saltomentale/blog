@@ -44,7 +44,7 @@ Dopo il dubbio, infatti, quando lo si è superato ed il lavoro giunge al termine
 
 Ecco il ciclo della creazione
 
-![]({{site.baseurl}}/assets/media/Creare-o-consumare-Creare.png)
+![](/assets/media/Creare-o-consumare-Creare.png)
 
 ## Il ciclo del consumo
 
@@ -60,13 +60,13 @@ Solo che… non ha una storia, è un lampadario come un altro, installato da un 
 
 Per trovare nuova soddisfazione devi cercare la prossima occasione di consumo e ripetere il ciclo, senza fine.
 
-![]({{site.baseurl}}/assets/media/Creare-o-consumare-Consumare.png)
+![](/assets/media/Creare-o-consumare-Consumare.png)
 
 ## Confronto
 
 Meglio consumare o meglio creare? Vediamo i due grafici a confronto e tiriamo qualche conclusione.
 
-![]({{site.baseurl}}/assets/media/Creare-o-consumare-Confronto.png)
+![](/assets/media/Creare-o-consumare-Confronto.png)
 
 Creare ci lascia una soddisfazione duratura, orgoglio e nuove competenze ma costa più fatica. Consumare, dal canto suo, risolve il problema con poco sforzo ma non riesce a darci la stessa soddisfazione duratura.
 

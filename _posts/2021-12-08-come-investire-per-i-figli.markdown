@@ -32,7 +32,7 @@ Quando avevo 20 anni mi era naturale vivere al di sotto delle mie risorse e prod
 
 Ecco il primo motivo per cui vale la pena investire per i figli, per **dargli uno strumento in cui investire i propri risparmi e vederli crescere**, in attesa che siano in grado di prendersene cura da soli.
 
-![]({{site.baseurl}}/assets/media/unknown.png)Differenza fra 1000€ all’anno investiti allo 0.5% del libretto postale rispetto all’8% medio dell’azionario.
+![](/assets/media/unknown.png)Differenza fra 1000€ all’anno investiti allo 0.5% del libretto postale rispetto all’8% medio dell’azionario.
 
 Secondo motivo: JL Colins, in The Simple Path to Wealth, parla di “_Fuck You Money_”, una somma di denaro sufficiente a non dover scendere a compromessi. La dipendenza economica dai genitori non è gradevole e non è uno strumento che noi genitori vogliamo usare per indirizzare le scelte di nostra figlia. **Vogliamo che lei abbia i soldi per poterci mandare a quel paese** senza gravi conseguenze economiche.
 
@@ -59,7 +59,7 @@ Non abbiamo grossi capitali e quindi non possiamo donare chissà quale cifra a n
 
 Stando a Federconsumatori, una famiglia come la nostra spenderebbe circa 170’000€ per mantenere un figlio fino ai 18 anni. Ecco il dettaglio per età e reddito:
 
-![]({{site.baseurl}}/assets/media/F8B8C8F1-6887-4E43-BE0F-F9044EF86127.png)Fonte Federconsumatori, [report del 2011](https://www.federconsumatori.it/news/foto/I%20costi%20per%20crescere%20un%20figlio.pdf). Grossomodo confermato anche nel [report 2018](https://www.federconsumatori.it/news/foto/Spesa%20per%20crescere%20un%20figlio%20fino%20a%2018%20anni%202019.pdf).
+![](/assets/media/F8B8C8F1-6887-4E43-BE0F-F9044EF86127.png)Fonte Federconsumatori, [report del 2011](https://www.federconsumatori.it/news/foto/I%20costi%20per%20crescere%20un%20figlio.pdf). Grossomodo confermato anche nel [report 2018](https://www.federconsumatori.it/news/foto/Spesa%20per%20crescere%20un%20figlio%20fino%20a%2018%20anni%202019.pdf).
 
 Possiamo fare meglio della famiglia media?
 
@@ -83,7 +83,7 @@ Speriamo anche che crescendo nostra figlia non soffra per queste scelte ma anzi 
 
 Sì, avete intuito bene: sono fuori di testa, ho la barba da Amish e vado in giro in una carrozza trainata da cavalli albini.
 
-![]({{site.baseurl}}/assets/media/randy-fath-u1rq-htexOY-unsplash.jpeg)Ed i lavori di casa li facciamo così, con tutti i cugini. Photo by [Randy Fath](https://unsplash.com/@randyfath?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![](/assets/media/randy-fath-u1rq-htexOY-unsplash.jpeg)Ed i lavori di casa li facciamo così, con tutti i cugini. Photo by [Randy Fath](https://unsplash.com/@randyfath?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 A parte gli scherzi, creare un portafoglio per nostra figlia ci permette di essere più decisi nel risparmiare. Il [contesto sociale](/il-giusto-lo-sbagliato-ed-il-contesto-sociale/), infatti, non ci è favorevole poiché **”chi risparmia su quello che acquista ai figli è un taccagno”**. Con questo piano non esiste alcun conflitto d’interessi: quello che risparmiamo non lo spendo in birra ma lo lasciamo a nostra figlia; speriamo quindi che non sarà risentita di aver indossato abiti usati, alla fine i benefici resteranno a lei.
 
@@ -114,7 +114,7 @@ Ed ora la ciccia.
 
 Quanto potremo dare ai nostri figli all’alba della loro vita adulta? Vediamo qualche scenario usando questo [calcolatore dell’interesse composto](https://www.bankeronwheels.com/compound-interest-calculator/). Ho arrotondato il risultato per chiarezza visiva:
 
-![]({{site.baseurl}}/assets/media/0A9ADFB5-DCA5-433C-B1BA-91A2088CD79F.png)Sossoldi.
+![](/assets/media/0A9ADFB5-DCA5-433C-B1BA-91A2088CD79F.png)Sossoldi.
 
 Sono cifre di tutto rispetto anche negli scenari più conservativi, sufficienti a pagare una ottima istruzione universitaria, avviare un’attività imprenditoriale o acquistare un’abitazione. O comprare un colbacco e fare il giro del mondo a dorso di cammello, chi sono io per dire a qualcuno come vivere la propria vita?
 

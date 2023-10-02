@@ -31,7 +31,7 @@ Ho avuto modo di conoscere solo i miei nonni materni ed anche per me sono stati 
 
 Mi piacerebbe presentarteli.
 
-![]({{site.baseurl}}/assets/media/Anziana-che-sbircia.jpg)No, non è mia nonna, questa è una foto di [Nick Karvounis](https://unsplash.com/@nickkarvounis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![](/assets/media/Anziana-che-sbircia.jpg)No, non è mia nonna, questa è una foto di [Nick Karvounis](https://unsplash.com/@nickkarvounis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### Presentazioni
 
@@ -53,7 +53,7 @@ Negli anni ’80, soddisfatti di quello che avevano realizzato e dei figli che s
 
 Come ti dicevo, ho vissuto un anno con loro ed ho ricevuto lezioni sufficienti ad una vita intera. Sono troppe e troppo belle per poterle sintetizzare tutte qui, quindi dovrai accontentarti di quello che segue.
 
-![]({{site.baseurl}}/assets/media/lezioni-dei-nonni-lezioni.jpg)Gente, prestate attenzione, c'è della saggezza in arrivo. Foto di [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![](/assets/media/lezioni-dei-nonni-lezioni.jpg)Gente, prestate attenzione, c'è della saggezza in arrivo. Foto di [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ### Lezione 1
 
@@ -105,7 +105,7 @@ Lui me lo ha dimostrato con la sua vita: oggi ha 85 anni e sta scrivendo il suo 
 
 Davanti a modelli del genere rimango [un po’ come te al cospetto di Roma](https://finanzacafona.it/2021/09/puntidivita-vado-a-vivere-in-un-borgo.html): che mi devo inventare per dimostrarmi all’altezza?
 
-![]({{site.baseurl}}/assets/media/lezioni-dei-nonni-senso-di-inferiorità.jpg)Bello, ho scalato un sasso, e loro? Il [Cerro Torre](https://it.wikipedia.org/wiki/Cerro_Torre). Foto di [Joshua Earle](https://unsplash.com/@joshuaearle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![](/assets/media/lezioni-dei-nonni-senso-di-inferiorità.jpg)Bello, ho scalato un sasso, e loro? Il [Cerro Torre](https://it.wikipedia.org/wiki/Cerro_Torre). Foto di [Joshua Earle](https://unsplash.com/@joshuaearle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Apro una parentesi: quando ero ragazzo giocavo a questo gioco, [Age of Empires](https://www.ageofempires.com/), sono sicuro che lo conosci, appassionato di storia come sei; l’obiettivo era gestire una civiltà e conquistare le altre. L’intelligenza artificiale dei primi 2000 sapeva farti sentire come Isaac Newton, quindi dopo poco avevo sempre un vantaggio sui nemici ma io, invece di fare quello che serviva per vincere la partita, mi liberavo di tutto per vedere se sarei stato capace di ricostruire tutto da zero. Dimmi tu se sono strano.
 

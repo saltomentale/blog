@@ -20,7 +20,7 @@ image:
 > Gran parte di quello che riteniamo giusto o sbagliato dipende dal contesto socio-culturale in cui viviamo.
 
 
-![]({{site.baseurl}}/assets/media/Il-giusto-lo-sbagliato-ed-il-contesto-sociale.png)
+![](/assets/media/Il-giusto-lo-sbagliato-ed-il-contesto-sociale.png)
 
 Abbiamo già visto che [lo status si misura con criteri diversi a seconda della cerchia sociale considerata](/il-costo-dello-status/), ed abbiamo visto come sia in nostro potere scegliere a quali cerchie appartenere.
 

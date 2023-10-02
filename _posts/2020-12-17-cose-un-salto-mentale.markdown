@@ -22,7 +22,7 @@ image:
 > 
 > Platone
 
-![Cos'è un salto mentale]({{site.baseurl}}/assets/media/Cosa-è-un-salto-mentale.png)
+![Cos'è un salto mentale](/assets/media/Cosa-è-un-salto-mentale.png)
 
 Come [abbiamo già visto](/la-mappa-non-e-il-territorio/), la nostra comprensione della realtà è limitata e non possiamo che ridurla in una “mappa” per farne uso. Possiamo migliorare la nostra mappa per essere più efficaci. Tuttavia non basta esporci ad una idea nuova per far ciò…
 

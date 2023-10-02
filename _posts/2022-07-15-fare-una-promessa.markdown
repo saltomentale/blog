@@ -40,7 +40,7 @@ Ci fa sentire meglio: “_ecco a te, amico, una promessa._”
 
 L’ospite se ne va, immagino un poco perplesso, e noi entriamo in tensione: ora abbiamo **una promessa da mantenere!**
 
-![Promessa fatta faccia preoccupata]({{site.baseurl}}/assets/media/Promessa-fatta-faccia-preoccupata.jpg)Foto di [Norbert Tóth](https://unsplash.com/@tothnorex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Promessa fatta faccia preoccupata](/assets/media/Promessa-fatta-faccia-preoccupata.jpg)Foto di [Norbert Tóth](https://unsplash.com/@tothnorex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Abbiamo fatto male a promettere, ecco perché.
 
@@ -72,7 +72,7 @@ Ci tocca pagare gli interessi per la promessa fatta, come se fosse un acquisto c
 
 Ed è sensibile ad un velocissimo [adattamento edonistico](/adattamento-edonistico/).
 
-![Adattamento edonistico – andamento soddisfazione per una promessa]({{site.baseurl}}/assets/media/Adattamento-edonistico-–-Promesse.png)
+![Adattamento edonistico – andamento soddisfazione per una promessa](/assets/media/Adattamento-edonistico-–-Promesse.png)
 
 Capita anche che la promessa sia esagerata e ci costi troppo mantenerla. A freddo, preferiremmo non averla fatta.
 
@@ -91,7 +91,7 @@ Ma se prevedevi temporali e poi è nuvoloso, ne sei contento.
 
 Quando facciamo una promessa alziamo le aspettative.
 
-![Aspettative e soddisfazione - grafico Andamento con e senza sorpresa]({{site.baseurl}}/assets/media/Aspettative-e-soddisfazione.png)
+![Aspettative e soddisfazione - grafico Andamento con e senza sorpresa](/assets/media/Aspettative-e-soddisfazione.png)
 
 **È difficile soddisfare coloro a cui abbiamo promesso il mondo.**
 
@@ -127,7 +127,7 @@ I rinforzi più potenti sono quelli con un certo grado di **casualità**.
 
 Si parla in questo caso di [rinforzo intermittente](https://en.wikipedia.org/wiki/Reinforcement#Intermittent_reinforcement_schedules).
 
-![Rinforzo intermittente - Slot machine]({{site.baseurl}}/assets/media/Rinforzo-intermittente-Slot-machine.jpg)Foto di [Ays Be](https://unsplash.com/@aysha_be?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Rinforzo intermittente - Slot machine](/assets/media/Rinforzo-intermittente-Slot-machine.jpg)Foto di [Ays Be](https://unsplash.com/@aysha_be?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Pensa alle slot machine. Erogano le vincite in modo apparentemente casuale, imprevedibile. Se fossero prevedibili perderebbero la loro attrazione.
 

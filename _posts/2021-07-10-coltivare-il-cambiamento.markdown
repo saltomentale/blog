@@ -22,7 +22,7 @@ image:
 > Puoi prenderti cura del tuo sviluppo umano proprio come ti prenderesti cura di una piantina di fagioli.
 
 
-![]({{site.baseurl}}/assets/media/Coltivare-il-cambiamento.png)
+![](/assets/media/Coltivare-il-cambiamento.png)
 
 Cara figlia,
 

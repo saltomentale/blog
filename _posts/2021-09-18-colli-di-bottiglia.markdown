@@ -19,7 +19,7 @@ image:
   thumbnail: /assets/media/colli-di-bottiglia-copertina.jpeg
 ---
 
-![]({{site.baseurl}}/assets/media/Colli-di-bottiglia-1.png)
+![](/assets/media/Colli-di-bottiglia-1.png)
 
 Figlia mia,
 
@@ -49,13 +49,13 @@ Questo mio amico viveva a Milano e lavorava almeno 50 ore alla settimana; per an
 
 Ribadisco un ultimo punto: la sua bici, seppure non all’ultimo grido, funzionava a meraviglia, eppure sostituirla è stata la prima ed unica cosa che gli è venuta in mente di fare.
 
-![]({{site.baseurl}}/assets/media/Colli-di-bottiglia-Bici.jpg)Una nuova bici farebbe la differenza?
+![](/assets/media/Colli-di-bottiglia-Bici.jpg)Una nuova bici farebbe la differenza?
 
 ### Lavorare sui colli di bottiglia
 
 I colli di bottiglia per questo mio amico erano i seguenti:
 
-![]({{site.baseurl}}/assets/media/Colli-di-bottiglia-Bici-schema.jpg)
+![](/assets/media/Colli-di-bottiglia-Bici-schema.jpg)
 
 È probabile che il peggiore di tutti fosse il meteo: in Lombardia l’inverno è lungo e freddo, piove spesso e nel pieno dell’estate il caldo è umido e soffocante. Rimangono pochi mesi in cui andare in bici con clima ideale, diciamo in totale 6 mesi. Sono 25 fine settimana, **50 giorni** all’anno senza considerare le ferie.
 

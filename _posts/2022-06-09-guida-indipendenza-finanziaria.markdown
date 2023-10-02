@@ -42,13 +42,13 @@ Le nostre finanze sono quasi a posto ma siamo ancora costretti a scendere a comp
 **Livello 5: Controllo**  
 Abbiamo pieno controllo sulle nostre finanze. Sappiamo usare i soldi per trarne la massima felicità ed abbiamo piena confidenza di poterci procurare sempre quanto ci serve. Non scendiamo a compromessi in quanto abbiamo **libertà** e **sicurezza**. Spendiamo il nostro tempo come desideriamo.
 
-![I 5 livelli di indipendenza finanziaria]({{site.baseurl}}/assets/media/Migliorare-lindipendenza-finanziaria-1.png)
+![I 5 livelli di indipendenza finanziaria](/assets/media/Migliorare-lindipendenza-finanziaria-1.png)
 
 Per ognuno di questi livelli d'indipendenza finanziaria ho individuato una serie di **consigli pratici** che possiamo applicare per portarci al livello successivo. Alcuni riguardano **metodi per risparmiare**, altri strategie per **aumentare le entrate** o per trovare il lavoro che più ci piace o addirittura **[smettere di lavorare prima della pensione](/si-puo-smettere-di-lavorare-prima-della-pensione/)**.
 
 ### Livello 1: Pericolo
 
-![Il livello 1 di indipendenza finanziaria]({{site.baseurl}}/assets/media/livelli-indipendenza-finanziaria–1.png)
+![Il livello 1 di indipendenza finanziaria](/assets/media/livelli-indipendenza-finanziaria–1.png)
 
 _Zero risparmi, debiti, lavoro mal pagato. Stentiamo ad arrivare alla fine del mese e dobbiamo sacrificare tante cose importanti che non possiamo permetterci.  
 _**Obiettivo**: evitare che una piccola crisi ci mandi in totale rovina.  
@@ -78,7 +78,7 @@ Una volta accumulato il fondo di emergenza lasciamolo da parte se non per le eme
 
 ### Livello 2: Paura
 
-![Il livello 2 di indipendenza finanziaria]({{site.baseurl}}/assets/media/livelli-indipendenza-finanziaria–2.png)
+![Il livello 2 di indipendenza finanziaria](/assets/media/livelli-indipendenza-finanziaria–2.png)
 
 _Abbiamo un fondo di emergenza ma i debiti ci stanno mangiando vivi.  
 Abbiamo un lavoro mal pagato e fatichiamo ad arrivare alla fine del mese.  
@@ -120,7 +120,7 @@ Tra le altre cose potresti voler leggere gli articoli che pubblico ogni settiman
 
 ### Livello 3: Insoddisfazione
 
-![Il livello 3 di indipendenza finanziaria]({{site.baseurl}}/assets/media/livelli-indipendenza-finanziaria–3.png)
+![Il livello 3 di indipendenza finanziaria](/assets/media/livelli-indipendenza-finanziaria–3.png)
 
 _Abbiamo pochi risparmi ma nessun debito tossico. Arriviamo alla fine del mese senza affanno ma avanza poco. Il lavoro non ci soddisfa affatto._  
 **Obiettivo**: Ottenere sicurezza e soddisfazione.  
@@ -146,7 +146,7 @@ Non dovremmo tollerare troppo a lungo questa situazione, quindi dovremo essere d
 
 ### Livello 4: Disorientamento
 
-![Il livello 4 di indipendenza finanziaria]({{site.baseurl}}/assets/media/livelli-indipendenza-finanziaria–4.png)
+![Il livello 4 di indipendenza finanziaria](/assets/media/livelli-indipendenza-finanziaria–4.png)
 
 _Abbiamo un buon lavoro e risparmi sufficienti, tuttavia abbiamo ancora diverse preoccupazioni finanziarie e facciamo scelte di consumo nocive.  
 _**Obiettivo**: Raggiungere la massima tranquillità ed indipendenza finanziaria.  
@@ -175,7 +175,7 @@ La buona notizia è che lo sforzo è in buona parte mentale. Si tratta di capire
 
 ### Livello 5: Controllo
 
-![Il livello 5 di indipendenza finanziaria]({{site.baseurl}}/assets/media/livelli-indipendenza-finanziaria–5.png)
+![Il livello 5 di indipendenza finanziaria](/assets/media/livelli-indipendenza-finanziaria–5.png)
 
 _Abbiamo raggiunto l'indipendenza finanziaria._**  
 Obiettivo**: Vivere la vita.  

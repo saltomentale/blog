@@ -18,7 +18,7 @@ image:
 > Quanto ci costa la nostra posizione sociale? Vale la pena mantenerla?
 
 
-![]({{site.baseurl}}/assets/media/Il-costo-dello-status.png)
+![](/assets/media/Il-costo-dello-status.png)
 
 Tante nostre azioni sono influenzate dalla ricerca di status sociale nelle cerchie cui apparteniamo.
 

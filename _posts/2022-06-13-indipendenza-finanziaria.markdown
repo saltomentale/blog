@@ -43,7 +43,7 @@ Quello che introduciamo oggi, quindi, è un concetto fondamentale per vivere una
 -- Fonte: [saltomentale.it](https://saltomentale.it)
 
 
-![Indipendenza finanziaria - definizione]({{site.baseurl}}/assets/media/image-2.png)
+![Indipendenza finanziaria - definizione](/assets/media/image-2.png)
 
 I più attenti, magari già seguaci del [movimento FIRE](https://it.wikipedia.org/wiki/FIRE_movement), avranno notato che la mia definizione è diversa dalla versione che si trova spesso online secondo cui:
 
@@ -97,7 +97,7 @@ Mai gli è mancato il pane o un tetto, anche se non ha mai mangiato piccioni da 
 
 Roberto, tra i personaggi di questi racconti, è quello che ha meno ricchezze materiali ma gode del più alto livello di indipendenza finanziaria. Tra l’altro, [non è un personaggio di fantasia](https://en.wikipedia.org/wiki/Rob_Greenfield), seppure sia piuttosto estremo.
 
-![Indipendenza finanziaria - Bambini]({{site.baseurl}}/assets/media/Indipendenza-finanziaria-Bambini.jpeg)È paradossale, ma spesso i bambini piccoli hanno una indipendenza finanziaria migliore degli adulti, avendo molti meno bisogni costosi e la capacità di ottenere molto con un bel sorriso. Foto di [Himanshu Singh Gurjar](https://unsplash.com/es/@himanshu723?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Indipendenza finanziaria - Bambini](/assets/media/Indipendenza-finanziaria-Bambini.jpeg)È paradossale, ma spesso i bambini piccoli hanno una indipendenza finanziaria migliore degli adulti, avendo molti meno bisogni costosi e la capacità di ottenere molto con un bel sorriso. Foto di [Himanshu Singh Gurjar](https://unsplash.com/es/@himanshu723?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Da cosa dipende l’indipendenza finanziaria
 
@@ -124,7 +124,7 @@ Esistono azioni piccole e grandi per raggiungere un più alto livello d’indipe
 
 Il percorso è suddiviso in 5 fasi.
 
-![Percorso per raggiungere l'indipendenza finanziaria]({{site.baseurl}}/assets/media/Migliorare-lindipendenza-finanziaria.png)
+![Percorso per raggiungere l'indipendenza finanziaria](/assets/media/Migliorare-lindipendenza-finanziaria.png)
 
 **Livello 1: Pericolo**  
 Non riusciamo a soddisfare i nostri bisogni di base.

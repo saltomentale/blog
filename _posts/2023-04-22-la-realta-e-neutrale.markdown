@@ -27,13 +27,13 @@ La realtà è neutrale, se ne infischia di te.
 
 In realtà nasci, ricevi sensazioni, esegui azioni e poi muori.
 
-![]({{site.baseurl}}/assets/media/La-realtà-è-neutrale-sensazioni-ed-azioni.png)
+![](/assets/media/La-realtà-è-neutrale-sensazioni-ed-azioni.png)
 
 Nascere è neutrale. Alla realtà non interessa se nasci sana o malata, o che tu nasca del tutto. Le sensazioni a cui ti espone sono neutrali, il gusto dolce del gelato non è migliore né peggiore del dolore di una ferita. La tua morte non è né un bene né un male.
 
 La realtà è neutrale, sei tu a giudicarla.
 
-![]({{site.baseurl}}/assets/media/La-realtà-è-neutrale-sensazioni-ed-azioni-–-1.png)
+![](/assets/media/La-realtà-è-neutrale-sensazioni-ed-azioni-–-1.png)
 
 Tu decidi se qualcosa è _buono_ o _cattivo_ sulla base dei tuoi modelli mentali, delle tue idee, della tua educazione e del contesto sociale in cui sei immersa.
 

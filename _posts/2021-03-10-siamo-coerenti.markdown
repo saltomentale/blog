@@ -20,7 +20,7 @@ image:
 > È raro essere consapevoli degli obiettivi che contano per noi. Ancor più raro è agire in modo da raggiungerli.
 
 
-![]({{site.baseurl}}/assets/media/Siamo-coerenti-–-1.png)
+![](/assets/media/Siamo-coerenti-–-1.png)
 
 Ognuno di noi ha degli obiettivi nella vita, ad esempio essere un buon padre, una imprenditrice responsabile, un membro utile ed attivo della comunità. È raro trovare qualcuno che ambisce ad essere un idiota patentato.
 

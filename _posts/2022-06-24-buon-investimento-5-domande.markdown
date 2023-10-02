@@ -40,7 +40,7 @@ Prima d’investire conviene quindi porsi alcune domande. Se non abbiamo le risp
 > Non ha senso correre, se non sai dove andare.
 
 
-![Buon investimento - uomo perso in giungla]({{site.baseurl}}/assets/media/Buon-investimento-giungla.jpg)Prima orientarsi, poi, se necessario, correre. Foto di [Ihor Saveliev](https://unsplash.com/@saveli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Buon investimento - uomo perso in giungla](/assets/media/Buon-investimento-giungla.jpg)Prima orientarsi, poi, se necessario, correre. Foto di [Ihor Saveliev](https://unsplash.com/@saveli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Per rendere chiaro come usare le domande userò tre esempi di potenziali investimenti:  
 ? Acquisto di una prima casa vicino ad un polo universitario.  
@@ -84,7 +84,7 @@ Quindi, ci è chiaro come guadagneremo da questo investimento? Si tratta di una 
 
 Alcune volte ci sarà chiara la strada verso il guadagno, in altri casi il castello scricchiola. Perché qualcuno dovrebbe pagare di più quello che tu hai acquistato ad un prezzo più basso? Non ti aspetti di fare lo stesso con un aspirapolvere, perché dovrebbe succedere con un quadro, un lingotto d’oro o un contratto digitale?
 
-![Buon investimento - galleria arte]({{site.baseurl}}/assets/media/Buon-investimento-galleria-arte.jpg)Chi decide quanto valgono? Foto di [Josh Liu](https://unsplash.com/@joshtw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Buon investimento - galleria arte](/assets/media/Buon-investimento-galleria-arte.jpg)Chi decide quanto valgono? Foto di [Josh Liu](https://unsplash.com/@joshtw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Magari rimane comunque un buon investimento **all’interno del nostro portafoglio**. In tal caso non avremo paura a rispondere alla domanda 3.
 
@@ -101,7 +101,7 @@ Siamo in grado di assorbire il colpo oppure rischiamo di rimanerne sopraffatti? 
 
 A volte è disponibile una storia passata per un certo tipo d’investimento da cui possiamo trarre informazioni utili. Ad esempio possiamo osservare l’andamento del mercato azionario negli ultimi 100 anni e valutare se saremmo in grado di navigare quella sequenza di eventi.
 
-![Buon investimento - grafico sp500 dal 1929]({{site.baseurl}}/assets/media/Buon-investimento-grafico-sp500.png)Immagina… potresti trovarti in questa situazione, che succederebbe?
+![Buon investimento - grafico sp500 dal 1929](/assets/media/Buon-investimento-grafico-sp500.png)Immagina… potresti trovarti in questa situazione, che succederebbe?
 
 **Potremmo farci prendere dall’ingordigia e trascurare i rischi**. Dobbiamo invece tenere entrambi presenti prima di passare alla domanda successiva.
 
@@ -134,7 +134,7 @@ Manca solo una domanda.
 
 ### 5 - È compatibile con gli altri miei investimenti?
 
-![Buon investimento - coltivazione pomodori]({{site.baseurl}}/assets/media/Buon-investimento-coltivazione-pomodori.jpg)Obiettivo: fare un’insalata… Ma ho piantato solo pomodori! Foto di [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Buon investimento - coltivazione pomodori](/assets/media/Buon-investimento-coltivazione-pomodori.jpg)Obiettivo: fare un’insalata… Ma ho piantato solo pomodori! Foto di [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Una volta che avremo studiato a dovere un certo tipo d’investimento, che ne siamo consapevoli o meno, avremo un _bias_ verso di esso.
 

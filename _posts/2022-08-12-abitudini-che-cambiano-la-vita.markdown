@@ -37,7 +37,7 @@ Anni fa avevo un serio problema di forma fisica: ero sovrappeso, debole ed avevo
 
 Ecco una mia foto di allora:
 
-![Abitudini - omino Michelin ad un autodromo]({{site.baseurl}}/assets/media/Abitudini-omino-Michelin-ad-un-autodromo.jpg)Foto di [Ye Massa](https://unsplash.com/@massa404?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+![Abitudini - omino Michelin ad un autodromo](/assets/media/Abitudini-omino-Michelin-ad-un-autodromo.jpg)Foto di [Ye Massa](https://unsplash.com/@massa404?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 L’esercizio fisico mi ha aiutato a ritrovare benessere e confidenza; ho scambiato i chili di troppo con un buon impianto muscolare.
 
@@ -74,7 +74,7 @@ Tutto qua. È molto meno faticoso rispetto a dover decidere ogni 3 ore cosa mang
 
 Era faticoso quasi quanto scegliere cosa guardare su Netflix… A proposito.
 
-![Abituarsi a non guardare la TV - vecchia televisione impolverata]({{site.baseurl}}/assets/media/Abituarsi-a-non-guardare-la-TV-vecchia-televisione-impolverata.jpg)Nelle nostre case dal [1954](https://it.wikipedia.org/wiki/Storia_della_televisione#Cronologia).  
+![Abituarsi a non guardare la TV - vecchia televisione impolverata](/assets/media/Abituarsi-a-non-guardare-la-TV-vecchia-televisione-impolverata.jpg)Nelle nostre case dal [1954](https://it.wikipedia.org/wiki/Storia_della_televisione#Cronologia).  
 Foto di [Rafael Arkenau](https://unsplash.com/@rflrkn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## 3) Niente TV. Quasi niente social.
@@ -121,7 +121,7 @@ Non ti piace leggere? Puoi [ascoltare audiolibri](https://amzn.to/3RtDG0S), è l
 
 E poi è un passatempo davvero economico, specie se ti appoggi ad una biblioteca. Oggi ti forniscono anche [ebook](https://www.medialibrary.it/home/index.aspx). Davvero, non ci sono scuse.
 
-![Leggere per abitudine - Immagine libreria pubblica di Stoccolma]({{site.baseurl}}/assets/media/Leggere-per-abitudine-Immagine-libreria-pubblica-di-Stoccolma.jpg)La mia libreria personale ha più di 100’000 volumi. Mi basta solo aspettare qualche giorno per la consegna.  
+![Leggere per abitudine - Immagine libreria pubblica di Stoccolma](/assets/media/Leggere-per-abitudine-Immagine-libreria-pubblica-di-Stoccolma.jpg)La mia libreria personale ha più di 100’000 volumi. Mi basta solo aspettare qualche giorno per la consegna.  
 Foto di [Anna Hunko](https://unsplash.com/@annahunko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 Com’è nata l’abitudine?
@@ -150,7 +150,7 @@ Non è un male usare questo pilota automatico, ma è necessario analizzare in mo
 
 Io lo faccio con carta e penna, tutte le mattine, scrivendo una pagina intera. Quello che c’è dentro conta poco. A volte sono pensieri liberi e confusi, altre volte cerco di mettere nero su bianco le mie preoccupazioni o pianificare qualcosa d’importante. Mi aiuta a vedere con più chiarezza le cose.
 
-![Tenere un diario - foto agenda]({{site.baseurl}}/assets/media/Tenere-un-diario-foto-agenda.jpg)Ecco che le vecchie agende della banca tornano utili!  
+![Tenere un diario - foto agenda](/assets/media/Tenere-un-diario-foto-agenda.jpg)Ecco che le vecchie agende della banca tornano utili!  
 Foto di [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## 7) Celebrare il bello.
@@ -169,7 +169,7 @@ C’è troppa negatività in giro, o forse siamo noi a notarla troppo spesso. Vo
 
 Tipo l’onore di sapere che leggi questi articoli!
 
-![Abituarsi a notare le cose belle - Grazie]({{site.baseurl}}/assets/media/Abituarsi-a-notare-le-cose-belle-Grazie.jpg)Foto di [Priscilla Du Preez](https://unsplash.com/@priscilladupreez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), intenzioni di SaltoMentale.
+![Abituarsi a notare le cose belle - Grazie](/assets/media/Abituarsi-a-notare-le-cose-belle-Grazie.jpg)Foto di [Priscilla Du Preez](https://unsplash.com/@priscilladupreez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), intenzioni di SaltoMentale.
 
 ## Conclusione
 

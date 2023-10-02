@@ -15,7 +15,7 @@ image:
   thumbnail: /assets/media/I-nuovi-ruminanti-Copertina.jpeg
 ---
 
-![]({{site.baseurl}}/assets/media/I-nuovi-ruminanti.png)
+![](/assets/media/I-nuovi-ruminanti.png)
 
     <code>Ho riscritto questo articolo il 23 Aug 2021.</code>
 

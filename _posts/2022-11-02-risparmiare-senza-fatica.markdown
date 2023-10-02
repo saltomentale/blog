@@ -52,7 +52,7 @@ Quindi,
 > Passo 1: riconoscere la differenza fra desiderio e bisogno.
 
 
-![Ragazza che fa shopping e guarda tra le magliette]({{site.baseurl}}/assets/media/Ragazza-che-fa-shopping-e-guarda-tra-le-magliette.jpg)Cosa cerchi lì dentro? Abbigliamento? Status? Divertimento? Compagnia?  
+![Ragazza che fa shopping e guarda tra le magliette](/assets/media/Ragazza-che-fa-shopping-e-guarda-tra-le-magliette.jpg)Cosa cerchi lì dentro? Abbigliamento? Status? Divertimento? Compagnia?  
 Foto di [Becca McHaffie](https://unsplash.com/@beccamchaffie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Soddisfare i propri bisogni
@@ -73,7 +73,7 @@ Sono tali bisogni ciò che dobbiamo soddisfare per stare bene in modo stabile e 
 > Passo 2: Individua i bisogni dietro il tuo desiderio
 
 
-![Uomo seduto in piscina con bottiglie di alcolici]({{site.baseurl}}/assets/media/Uomo-seduto-in-piscina-con-bottiglie-di-alcolici.jpg)Temo che nessuna automobile mi farà mai sembrare così cool. E mi sta bene così.  
+![Uomo seduto in piscina con bottiglie di alcolici](/assets/media/Uomo-seduto-in-piscina-con-bottiglie-di-alcolici.jpg)Temo che nessuna automobile mi farà mai sembrare così cool. E mi sta bene così.  
 Foto di [Jakob Owens](https://unsplash.com/@jakobowens1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
 ## Ottimizzare la scelta
@@ -134,7 +134,7 @@ Facciamo un breve sommario di quanto detto finora.
 2. Dietro ogni desiderio ci possono essere bisogni reali che vuoi soddisfare;
 3. Puoi soddisfare un bisogno in molti modi, alcuni migliori di altri.
 
-![Risparmiare senza fatica - schema concettuale]({{site.baseurl}}/assets/media/Risparmiare-senza-fatica.png)
+![Risparmiare senza fatica - schema concettuale](/assets/media/Risparmiare-senza-fatica.png)
 
 Sostituire i modi inefficienti in cui soddisfi i tuoi bisogni con strategie più ottimizzate fa una enorme differenza, sia in termini economici che di soddisfazione personale duratura.
 
