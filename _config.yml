@@ -129,3 +129,10 @@ footer_links:
   - title: Feed
     url: feed/index.xml
     icon: fas fa-rss-square
+  - title: Contattami
+    url: https://twitter.com/SaltomentaleIt
+    icon: fab fa-twitter-square
+  - title: Facebook
+    url: https://www.facebook.com/people/SaltoMentale/100083943617490
+    icon: fab fa-facebook-square
+  
