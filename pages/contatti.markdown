@@ -14,10 +14,13 @@ Di me ho poco da dirti, solo che ho il pallino di capire ciò che influenza il n
 
 Questo blog è il posto in cui condivido quello che scopro. Troverai contenuti sugli argomenti più disparati, dalla coerenza del nostro comportamento alla finanza. A volte lo faccio tramite lettere destinate a mia figlia o a qualche amico. Di solito pubblico un articolo a settimana, ma non prometto nulla.
 
+## Come seguire il blog
 
-Il modo migliore per restare aggiornato è iscriverti alla newsletter o al feed RSS qui sotto. 
+Il modo migliore per restare aggiornato è iscriverti al [feed RSS](https://saltomentale.it/feed/index.xml). 
 
-Puoi contattarmi via email ([saltomentale@gmail.com](mailto:saltomentale@gmail.com)) o scrivere un commento quando un argomento t'interessa. 
+Gli articoli vengono pubblicati in automatico anche su [Twitter](https://twitter.com/SaltomentaleIt) e [Facebook](https://www.facebook.com/people/SaltoMentale/100083943617490/).
 
+## Come contattarmi
 
-Spero di vederti qui spesso, buona lettura!
+Via email: [saltomentale@gmail.com](mailto:saltomentale@gmail.com). 
+
