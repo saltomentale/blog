@@ -88,7 +88,7 @@ In tal caso si sbloccano altre possibilità: campeggio, case vacanze più econom
 
 ## Lavoro da casa
 
-Qui si aprono possibilità enormi. La prima è il *trasferirsi in vacanza*: invece di vivere in zona urbana, vicino alla sede di lavoro puoi vivere ovunque, purché con discreti servizi. In [un borgo montano](TODO), ad esempio, oppure in riva al mare. 
+Qui si aprono possibilità enormi. La prima è il *trasferirsi in vacanza*: invece di vivere in zona urbana, vicino alla sede di lavoro puoi vivere ovunque, purché con discreti servizi. In [un borgo montano]({{ 'vivere-in-un-borgo' | relative_url }}), ad esempio, oppure in riva al mare. 
 
 Si apre anche la possibilità del nomadismo digitale: vivere e lavorare per lunghi periodi da diverse parti del mondo, assecondando i propri interessi o il clima o il costo della vita. 
 
@@ -98,9 +98,9 @@ Si apre anche la possibilità del nomadismo digitale: vivere e lavorare per lung
 
 ## Lavoro quando vuoi
 
-Se si viene pagati per il [valore che si crea](TODO), non per trascorrere un totale di ore facendo quel che ci impongono, allora potremmo organizzarci in modo ancor più flessibile, di fatto espandendo le ferie o facendole quando le condizioni meteo sono ideali.
+Se si viene pagati per il [valore che si crea]({{ 'non-voglio-lavorare-troppo' | relative_url }}), non per trascorrere un totale di ore facendo quel che ci impongono, allora potremmo organizzarci in modo ancor più flessibile, di fatto espandendo le ferie o facendole quando le condizioni meteo sono ideali.
 
-Un po' come la mia giornata al mare: c'erano le condizioni per farla ed ho potuto coglierla grazie alla flessibilità di lavorare quando voglio. Molto spesso il [collo di bottiglia](TODO) nel godersi le cose è proprio una scarsa flessibilità.
+Un po' come la mia giornata al mare: c'erano le condizioni per farla ed ho potuto coglierla grazie alla flessibilità di lavorare quando voglio. Molto spesso il [collo di bottiglia]({{ 'colli-di-bottiglia' | relative_url }}) nel godersi le cose è proprio una scarsa flessibilità.
 
 Quando piove o non sono dell'umore, invece, posso darci dentro col lavoro, creandomi lo spazio per fare quello che voglio quando le condizioni saranno ideali. Ne guadagna anche il mio lavoro: se non sono ispirato e produttivo vado al mare; quando torno sono carico a molla.
 
@@ -108,7 +108,7 @@ Quando piove o non sono dell'umore, invece, posso darci dentro col lavoro, crean
 
 ## Sabbatici
 
-[E se smettessimo di lavorare del tutto](TODO)? Difficile ma fattibile, come spiegato in quel vecchio articolo. Tuttavia non è detto che non si possa ottenere lo stesso effetto con un anno sabbatico o passando al lavoro in proprio, senza per forza smettere di lavorare. Se il lavoro è bello e ci piace, dopotutto, perché smettere?
+[E se smettessimo di lavorare del tutto]({{ 'si-puo-smettere-di-lavorare-prima-della-pensione' | relative_url }})? Difficile ma fattibile, come spiegato in quel vecchio articolo. Tuttavia non è detto che non si possa ottenere lo stesso effetto con un anno sabbatico o passando al lavoro in proprio, senza per forza smettere di lavorare. Se il lavoro è bello e ci piace, dopotutto, perché smettere?
 
 > Scelta: 280 giorni in montagna, 65 al mare, 20 on the road. 100% bel tempo, produttività ai massimi ed un anno di backpacking in giro per il mondo.
 
@@ -116,7 +116,7 @@ Quando piove o non sono dell'umore, invece, posso darci dentro col lavoro, crean
 
 A questo punto dovresti aver notato il grande assente: i soldi. Salvo una piccola condizione nel punto iniziale, non li ho mai aggiunti all'equazione. 
 
-Eppure i soldi aiutano. Possono permetterci di prenotare comunque un bel posto esclusivo ad agosto o aiutarci a trovare il lavoro migliore e più flessibile ma magari pagato un poco meno. Ci possiamo permettere qualche lusso aggiuntivo o, se siamo [finanziariamente indipendenti](TODO), potremmo smettere di lavorare del tutto. Sabbatico infinito.
+Eppure i soldi aiutano. Possono permetterci di prenotare comunque un bel posto esclusivo ad agosto o aiutarci a trovare il lavoro migliore e più flessibile ma magari pagato un poco meno. Ci possiamo permettere qualche lusso aggiuntivo o, se siamo [finanziariamente indipendenti]({{ 'indipendenza-finanziaria' | relative_url }}), potremmo smettere di lavorare del tutto. Sabbatico infinito.
 
 > Scelta: 100 giorni in montagna, 100 al mare, 165 on the road. 100% vacanza.
 
