@@ -24,7 +24,7 @@ image:
 
 Chiunque abbia fatto un paio di voli su una compagnia low cost sa chi sia la famiglia Ryanair. Per tutti gli altri, ecco la sua descrizione.
 
-La famiglia Ryanair è composta da almeno un genitore ed uno o più figli piccoli, di solito con meno di 10 anni. Si distingue immediatamente per il chiasso, la moltitudini di bagagli ed in generale per un livello di [entropia](https://it.wikipedia.org/wiki/Entropia) fuori dal comune. 
+La famiglia Ryanair è composta da almeno un genitore ed uno o più figli piccoli, di solito con meno di 10 anni. Si distingue immediatamente per il chiasso, la moltitudine di bagagli ed in generale per un livello di [entropia](https://it.wikipedia.org/wiki/Entropia) fuori dal comune. 
 
 La famiglia Ryanair ha anche il potere dell'onnipresenza: prende il tuo stesso volo, siede davanti a te, va alla tua stessa destinazione finale, sta accanto a te al ristorante ed hanno la camera d'albergo sopra la tua. 
 
@@ -63,17 +63,17 @@ Attenzione, non è la famiglia Ryanair ad essere sbagliata: ci sono contesti in 
 
 Quindi ci sono due sole situazioni problematiche: 
 
-1. Quando vogliamo tenere un comportamento inadeguato dove è davvero inopportuno, e siamo noi ad andarcela a cercare. 
+1) Quando vogliamo tenere un comportamento inadeguato dove è davvero inopportuno, e siamo noi ad andarcela a cercare. 
 
 Ad esempio se io portassi mia figlia nella sala lettura della biblioteca e pretendessi di stare lì con lei per due ore, sarei senza dubbio fastidioso agli altri e poco rispettoso. 
-
+  
 Oppure quando portiamo mia figlia a bar e ristoranti: lei dopo 120 secondi vuole saltare sui tavoli, noi lo sappiamo e sappiamo che non è bello per chi ci è vicino, quindi evitiamo di andarci. Quelle poche volte che cediamo torniamo a casa con la coda tra le gambe e super stressati.
-
+  
 Bar e ristoranti eleganti non sono un diritto dell'uomo.
-
+  
 Bisogna accettare che, in carte situazioni, non puoi fare delle cose. Punto, non siamo il centro dell'universo, abbiamo deciso di avere figli e nel pacchetto sapevamo che c'erano delle rinunce, inutile ora fare i sorpresi.
-
-2. Quando delle norme ingiuste vengono imposte a gruppi che non possono rispettarle.
+  
+2) Quando delle norme ingiuste vengono imposte a gruppi che non possono rispettarle.
 
 Torniamo al traghetto: io devo andare da Genova a Palermo. Guidare non è una opzione, è pericoloso, costoso e noioso da morire. Devo prendere il traghetto, e con me deve venire mia figlia di due anni. Il fatto che ci debba essere silenzio mi mette con le spalle al muro: non sono in grado di far stare tranquilla mia figlia per periodi prolungati, nessuno è in grado di farlo, lei non ha l'età e le capacità per stare in silenzio, neanche se usassi la vecchia cinghia di cuoio di [mia nonna]({{ 'lezioni-nonni' | relative_url }}). Quindi, che faccio? Mi trovo tra incudine e martello ed il minore dei mali è ignorare le norme sociali e lasciare che mia figlia faccia un po' di caos.
 
