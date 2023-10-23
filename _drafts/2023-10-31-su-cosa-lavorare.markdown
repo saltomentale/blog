@@ -3,7 +3,7 @@ author: SaltoMentale
 layout: post
 comments: true
 
-date: 2023-10-27 07:00:00+02:00
+date: 2023-10-31 10:00:00+00:00
 excerpt: "Impegnarsi al massimo non basta, bisogna anche lavorare sui problemi giusti."
 
 slug: su-cosa-lavorare
@@ -61,7 +61,7 @@ Sta facendo del suo meglio, ma non sta facendo un lavoro completo.
 
 Ho un altro amico nello stesso gruppo, chiamiamolo Metrios. Anche lui è padre di famiglia, ma interpreta il suo ruolo in modo molto diverso: egli ritiene di dover fornire soprattutto amore e presenza, e si divide l'onere di procurare risorse finanziarie e beni di consumo con la moglie. 
 
-O forse è solo un cazzaro paraculo. Può darsi.
+O forse è solo un paraculo. Può darsi.
 
 Lavora anche lui, ma fa un lavoro più umile, per meno ore, con meno responsabilità e vicino casa. C'è sempre ai pasti della famiglia e nei fine settimana non lo chiama nessuno per lavoro. Accompagna spesso i figli a scuola ed agli allenamenti. È molto rilassato. Organizza gite e festicciole di continuo. 
 

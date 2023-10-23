@@ -3,7 +3,7 @@ author: SaltoMentale
 layout: post
 comments: true
 
-date: 2023-10-17 07:00:00+02:00
+date: 2023-10-24 10:00:00+00:00
 excerpt: "Avere flessibilità è desiderabile, ma quanto valore ha concretamente? Provo a quantificarlo sulla mia esperienza."
 
 slug: il-valore-della-flessibilita
@@ -28,7 +28,7 @@ Abbiamo appena trascorso tutta la giornata al mare. Giornata splendida, bel sole
 
 In tutta la riviera non c'era altro che qualche gabbiano e non più di una ventina di persone. Dal lungomare, in alto, sentivamo il passare delle auto e dei camion.
 
-Tizio al lavoro e noi al mare, che culo.
+Tizio al lavoro e noi al mare, che fortuna.
 
 Eppure la giornata era partita con tutt'altro tono. Ho per le mani un nuovo progetto ed avevo iniziato a lavorarci. Mia moglie era andata a fare la spesa con la bambina ed è tornata in tarda mattinata con la notizia che non c'era vento ed il mare era limpido ed attraente.
 
@@ -93,8 +93,6 @@ Qui si aprono possibilità enormi. La prima è il *trasferirsi in vacanza*: inve
 Si apre anche la possibilità del nomadismo digitale: vivere e lavorare per lunghi periodi da diverse parti del mondo, assecondando i propri interessi o il clima o il costo della vita. 
 
 > Scelta: 280 giorni in montagna, 65 al mare, 20 on the road.
-
-![]({{ '/assets/media/postazione-di-lavoro-al-mare.jpg' | absolute_url }}) *La nuova postazione di lavoro*
 
 ## Lavoro quando vuoi
 
