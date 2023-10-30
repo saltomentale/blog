@@ -3,7 +3,7 @@ author: Calt
 layout: post
 comments: true
 
-date: 2023-10-30 06:25:53:00+01:00  
+date: 2023-10-30 06:25:53:00+02:00  
 excerpt: "Quando ha senso sacrificarsi oggi per avere un futuro migliore?"
 
 slug: due-dita-in-gola
