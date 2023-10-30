@@ -12,6 +12,8 @@ title: "Due dita in gola?"
 categories:
   - la realtà spiegata
   
+usemathjax: true
+
 image:
   path: "/assets/media/due-dita-in-gola_cover.jpg"
   thumbnail: "/assets/media/due-dita-in-gola_cover.jpg"
@@ -57,13 +59,13 @@ Il procedimento per calcolare il NPV utilizzando può essere riassunto nei segue
 
 So che non aspetti altro, quindi ecco l'equazione matematica per calcolare il NPV:
 
-\[ NPV = \sum_{t=1}^{n} \frac{CF_t}{(1 + r)^t} \]
+$$NPV = \sum_{t=1}^{n} \frac{CF_t}{(1 + r)^t}$$
 
 Dove:
 
-- \( CF_t \) rappresenta il flusso di cassa nell'anno \( t \).
-- \( r \) è il tasso di sconto.
-- \( n \) è il numero totale di periodi in cui si verificano i flussi di cassa.
+- \\( CF_t \\) rappresenta il flusso di cassa nell'anno \\( t \\).
+- \\( r \\) è il tasso di sconto.
+- \\( n \\) è il numero totale di periodi in cui si verificano i flussi di cassa.
 
 Sembra un metodo intelligente, dopotutto lo usano gli economisti, no? L'inghippo sta nel fatto che sia i flussi di cassa futuri che il tasso di sconto sono **stime**. Nessuno ci garantisce di poterle fare bene eppure dalla loro accuratezza dipende la bontà della scelta.
 
