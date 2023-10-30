@@ -21,7 +21,7 @@ image:
   
 ---
 
-Oggi è il 29 ottobre. Siamo in Sicilia. Il sole splende alto nel cielo azzurro e il mare si estende fino all'orizzonte in una tavolozza di blu e verde.
+Ieri era il 29 ottobre. Siamo ancora in Sicilia. Il sole splende alto nel cielo azzurro e il mare si estende fino all'orizzonte in una tavolozza di blu e verde.
 
 Siamo da poco tornati dal mare, ancora umidi, salati.
 
@@ -45,13 +45,13 @@ La terza opzione: getti la spugna. Accetti il fatto che è ormai troppo tardi, c
 
 Prendere una scelta razionale è possibile. Dopotutto, nella vita il futuro è sempre incerto e grandi menti si sono già dedicate a questo problema.
 
-In economia si usa il metodo del [Net Present Value](https://it.wikipedia.org/wiki/Valore_attuale_netto){:target="_blank"} (NPV) per definire il valore attuale, presente, ad oggi, dei flussi di cassa futuri.
+In economia si usa il metodo del [Net Present Value](https://it.wikipedia.org/wiki/Valore_attuale_netto){:target="_blank"} (NPV) per definire il valore attuale, ad oggi, dei flussi di cassa futuri.
 
 Meglio un uovo oggi o una gallina domani? Col NPV gli economisti ti darebbero una risposta.
 
 L'idea principale di questo metodo è che un euro ricevuto in futuro vale meno di un euro ricevuto oggi, a causa di diversi fattori tra cui l'inflazione, il costo opportunità, l'incertezza di avere quel euro domani.
 
-Il procedimento per calcolare il NPV utilizzando può essere riassunto nei seguenti passaggi:
+Il procedimento per calcolare il NPV può essere riassunto nei seguenti passaggi:
 
 1. Stimare i flussi di cassa futuri
 2. Determinare il tasso di sconto sui flussi futuri
@@ -73,7 +73,7 @@ Insomma, con o senza formule, ci tocca prendere scelte complesse e sgradevoli ba
 
 ## Scelte difficili
 
-È difficile resistere alla tentazione del piacere immediato, specialmente quando il costo sembra così lontano e indistinto.
+All'incertezza si aggiunge il fatta che è difficile resistere alla tentazione del piacere immediato, specialmente quando il costo sembra così lontano e indistinto.
 
 Non è facile farlo in una serata in discoteca quando l'allegria è contagiosa.
 
@@ -81,10 +81,6 @@ Non è facile farlo quando si tratta delle nostre finanze e le tentazioni sono a
 
 Non è facile farlo per tutelare il nostro ambiente, che oggi ci permette di arricchirci con le sue risorse accumulate per milioni di anni.
 
-Non è facile farlo per giustizia, quando il mio benessere poggia sullo sfruttamento altrui.
+Non c'è neanche una risposta giusta o sbagliata, si tratta di trovare il proprio personale equilibrio tra presente e futuro. 
 
-Sono scelte in cui non si vince. Puntiamo al meno peggio e non sappiamo davvero quanto costeranno o dove ci porteranno. Abbiamo solo stime.
-
-A volte non c'è neanche una risposta giusta o sbagliata, a volte è solo questione di trovare un equilibrio soddisfacente tra presente e futuro. 
-
-Quindi, intanto, mi godo il mare che resta. Almeno su questo ho un po' di controllo.
+O nel caso delle scelte collettive, come quella sul cambiamento climatico, di fare del proprio meglio e prepararsi al peggio. E godersi il mare fin che c'è.
