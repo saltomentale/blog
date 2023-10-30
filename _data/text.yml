@@ -159,7 +159,7 @@ it: &DEFAULT_IT
   older: "Vecchi"
   back_to_top: "Torna in cima"
   search_placeholder_text: "Inserisci una parola da cercare..."
-  powered_by: "Generato da"
+  powered_by: "Generato, non creato, da"
 it-IT:
   <<: *DEFAULT_IT
 
