@@ -3,7 +3,7 @@ author: Calt
 layout: post
 comments: true
 
-date: 2023-11-03 07:03:47:00+01:00  
+date: 2023-11-03 10:10:00:00+00:00  
 slug: ospiti--l-effetto-dunning-kruger-nel-mondo-degli-investimenti
 excerpt: "Da 1 a 5, dove 3 è 'nella media', quanto sei competente in finanza personale?"
 
