@@ -3,7 +3,7 @@ author: SaltoMentale
 layout: post
 comments: true
 
-date: 2023-11-07 10:00:00+00:00
+date: 2023-11-14 10:00:00+00:00
 excerpt: "Impegnarsi al massimo non basta, bisogna anche lavorare sui problemi giusti."
 
 slug: su-cosa-lavorare
