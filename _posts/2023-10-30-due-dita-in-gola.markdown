@@ -10,7 +10,7 @@ slug: due-dita-in-gola
 title: "Due dita in gola?"
 
 categories:
-  - la realtà spiegata
+  - La realtà spiegata
   
 usemathjax: true
 
