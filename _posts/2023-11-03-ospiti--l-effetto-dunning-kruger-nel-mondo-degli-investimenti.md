@@ -17,7 +17,7 @@ image:
   thumbnail: /assets/media/ospiti--l-effetto-dunning-kruger-nel-mondo-degli-investimenti_cover.jpg
 ---
 
-> Oggi vi propongo l'articolo di Lorenzo, autore del blog di finanza [Investire con buonsenso](https://investireconbuonsenso.com/2023/07/10/leffetto-dunning-kruger-nel-mondo-degli-investimenti/){:target="_blank"} dove è stato pubblicato in origine questo articolo. Buona lettura!
+> Oggi ti ripropongo un bel articolo di Lorenzo, pubblicato da [Investire con buonsenso](https://investireconbuonsenso.com/2023/07/10/leffetto-dunning-kruger-nel-mondo-degli-investimenti/){:target="_blank"}. Buona lettura!
 
 Viviamo nell’era della conoscenza più o meno disponibile per tutti. L’**intelligenza artificiale** sta creando delle aspettative incredibili inesistenti anche solo un anno fa. Viviamo però anche un momento storico dove **i social** stanno diventando una vetrina che troppo spesso premia ignoranti esibizionisti rispetto a persone intelligenti che hanno qualcosa da dire e da insegnare. Che per fortuna continuano a sopravvivere. Ma che, per come sono costruiti gli **algoritmi del web,** per avere visibilità sono costrette a compromessi che tendono a sacrificare la profondità del messaggio.
 
