@@ -43,7 +43,7 @@ Alla fine dell’articolo guardate questo video per capire ancora meglio di cosa
 
 Play
 
-Quello che **Dunning e Kruger** scoprirono con i loro test fu che individui **poco esperti** in un certo campo tendevano a sopravalutare le proprie abilità.
+Quello che **Dunning e Kruger** scoprirono con i loro test fu che individui **poco esperti** in un certo campo tendevano a sopravvalutare le proprie abilità.
 
 Al contrario persone con **competenze sempre più alte** tendevano a sottovalutare la loro reale competenza.
 
@@ -85,7 +85,7 @@ E ritorniamo da dove siamo partiti, chiudendo **il ciclo della vita**. Con più 
 
 Il vero ingrediente di successo nella vita di un investitore.
 
-Il problema dell’odierna **era dominata dai social.** Se non mostri o non sbraiti o piuttosto non ostenti grandi sicurezze in quello che dici vieni sopraffatto in termini di clic mancati e quindi all’oblio della rete. E se la rete ti dimentica il messaggio, anche ricco di competenza, naturalmente si perde.
+Il problema dell’odierna **era dominata dai social.** Se non mostri o non sbraiti o piuttosto non ostenti grandi sicurezze in quello che dici vieni sopraffatto in termini di clic mancati e sei condannato quindi all’oblio della rete. E se la rete ti dimentica il messaggio, anche ricco di competenza, naturalmente si perde.
 
 Potrebbe anche non essere un problema tutto questo, se non fosse che la rete è ormai diventata dominante con tanti personaggi **influencer** che fanno fortuna e acquisiscono potere proprio sfruttando il picco iniziale della curva, quello che fa colpo su quella fetta di popolazione che pensa di conoscere tutto della vita pur con un livello di conoscenza infimo.
 
