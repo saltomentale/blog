@@ -2,7 +2,7 @@ name: Republish
 
 on:
   schedule:
-    - cron: '15 10 * * *'  # Run at 10:15 pm UTC every day.
+    - cron: '15 * * * *'  # Run at *:15 pm UTC every hour.
 
 # For debugging only
 # on: push
