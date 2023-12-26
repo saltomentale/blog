@@ -3,7 +3,7 @@ author: Calt
 layout: post
 comments: true
 
-date: 2023-12-26 10:10:37:00+00:00  
+date: 2023-12-26 06:00:00:00+02:00  
 slug: la-scala-morale
 excerpt: Quello che è giusto o sbagliato è, in buona parte, determinato dal contesto sociale in cui viviamo.
 
