@@ -3,7 +3,7 @@ author: Calt
 layout: post
 comments: true
 
-date: 2023-12-28 06:00:00:00+02:00  
+date: 2023-12-28 05:00:00:00+02:00  
 slug: teoria-evolutiva-della-soddisfazione
 excerpt: Quanto siamo soddisfatti o meno di noi dipende da come ci vediamo nella società.
 

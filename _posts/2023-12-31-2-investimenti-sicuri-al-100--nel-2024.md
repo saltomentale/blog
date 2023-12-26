@@ -3,7 +3,7 @@ author: Calt
 layout: post
 comments: true
 
-date: 2023-12-31 06:00:00:00+02:00  
+date: 2023-12-31 05:00:00:00+02:00  
 slug: 2-investimenti-sicuri-al-100--nel-2024
 excerpt: Quelli in se stessi, che ti aspettavi?
 
