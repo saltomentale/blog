@@ -21,7 +21,7 @@ Pensavi di essere tanto importante, che tutti s'interessassero a te, che sei spe
 
 Sbagliato.
 
-Tu non conti nulla. E nemmeno io non conto nulla.
+Tu non conti nulla. Nemmeno io conto nulla.
 
 Forse non te ne sei accorto, ma siamo delle inutili masse di atomi che girano su un sassolino nell'estrema periferia della galassia Nullazio, dentro ad un universo anonimo tra gli infiniti universi che potrebbero esistere. Ed esistiamo per un lasso di tempo ridicolmente breve e poco interessante, nella probabile infinità del tempo stesso.
 
