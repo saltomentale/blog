@@ -66,7 +66,6 @@ Anche sentire le lamentele altrui non è piacevole.
 
 Esistono circoli di persone che si lamentano di continuo, uno dei quali ha miliardi di partecipanti ed un fondatore che dovrebbe prendere molto più sole.
 
-![]({{ '/assets/media/Zuck.jpeg' | absolute_url }})Eh no Mr. Zuckerberg, i raggi UV non ce li riesce a mettere nel [Metaverso](https://www.huffingtonpost.it/entry/facebook-va-oltre-cose-il-metaverso-il-mondo-parallelo-dove-noi-tutti-abiteremo_it_617bf481e4b066de4f6f5816), lei è destinato a restare pallido.
 
 I social media sono pieni di lamentele, negatività, rabbia ed oltraggio. Gli algoritmi con cui i contenuti vengono premiati e mostrati alle persone sono tarati in modo da massimizzare il coinvolgimento. Un contributo oltraggioso e negativo ha più possibilità d’innescare tale risposta, d’altronde siamo fatti per [ruminare sulle cose brutte](/i-nuovi-ruminanti/).
 
