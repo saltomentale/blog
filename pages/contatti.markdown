@@ -46,6 +46,7 @@ Quelli di cui vado più orgoglioso sono:
 
 - [Your Financial Fallacies](https://financialfallacies.com/){:target="_blank"}. Una raccolta delle illusioni, sciocchezze e bislaccherie finanziarie più comuni. Pubblico una nuova fallacia a settimana.
 - [Habituator](https://habituator.app/){:target="_blank"}: un tracker d'abitudini per iOS. App nativa, pensata, progettata, disegnata, programmata e commercializzata da me. Che fatica. Puoi usarla gratis però, con pochi limiti.
+- [Habit Tracker Free Resources](https://habittracker.top){:target="_blank"}: è una raccolta di risorse gratuite, per lo più disegnate da me o comunque da me revisionate, che permettono a chiunque di lavorare sulle proprie abitudini senza dover spendere un centesimo. Per chi ama carta e penna o è a corto di soldi, come alternativa alle mie app :) 
 
 ## Come contattarmi
 
