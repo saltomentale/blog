@@ -23,10 +23,10 @@ img + em {
     margin-right: auto;
     text-align: center;
     color: gray;
-    font-size: calc(14px + 4 * ((100vw - 320px) / 960));
+    font-size: 1.0em;
 }
 
 div.post-promotion {
-    font-size: calc(15px + 4 * ((100vw - 320px) / 960));
+    font-size: 1.0em;
     color: #888
 }
