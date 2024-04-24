@@ -177,7 +177,7 @@ Spero che questa lista ti sia utile, almeno come ispirazione.
 
 Non ci ho messo le mie (numerosissime) cattive abitudini, né quelle abitudini che non sono ancora riuscito ad instaurare, tipo la [meditazione](/30-giorni-meditazione/).
 
-Come approfondimento ti consiglio l’articolo sul [**cambiare abitudini**](/cambiare-abitudini-in-modo-semplice/). Da lì potrai trovare altre risorse utili.
+Come approfondimento ti consiglio l’articolo sul [**cambiare abitudini**](/cambiare-abitudini-in-modo-semplice/). Da lì potrai trovare altre risorse utili per capire come funzionano le abitudini. Se invece vuoi passare subito all'azione, potrebbe interessarti questa raccolta di [templates per crearti il tuo Habit Tracker](https://habittracker.top) oppure [Habituator, un habit tracker per iOS](https://apple.co/3PqueKO) che ho progettato e sviluppato di persona col sudore della fronte.
 
 > ? Quali sono le abitudini che ti hanno cambiato la vita? Scrivile nei commenti!
 

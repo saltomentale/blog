@@ -150,7 +150,7 @@ Col tempo diventerà automatica come lavarsi i denti al mattino o mettere la fre
 
 - [Atomic Habits](https://amzn.to/37yfacN), di James Clear è il libro da cui ho tratto maggiormente ispirazione per questo articolo, un lavoro eccellente e molto pratico. Spero che la [traduzione italiana](https://amzn.to/3xIHELw) sia all’altezza.
 - [La dittatura delle abitudini](https://amzn.to/3rHLSzd) di Charles Duhigg è uno dei saggi più famosi sulle abitudini. È un’ottima lettura da cui ho tratto il ciclo delle abitudini che abbiamo presentato, fatto d’indizio-azione-ricompensa.
-- Puoi cambiare le tue abitudini in modo intenzionale usando un habit tracker. [Ne ho creato uno apposta per te](https://drive.google.com/file/d/1RcgGQwKFxXNc8nx8ZDXF3PGNeZW9V8Hm/view?usp=sharing) da stampare ed assemblare. Esistono anche app per smartphone che fanno un lavoro eccellente. Occhio solo a non aprire TikTok “per sbaglio”.
+- Puoi cambiare le tue abitudini in modo intenzionale usando un habit tracker. Ho creato un sito che raccoglie una marea di [templates per creare il tuo habit tracker](https://habittracker.top), sia su carta e penna che digitale, con Google Sheet o Notion. Ed ho anche creato un [habit tracker per iOS](https://apple.co/3PqueKO), purtroppo non è ancora disponibile su Android. Occhio solo a non aprire TikTok “per sbaglio” dopo aver segnato le abitudini!
 - [Change Your Life – One Tiny Step at a Time](https://youtu.be/75d_29QWELk) è un breve documentario di Kurzgesagt che parla delle abitudini. Come sempre è fatto in modo meraviglioso.
 
   Copertina di <a href="https://unsplash.com/@malikskyds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noreferrer noopener nofollow">Malik Skydsgaard</a>.
