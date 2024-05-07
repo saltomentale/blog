@@ -85,7 +85,7 @@ Questa me l'ha ispirata il mitico [Beau Miles](https://www.youtube.com/@BeauMile
 
 La natura della sfida gli imponeva di spezzare i compiti in piccole unità, perché ogni ora precisa ci sarebbe stata una grossa interruzione, per correre. Eppure è riuscito a fare una marea di cose, incastrate in quei ritagli di tempo. Finita una ne avviava un'altra. Sequenziale. "Ho 10 minuti, di questa mia lista, che cosa posso fare?" Boom, e lo faccio, senza pacchi, concentrato, presente. 
 
-Mi è sembrato un interessante, applicabile anche alle mie giornate tipo. Semplicemente spezzi i vari compiti in faccende più piccole, facili da iniziare, concrete, con un chiaro risultato. Le esegui una dietro l'altra e vai a bomba. 
+Mi è sembrato un approccio interessante, applicabile anche alle mie giornate tipo. Semplicemente spezzi i vari compiti in faccende più piccole, facili da iniziare, concrete, con un chiaro risultato. Le esegui una dietro l'altra e vai a bomba. 
 
 Non saprei dirti se funziona davvero, ma sto provando e promette bene.
 
