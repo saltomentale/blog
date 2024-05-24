@@ -44,9 +44,10 @@ Gli articoli vengono pubblicati in automatico anche su [Twitter](https://twitter
 
 Quelli di cui vado più orgoglioso sono:
 
-- [Your Financial Fallacies](https://financialfallacies.com/){:target="_blank"}. Una raccolta delle illusioni, sciocchezze e bislaccherie finanziarie più comuni. Pubblico una nuova fallacia a settimana.
+- [Too Big To Fail](https://shows.acast.com/too-big-to-fail). Un Podcast di finanza a 3 voci, assieme a [Vittorio](https://finanzacafona.it/) e [Nicola](https://theitalianleathersofa.com/), che non si prende troppo sul serio. Lo trovi su [Spotify](https://open.spotify.com/show/6beSNv77mWZ0oL9LdW3JLp), [Apple Podcasts](https://podcasts.apple.com/it/podcast/too-big-to-fail/id1746169285), [Deezer](https://www.deezer.com/show/1000929692), [YouTube](https://www.youtube.com/@TooBigToFailPodcast), [Amazon Music](https://music.amazon.co.uk/podcasts/d313ef88-4dd5-4825-87f4-a5175d25a1f4/too-big-to-fail) o dovunque tu ascolti i tuoi podcast.
 - [Habituator: un tracker d'abitudini per iOS](https://habituator.app/){:target="_blank"}. App nativa, pensata, progettata, disegnata, programmata e commercializzata da me. Che fatica. Puoi usarla gratis però, con pochi limiti.
 - [Habit Tracker Free Resources](https://habittracker.top){:target="_blank"}: è una raccolta di risorse gratuite, per lo più disegnate da me o comunque da me revisionate, che permettono a chiunque di lavorare sulle proprie abitudini senza dover spendere un centesimo. Per chi ama carta e penna o è a corto di soldi, come alternativa alle mie app :) 
+- [Your Financial Fallacies](https://financialfallacies.com/){:target="_blank"}. Una raccolta delle illusioni, sciocchezze e bislaccherie finanziarie più comuni. Pubblico una nuova fallacia a settimana.
 
 ## Come contattarmi
 
