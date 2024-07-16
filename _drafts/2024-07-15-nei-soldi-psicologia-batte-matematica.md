@@ -15,7 +15,7 @@ categories:
 image:
   path: /assets/media/psicologia-batte-matematica_cover.jpg
   thumbnail: /assets/media/psicologia-batte-matematica_cover.jpg
-  caption: "Photo by"
+  caption: ""
 ---
 
 A rigor di logica, se abbiamo buone basi matematiche dovremmo saper gestire le finanze personali alla grande. Basta capire formule e concetti finanziari e coglierne le implicazioni. No?
