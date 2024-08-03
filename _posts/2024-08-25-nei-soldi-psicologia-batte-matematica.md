@@ -3,7 +3,7 @@ author: Calt
 layout: post
 comments: true
 
-date: 2024-07-15 10:10:10:00+00:00  
+date: 2024-08-25 10:10:10:00+00:00  
 slug: nei-soldi-psicologia-batte-matematica
 excerpt: "Quando si tratta di soldi, poche euristiche psicologiche battono il rigore matematico."
 
@@ -24,7 +24,7 @@ Ed invece la matematica non basta. Conoscere le formule non ci rende più ricchi
 
 Ti sorprende? Non dovrebbe. 
 
-Sapere che il fumo uccide, che in effetti accorcia l'aspettativa di vita a 30 anni di quasi un decennio (https://www.medicalnewstoday.com/releases/9703#1), che peggiora le performance fisiche, mentali, sessuali e tutti i possibili, reali, godimenti della vita dovrebbe bastare ad eradicare il fumo dalla sera alla mattina. Lo sappiamo e non vogliamo mai più averci a che fare. Invece persone perfettamente intelligenti e razionali continuano a fumare imperterriti.
+Sapere che il fumo uccide, che in effetti accorcia l'aspettativa di vita a 30 anni di [quasi un decennio](https://www.medicalnewstoday.com/releases/9703#1), che peggiora le performance fisiche, mentali, sessuali e tutti i possibili, reali, godimenti della vita dovrebbe bastare ad eradicare il fumo dalla sera alla mattina. Lo sappiamo e non vogliamo mai più averci a che fare. Invece persone perfettamente intelligenti e razionali continuano a fumare imperterriti.
 
 [Sanno ma non sanno]({{ 'tipi-di-sapere' | relative_url }}). Si decideranno a smettere solo quando sapranno davvero, quando un evento o una nuova consapevolezza cambierà la loro prospettiva.
 
