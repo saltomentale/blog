@@ -33,7 +33,7 @@ Spiegherò tutte le mie ipotesi.
 
 Potreste non essere d’accordo con alcune di esse e ritenere che a voi non si applichino, cosa più che lecita. Per questo motivo:
 
-    <code>Allego in fondo all’articolo il foglio di calcolo che ho usato, così che possiate verificarlo e modificarlo a piacere secondo la vostra situazione.</code>
+> Allego in fondo all’articolo il foglio di calcolo che ho usato, così che possiate verificarlo e modificarlo a piacere secondo la vostra situazione.
 
 ### Alle postazioni di partenza
 
@@ -47,8 +47,8 @@ Nota: il tipo di lavoro non mi dispiace affatto. La laurea dovrebbe dare delle o
 
 Riassumendo:
 
-    <code>RAL iniziale Milano:    30,000€
-    RAL iniziale Paesiello: 20,000€</code>
+    RAL iniziale Milano:    30,000€
+    RAL iniziale Paesiello: 20,000€
 
 Ok, da qui si parte… e qui avevo smesso di ragionare quando è toccato a me.  
 La prima domanda cui rispondere è: che impatto avrà questo RAL iniziale sul lungo periodo? Che prospettive ci sono nei due scenari?
@@ -69,8 +69,8 @@ Quello che ci interessa qui è il RAL medio annuo di entrambi gli scenari. È un
 
 Ecco i RAL medi e l’equivalente netto mensile (su 12 mensilità):
 
-    <code>Milano:    46,757€ -> 2,480€ mensili
-    Paesiello: 40,468€ -> 2,188€ mensili</code>
+    Milano:    46,757€ -> 2,480€ mensili
+    Paesiello: 40,468€ -> 2,188€ mensili
 
 ##### Straordinario!
 
@@ -84,9 +84,9 @@ Ecco il riassunto delle entrate. Da qui in poi segno nel foglio di calcolo solo 
 
 Vedete quindi una differenza di stipendio netto (+292.44€) ed una mancanza degli straordinari (-50€).
 
-    <code>Differenza Milano - Paesiello
+    Differenza Milano - Paesiello
     Stipendio netto mensile        292.44 €
-    Straordinari                   -50.00 €</code>
+    Straordinari                   -50.00 €
 
 Sulle entrate, come ci aspettavamo, Milano conviene, con un vantaggio di 242.44 € mensili. Passiamo alle uscite.
 
@@ -115,10 +115,10 @@ In treno ho una perdita di produttività del 25% = 0.25\*10 = 2.5€ / ora.
 Trascorro 2 ore al giorno su treno e metro = 5€ / giorno.  
 Mi sposto per 20 giorni al mese = 100€ / mese.
 
-    <code>Uscite per la Location
+    Uscite per la Location
     Abitazione: 100€
     Trasporti: 100€
-    Tempo in viaggio: 100€</code>
+    Tempo in viaggio: 100€
 
 > L’avete notato? Non ho inserito qui l’automobile. Se avete un’auto in più in famiglia perché serve per lavoro dovreste inserirla nell’analisi. La nota fregatura dell’_auto-munito_.
 
@@ -148,10 +148,10 @@ Due completi all’anno (200€ x 2 = 400€)
 Accessori vari (60€)  
 Totale = 800€, circa 65€ al mese
 
-    <code>Uscite per la Cultura
+    Uscite per la Cultura
     Pensare sempre al lavoro: 30€
     Eventi aziendali: 30€
-    Abbigliamento: 65€</code>
+    Abbigliamento: 65€
 
 ### Mens sana in corpore sano
 
@@ -164,10 +164,10 @@ Considerando una perdita di produttività totale del 2.5%, su 160 ore lavorative
 
 Infine, non dico certo che non si possa fare sport a Milano, in periferia o nelle cittadine connesse dal treno. Dico però che quello stile di vita e quegli ambienti sono d’intralcio per la pratica regolare. [L’ambiente ha un impatto sul nostro comportamento](/interazioni-con-lambiente/). Io ne ho risentito, mettendo su parecchi chili. Se avessi fatto quella vita per 30+ anni mi sarei ritrovato obeso e con qualche cardiopatia o diabete. I capelli comunque hanno cominciato a migrare per mai più tornare… e solo quelli valgono i miei 40€ al mese. Ma ve li giustifico diversamente: anche la forma fisica ha un serio impatto sulla produttività e la salute mentale, come avevano già capito i romani. Una perdita di produttività di un altro 2.5% mi pare conservativa. Sulle solite 160 ore mensili fanno altri 40€.
 
-    <code>Uscite per la Salute
+    Uscite per la Salute
     Qualità dell'aria: 50€
     Qualità del sonno: 40€
-    Poco esercizio: 40€</code>
+    Poco esercizio: 40€
 
 ### Relazioni
 
@@ -189,11 +189,11 @@ Facendo il pendolare, non avevo modo di inserirmi in una comunità, né uno scop
 Figli  
 Non avevamo figli quindi segno 0€. Tuttavia vale la pena pensare ai costi extra che avremmo dovuto sostenere: parenti lontani (babysitter e scuola materna), strade affollate e pericolose (scuolabus, poco esercizio) genitori al lavoro (mensa scolastica e doposcuola).
 
-    <code>Uscite per le Relazioni
+    Uscite per le Relazioni
     Famiglia: 50€
     Amicizie: 20€
     Comunità: 20€
-    Cura dei figli: 0€</code>
+    Cura dei figli: 0€
 
 Mi viene in mente una frase letta anni fa:
 
@@ -212,8 +212,8 @@ Supponiamo di fare una gita fuori porta al mese. Solo di benzina, 2+ ore di macc
 
 Vivendo al Paesiello, la nostra gita fuori porta parte da quando chiudiamo il cancello di casa: siamo letteralmente su un sentiero di montagna. Niente benzina né tempi morti e spesso non ci va neanche di mangiare fuori: c’è una bella vista dal nostro balcone.
 
-    <code>Uscite per la Libertà
-    Gite fuori porta: 50€</code>
+    Uscite per la Libertà
+    Gite fuori porta: 50€
 
 ### Tiriamo le somme
 
