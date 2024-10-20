@@ -227,6 +227,6 @@ In parte mi ferisce ammettere che per me la scelta giusta era il Paesiello. Ero 
 
 Per voi il risultato potrebbe essere diverso. Ecco quindi il file promesso: fate i vostri calcoli e guardate in faccia la realtà. Buon lavoro.
 
-[Quanto_ci_costa_lavorare]({{ '/assets/media/Il-costo-delle-cose-Lavoro.xlsx' | absolute_url }})[Scarica]({{ '/assets/media/Il-costo-delle-cose-Lavoro.xlsx' | absolute_url }})
+[Quanto_ci_costa_lavorare]({{ '/assets/media/Il-costo-delle-cose-Lavoro.xlsx' | absolute_url }})
 
     Immagine di copertina by <a href="https://unsplash.com/@flovayn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian van Duyn</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
