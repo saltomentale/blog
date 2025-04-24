@@ -3,7 +3,7 @@ author: Calt
 layout: post
 comments: true
 
-date: 2025-04-21 10:10:27:00+00:00  
+date: 2025-04-24 10:10:27:00+00:00  
 slug: quando-fare-finta-non-funziona
 excerpt: "Fingere non è il male. Il male è non sapere quando farlo."
 
