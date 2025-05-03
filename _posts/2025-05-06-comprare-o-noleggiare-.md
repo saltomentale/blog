@@ -3,7 +3,7 @@ author: Calt
 layout: post
 comments: true
 
-date: 2025-04-26 16:10:12:00+00:00  
+date: 2025-01-06 03:00:00:00+00:00  
 slug: comprare-o-noleggiare-
 excerpt: Questo è il dilemma e 25 è la risposta.
 
